@@ -70,13 +70,12 @@ advancements over top of all conventional systems.
 * Architecturally inspired by [Flow Based Programming](http://en.wikipedia.org/wiki/Flow-based_programming), a computational system created by
   J. Paul Morrison at IBM in the early 1970's.[1]
 * Will reduce software development time-to-market by a possible factor of a hundredfold.
-* Utilizes components of software that are virtual black boxes. Only concerns are the 
-  inputs and outputs.
+* Utilizes components of software that are virtual black boxes. Only concerns are the connection of inputs and outputs, but only for components that have not already been submitted to the system.
 * Atomic components are comprised of snippets of code that only do one thing and do it well.
 * Atomic components are combined to form composite components
 * Components are connected dynamically at runtime, or statically.. as needed
     * Connections of components can be assembled or dissassembled in realtime
-* Once a component is created, it never has to be written or connected again.. forever!
+* Once a component is created, it never has to be written or connected again.. forever! Yes, forever in the literal sense!
     * Distributed Database
 * The creation of new software will never need to concern itself with what has been created
   before, it just merely connects to it.
