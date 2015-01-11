@@ -115,8 +115,7 @@ WorkSource
 CodeSweet
 ---------
 
-* A suite of developer tools, in conjunction with CodeChain, is designed to reduce a 
-  software project's time-to-market by a hundredfold.
+* A suite of developer tools designed to simplify the developer experience and, in conjunction with CodeChain, reduce a software project's time-to-market by a hundredfold.
 
 
 
