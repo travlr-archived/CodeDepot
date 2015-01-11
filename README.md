@@ -61,7 +61,7 @@ CodeChain
 Essentially, CodeChain is distributed decentralized operating system that provides significant 
 advancements over top of all conventional systems. 
 
-* Architecturally inspired by [Flow Based Programming](http://en.wikipedia.org/wiki/Flow-   based_programming), a computational system created by
+* Architecturally inspired by [Flow Based Programming](http://en.wikipedia.org/wiki/Flow-based_programming), a computational system created by
   J. Paul Morrison at IBM in the early 1970's.[1]
 * Will reduce software development time-to-market by a possible factor of a hundredfold.
 * Utilizes components of software that are virtual black boxes. Only concerns are the 
