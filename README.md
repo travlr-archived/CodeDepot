@@ -17,10 +17,11 @@ Table of Contents
 4.  CodeDepot Foundation
 5.  WorkSource
 6.  CodeSweet
+7.  CodeCoin
 
 ProDataLab, a software engineering organization that because of years of experience, represents a philosiphy that software is much more complicated and fragile then it ought to be. From the user's perspective or the or from the developer's perspective.. the goal is to create a paradigm shift in software engineering that makes the software and it's development, extremely flexible, intuitive, compartmentalized, scalable, distributable, and universal across all devices. The moto ProDataLab lives by is, "Everything is a component.. Everything!"
 
-This proposal is to create a system that allows components to simply plugin and become fully integrated
+This proposal is to create an open source system that allows components to simply plugin and become fully integrated
 with any of the other components regardless of the language it was written in. Essentially it is a system
 that will have user interfaces on every hardware or software platform to interact with it. Separation of
 all concerns.. their maximal integration.. and extreme efficiency is the soul of the ecosystem described in this paper.
@@ -118,7 +119,10 @@ CodeSweet
 * A suite of developer tools designed to simplify the developer experience and, in conjunction with CodeChain, reduce a software project's time-to-market by a hundredfold.
 
 
+CodeCoin
+--------
 
+* The ecosystem's crypto-currency token for monetizing goods and services.
 
 
 
