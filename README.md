@@ -1,9 +1,11 @@
 Proposal For a Modern Software Ecosystem
 ========================================
 
-Authors: Peter Alexander, <Your-Name-Goes-Here>
-Version: 0.1
-News Group: prodatalab@librelist.com
+Authors: Peter Alexander, Your-Name-Goes-Here
+
+Version: 0.0.1
+
+News Group: codedepot@librelist.com
 
 
 Table of Contents
@@ -14,6 +16,7 @@ Table of Contents
 3.  CodeDepot
 4.  CodeDepot Foundation
 5.  WorkSource
+6.  CodeSweet
 
 ProDataLab, a software engineering organization that because of years of experience, represents a philosiphy that software is much more complicated and fragile then it ought to be. From the user's perspective or the or from the developer's perspective.. the goal is to create a paradigm shift in software engineering that makes the software and it's development, extremely flexible, intuitive, compartmentalized, scalable, distributable, and universal across all devices. The moto ProDataLab lives by is, "Everything is a component.. Everything!"
 
@@ -59,7 +62,7 @@ Essentially, CodeChain is distributed decentralized operating system that provid
 advancements over top of all conventional systems. 
 
 * Architecturally inspired by Flow Based Programming, a computational system created by
-  J. Paul Morrison at IBM in the early 1970's.[*]
+  J. Paul Morrison at IBM in the early 1970's.[1]
 * Will reduce software development time-to-market by a possible factor of a hundredfold.
 * Utilizes components of software that are virtual black boxes. Only concerns are the 
   inputs and outputs.
@@ -79,7 +82,7 @@ advancements over top of all conventional systems.
     * UI for all apps are universal and available on all possible devices.
     * Apps are synced for all devices
     * Extremely intuitive
-    * Builtin WorkSource[*] integration to customize the app or add your own features.
+    * Builtin WorkSource integration to customize the app or add your own features.
     * UI designs are built upon CodeChain components too, meaning that the experience 
       is extremely flexible and customizable to each users preferences.
 
@@ -90,13 +93,14 @@ CodeDepot
 * A decentralized market place for developers and end users
 * An interface for developers to deposit code submissions that will be used by CodeChain.
 * Developers are paid per snippet of code otherwise known as components as described in CodeChain.
-* Developers are paid for any contribution made to
+* Developers are paid for any contribution made to 
 * An interface to a store for end users to install apps from.
 
 
 CodeDepot Foundation
 --------------------
 
+* A decentralized governence model for the open source community.. by the open source community. 
 * See https://github.com/DavidJohnstonCEO/DecentralizedApplications
 
 
@@ -106,3 +110,67 @@ WorkSource
 * A decentralized market place for end users to hire developers
 * Is directly accessible from the end user's interface to CodeDepot
 * Is directly accessible from all application interfaces for seemless customization availibility.
+
+
+CodeSweet
+---------
+
+* A suite of developer tools, in conjunction with CodeChain, is designed to reduce a 
+  software project's time-to-market by a hundredfold.
+
+
+
+[1] Flow-Based Programming: http://en.wikipedia.org/wiki/Flow-based_programming
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
