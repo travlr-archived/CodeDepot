@@ -74,7 +74,7 @@ advancements over top of all conventional systems.
   inputs and outputs.
 * Atomic components are comprised of snippets of code that only do one thing and do it well.
 * Atomic components are combined to form composite components
-* Components are connected dynamically or statically as needed
+* Components are connected dynamically at runtime, or statically.. as needed
     * Connections of components can be assembled or dissassembled in realtime
 * Once a component is created, it never has to be written or connected again.. forever!
     * Distributed Database
@@ -86,8 +86,9 @@ advancements over top of all conventional systems.
     * Relegates all conventional programing paradigms as moot.
 * User Interface 
     * UI for all apps are universal and available on all possible devices.
-    * Apps are synced for all devices
-    * Extremely intuitive
+    * A UI compiler will be available for one-stop UI design to deployment on all hardware/software devices/platforms.        (See CodeSweet)
+    * Application data are securely synced for all devices/platforms.
+    * Extremely intuitive with easy access to well thought out help documentation.
     * Builtin WorkSource integration to customize the app or add your own features.
     * UI designs are built upon CodeChain components too, meaning that the experience 
       is extremely flexible and customizable to each users preferences.
@@ -106,7 +107,7 @@ CodeDepot
 CodeDepot Foundation
 --------------------
 
-* A decentralized governence model for the open source community.. by the open source community. 
+* A decentralized governence model for this ecosystem. For the open source community .. by the open source community. 
 * See https://github.com/DavidJohnstonCEO/DecentralizedApplications
 
 
