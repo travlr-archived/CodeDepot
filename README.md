@@ -27,7 +27,7 @@ Introduction
 ProDataLab, a software engineering organization that because of years of experience, represents a philosiphy that software is much more complicated and fragile then it ought to be. From the user's perspective or the or from the developer's perspective.. the goal is to create a paradigm shift in software engineering that makes the software and it's development, extremely flexible, intuitive, compartmentalized, scalable, distributable, and universal across all devices. The moto ProDataLab lives by is, "Everything is a component.. Everything!"
 
 This proposal is to create an open source system that allows components to simply plugin and become fully integrated
-with any of the other components regardless of the language it was written in. Essentially it is a system
+with any of the other components regardless of the programming language it was written in. Essentially it is a system
 that will have user interfaces on every hardware or software platform to interact with it. Separation of
 all concerns.. their maximal integration.. and extreme efficiency is the soul of the ecosystem described in this paper.
 
@@ -51,15 +51,16 @@ Described below are the components of this proposed ecosystem. Each component sh
 conjunction with all of the others, as it is the ecosystem in its whole that provides the greatest 
 value proposition.
 
-Please also note that this an early, mostly abstract version of this proposition and will become
+Please also note that this an early, most abstract version of this proposition and will become
 a fully disclosed specification for both implementation and a governence model at version 1.0. This
-proposal is itself an opensource project in that the community this proposition is intended for, 
-is most encouraged to participate in its structure and therefore this document.
+proposal is itself an open source project, in that the community this proposition is intended for, 
+is greatly encouraged to participate in its structure and therefore this document.
 
 
 Note:
     Why shouldn't the open source community have decentralized control over the majority 
-    of all software.
+    of all software out in production?
+    
 
 CodeChain
 ---------
@@ -68,14 +69,14 @@ Essentially, CodeChain is distributed decentralized operating system that provid
 advancements over top of all conventional systems. 
 
 * Architecturally inspired by [Flow Based Programming](http://en.wikipedia.org/wiki/Flow-based_programming), a computational system created by
-  J. Paul Morrison at IBM in the early 1970's.[1]
+  J. Paul Morrison at IBM in the early 1970's.
 * Will reduce software development time-to-market by a possible factor of a hundredfold.
 * Utilizes components of software that are virtual black boxes. Only concerns are the connection of inputs and outputs, but only for components that have not already been submitted to the system.
 * Atomic components are comprised of snippets of code that only do one thing and do it well.
 * Atomic components are combined to form composite components
 * Components are connected dynamically at runtime, or statically.. as needed
     * Connections of components can be assembled or dissassembled in realtime
-* Once a component is created, it never has to be written or connected again.. forever! Yes, forever in the literal sense!
+* Once a component is created, it never has to be written or connected again.. forever! ..yes, forever in the literal sense.
     * Distributed Database
 * The creation of new software will never need to concern itself with what has been created
   before, it just merely connects to it.
@@ -83,24 +84,27 @@ advancements over top of all conventional systems.
     * No more conventional APIs
     * No more cross language barriers.
     * Relegates all conventional programing paradigms as moot.
+* Can easily integrate with any existing, soon to be legacy, system.
 * User Interface 
     * UI for all apps are universal and available on all possible devices.
-    * A UI compiler will be available for one-stop UI design to deployment on all hardware/software devices/platforms.        (See CodeSweet)
+    * A UI compiler will be available for one-stop UI design-to-deployment on all hardware/software devices/platforms.        (See CodeSweet)
     * Application data are securely synced for all devices/platforms.
     * Extremely intuitive with easy access to well thought out help documentation.
-    * Builtin WorkSource integration to customize the app or add your own features.
     * UI designs are built upon CodeChain components too, meaning that the experience 
       is extremely flexible and customizable to each users preferences.
+    * Builtin WorkSource integration for common end users to hire freelancers.
+        * Customization and personal needs above and beyond builtin flexible usage.
+
 
 
 CodeDepot
 ---------
 
-* A decentralized market place for developers and end users
+* A decentralized software market place for developers and end users.
 * An interface for developers to deposit code submissions that will be used by CodeChain.
-* Developers are paid per snippet of code otherwise known as components as described in CodeChain.
-* Developers are paid for any contribution made to 
-* An interface to a store for end users to install apps from.
+* An interface for documentation and other associated content producers.
+* Developers are paid per snippet of code, otherwise known as components as described in CodeChain.
+* An interface to a app store for end users to install software from.
 
 
 CodeDepot Foundation
@@ -128,9 +132,6 @@ CodeCoin
 --------
 
 * The ecosystem's crypto-currency token for monetizing goods and services.
-
-
-
 
 
 
