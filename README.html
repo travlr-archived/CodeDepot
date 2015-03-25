@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.11: http://docutils.sourceforge.net/" />
+<title>Proposal for a Modern Software Ecosystem</title>
+<style type="text/css">
+
+/*
+:Author: David Goodger (goodger@python.org)
+:Id: $Id: html4css1.css 7614 2013-02-21 15:55:51Z milde $
+:Copyright: This stylesheet has been placed in the public domain.
+
+Default cascading style sheet for the HTML output of Docutils.
+
+See http://docutils.sf.net/docs/howto/html-stylesheets.html for how to
+customize this style sheet.
+*/
+
+/* used to remove borders from tables and images */
+.borderless, table.borderless td, table.borderless th {
+  border: 0 }
+
+table.borderless td, table.borderless th {
+  /* Override padding for "table.docutils td" with "! important".
+     The right padding separates the table cells. */
+  padding: 0 0.5em 0 0 ! important }
+
+.first {
+  /* Override more specific margin styles with "! important". */
+  margin-top: 0 ! important }
+
+.last, .with-subtitle {
+  margin-bottom: 0 ! important }
+
+.hidden {
+  display: none }
+
+a.toc-backref {
+  text-decoration: none ;
+  color: black }
+
+blockquote.epigraph {
+  margin: 2em 5em ; }
+
+dl.docutils dd {
+  margin-bottom: 0.5em }
+
+object[type="image/svg+xml"], object[type="application/x-shockwave-flash"] {
+  overflow: hidden;
+}
+
+/* Uncomment (and remove this text!) to get bold-faced definition list terms
+dl.docutils dt {
+  font-weight: bold }
+*/
+
+div.abstract {
+  margin: 2em 5em }
+
+div.abstract p.topic-title {
+  font-weight: bold ;
+  text-align: center }
+
+div.admonition, div.attention, div.caution, div.danger, div.error,
+div.hint, div.important, div.note, div.tip, div.warning {
+  margin: 2em ;
+  border: medium outset ;
+  padding: 1em }
+
+div.admonition p.admonition-title, div.hint p.admonition-title,
+div.important p.admonition-title, div.note p.admonition-title,
+div.tip p.admonition-title {
+  font-weight: bold ;
+  font-family: sans-serif }
+
+div.attention p.admonition-title, div.caution p.admonition-title,
+div.danger p.admonition-title, div.error p.admonition-title,
+div.warning p.admonition-title, .code .error {
+  color: red ;
+  font-weight: bold ;
+  font-family: sans-serif }
+
+/* Uncomment (and remove this text!) to get reduced vertical space in
+   compound paragraphs.
+div.compound .compound-first, div.compound .compound-middle {
+  margin-bottom: 0.5em }
+
+div.compound .compound-last, div.compound .compound-middle {
+  margin-top: 0.5em }
+*/
+
+div.dedication {
+  margin: 2em 5em ;
+  text-align: center ;
+  font-style: italic }
+
+div.dedication p.topic-title {
+  font-weight: bold ;
+  font-style: normal }
+
+div.figure {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+div.footer, div.header {
+  clear: both;
+  font-size: smaller }
+
+div.line-block {
+  display: block ;
+  margin-top: 1em ;
+  margin-bottom: 1em }
+
+div.line-block div.line-block {
+  margin-top: 0 ;
+  margin-bottom: 0 ;
+  margin-left: 1.5em }
+
+div.sidebar {
+  margin: 0 0 0.5em 1em ;
+  border: medium outset ;
+  padding: 1em ;
+  background-color: #ffffee ;
+  width: 40% ;
+  float: right ;
+  clear: right }
+
+div.sidebar p.rubric {
+  font-family: sans-serif ;
+  font-size: medium }
+
+div.system-messages {
+  margin: 5em }
+
+div.system-messages h1 {
+  color: red }
+
+div.system-message {
+  border: medium outset ;
+  padding: 1em }
+
+div.system-message p.system-message-title {
+  color: red ;
+  font-weight: bold }
+
+div.topic {
+  margin: 2em }
+
+h1.section-subtitle, h2.section-subtitle, h3.section-subtitle,
+h4.section-subtitle, h5.section-subtitle, h6.section-subtitle {
+  margin-top: 0.4em }
+
+h1.title {
+  text-align: center }
+
+h2.subtitle {
+  text-align: center }
+
+hr.docutils {
+  width: 75% }
+
+img.align-left, .figure.align-left, object.align-left {
+  clear: left ;
+  float: left ;
+  margin-right: 1em }
+
+img.align-right, .figure.align-right, object.align-right {
+  clear: right ;
+  float: right ;
+  margin-left: 1em }
+
+img.align-center, .figure.align-center, object.align-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.align-left {
+  text-align: left }
+
+.align-center {
+  clear: both ;
+  text-align: center }
+
+.align-right {
+  text-align: right }
+
+/* reset inner alignment in figures */
+div.align-right {
+  text-align: inherit }
+
+/* div.align-center * { */
+/*   text-align: left } */
+
+ol.simple, ul.simple {
+  margin-bottom: 1em }
+
+ol.arabic {
+  list-style: decimal }
+
+ol.loweralpha {
+  list-style: lower-alpha }
+
+ol.upperalpha {
+  list-style: upper-alpha }
+
+ol.lowerroman {
+  list-style: lower-roman }
+
+ol.upperroman {
+  list-style: upper-roman }
+
+p.attribution {
+  text-align: right ;
+  margin-left: 50% }
+
+p.caption {
+  font-style: italic }
+
+p.credits {
+  font-style: italic ;
+  font-size: smaller }
+
+p.label {
+  white-space: nowrap }
+
+p.rubric {
+  font-weight: bold ;
+  font-size: larger ;
+  color: maroon ;
+  text-align: center }
+
+p.sidebar-title {
+  font-family: sans-serif ;
+  font-weight: bold ;
+  font-size: larger }
+
+p.sidebar-subtitle {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+p.topic-title {
+  font-weight: bold }
+
+pre.address {
+  margin-bottom: 0 ;
+  margin-top: 0 ;
+  font: inherit }
+
+pre.literal-block, pre.doctest-block, pre.math, pre.code {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+pre.code .ln { color: grey; } /* line numbers */
+pre.code, code { background-color: #eeeeee }
+pre.code .comment, code .comment { color: #5C6576 }
+pre.code .keyword, code .keyword { color: #3B0D06; font-weight: bold }
+pre.code .literal.string, code .literal.string { color: #0C5404 }
+pre.code .name.builtin, code .name.builtin { color: #352B84 }
+pre.code .deleted, code .deleted { background-color: #DEB0A1}
+pre.code .inserted, code .inserted { background-color: #A3D289}
+
+span.classifier {
+  font-family: sans-serif ;
+  font-style: oblique }
+
+span.classifier-delimiter {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+span.interpreted {
+  font-family: sans-serif }
+
+span.option {
+  white-space: nowrap }
+
+span.pre {
+  white-space: pre }
+
+span.problematic {
+  color: red }
+
+span.section-subtitle {
+  /* font-size relative to parent (h1..h6 element) */
+  font-size: 80% }
+
+table.citation {
+  border-left: solid 1px gray;
+  margin-left: 1px }
+
+table.docinfo {
+  margin: 2em 4em }
+
+table.docutils {
+  margin-top: 0.5em ;
+  margin-bottom: 0.5em }
+
+table.footnote {
+  border-left: solid 1px black;
+  margin-left: 1px }
+
+table.docutils td, table.docutils th,
+table.docinfo td, table.docinfo th {
+  padding-left: 0.5em ;
+  padding-right: 0.5em ;
+  vertical-align: top }
+
+table.docutils th.field-name, table.docinfo th.docinfo-name {
+  font-weight: bold ;
+  text-align: left ;
+  white-space: nowrap ;
+  padding-left: 0 }
+
+/* "booktabs" style (no vertical lines) */
+table.docutils.booktabs {
+  border: 0px;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+  border-collapse: collapse;
+}
+table.docutils.booktabs * {
+  border: 0px;
+}
+table.docutils.booktabs th {
+  border-bottom: thin solid;
+  text-align: left;
+}
+
+h1 tt.docutils, h2 tt.docutils, h3 tt.docutils,
+h4 tt.docutils, h5 tt.docutils, h6 tt.docutils {
+  font-size: 100% }
+
+ul.auto-toc {
+  list-style-type: none }
+
+</style>
+</head>
+<body>
+<div class="document" id="proposal-for-a-modern-software-ecosystem">
+<h1 class="title">Proposal for a Modern Software Ecosystem</h1>
+
+<div class="contents topic" id="table-of-contents">
+<p class="topic-title first">Table of Contents</p>
+<ul class="simple">
+<li><a class="reference internal" href="#overview" id="id44">Overview</a></li>
+<li><a class="reference internal" href="#introduction" id="id45">Introduction</a></li>
+<li><a class="reference internal" href="#the-codedepot-foundation" id="id46">The CodeDepot Foundation</a><ul>
+<li><a class="reference internal" href="#id1" id="id47">Overview</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#codecoin-the-currency-of-the-ecosystem" id="id48">CodeCoin, The currency of the ecosystem</a></li>
+<li><a class="reference internal" href="#codedepot-the-decentralized-software-market-place-and-code-repository" id="id49">CodeDepot, The decentralized software market place and code repository</a></li>
+<li><a class="reference internal" href="#codechain-the-decentralized-processing-engine" id="id50">CodeChain, The decentralized processing engine</a><ul>
+<li><a class="reference internal" href="#id6" id="id51">Overview</a></li>
+<li><a class="reference internal" href="#fbp-the-architectural-inspiration" id="id52">FBP: The Architectural Inspiration</a></li>
+<li><a class="reference internal" href="#limitations-of-fbp" id="id53">Limitations of FBP</a></li>
+<li><a class="reference internal" href="#component-based-programming" id="id54">Component Based Programming</a></li>
+<li><a class="reference internal" href="#decentralized-network" id="id55">Decentralized Network</a></li>
+<li><a class="reference internal" href="#processor-node" id="id56">Processor Node</a></li>
+<li><a class="reference internal" href="#secure-computing" id="id57">Secure Computing</a></li>
+<li><a class="reference internal" href="#micro-payment-calculation" id="id58">Micro-payment Calculation</a></li>
+<li><a class="reference internal" href="#user-interfaces-are-very-flexible-thin-clients" id="id59">User Interfaces are Very Flexible Thin Clients</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#worksource" id="id60">WorkSource</a><ul>
+<li><a class="reference internal" href="#id21" id="id61">Overview</a></li>
+<li><a class="reference internal" href="#id22" id="id62">Introduction</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#codesweet" id="id63">CodeSweet</a></li>
+</ul>
+</div>
+<div class="section" id="overview">
+<h1><a class="toc-backref" href="#id44">Overview</a></h1>
+<div class="note">
+<p class="first admonition-title">Note</p>
+<p class="last">Need area for a realistic road-map of finished products !!!!!!!!!!!!!!!!!!!!!!!!!!</p>
+</div>
+<p>Bob Dylan once wrote a song titled &quot;Everything is Broken&quot;. We take that notion and consider
+it quite apropos for the conventions in today's software usage, sales, production and
+execution. A participant can find inefficiencies and un-warranted complexities practically
+everywhere in today's environment. We ask the reader to take a moment and
+think of their own experiences with software. Have you ever found yourself frustrated?
+Have you ever considered some aspect overly complicated, un-intuitive or in-flexible and
+thought to yourself &quot;it shouldn't have
+to be this way&quot;?</p>
+<p>An end-user of software might have thought of how hard it is to get familiar with a
+software product or that the documentation and help system are simply not much help.
+They might have wished for a feature they needed to be available or that the there are
+too many features packed into the product. Small business owners may find navigating the
+obstacle course of software system selection and integration impossible for mere mortals.
+Software engineers may have thought of many areas of foolishness that surround their
+profession. The lists of areas ripe for innovation surrounding the software ecosystem
+are quite abundant.</p>
+<p>Other aspects of concern and inefficiency can be seen in the marketplace itself. Golieth
+sized companies hold monopolistic power over software marketplace silos. These concentrated
+marketplaces take large percentage
+commissions from a lowly software producer's product sales. They dictate rules that are
+at times overly stringent or simply used to control the domination they hold in the market.</p>
+<p>The readers of this paper are asked to consider very thoughtfully what they themselves,
+specifically, would have improved, because it is that specific item or list of items that
+will be fixed by what is proposed in this paper and its addendums.</p>
+<p>This paper is currently in its first draft and is itself an open source project for inspired
+persons to contribute their ideas to. Eventually it will reach a 1.0 status at which point it
+will have the appearance more of a specification than of merely a white paper. At this point
+I encourage you to envision the possibilities of a collaborative effort to change the current
+paradigm surrounding the production, consumption and usage of software. You are encouraged to
+join this effort to modernize the entire software ecosystem via open source software.
+Please become a contributing member of the CodeDepot Community.</p>
+<p>:NOTE:: Say: Bring _your_ innovations and implement them.</p>
+</div>
+<div class="section" id="introduction">
+<h1><a class="toc-backref" href="#id45">Introduction</a></h1>
+<p>Software is ubiquitous in our lives whether we are users or producers. Yet, even a less than
+astute observer can see that the entire ecosystem is ripe for innovation. In this paper we will
+begin a conversation of the direction of the needed improvements and we ask the community
+to participate. This community that is mentioned, are the people that engage with software
+whether it be in its production, sales or usage; whether they are casual or power users. Having
+discussion and contribution
+globally and easily, will ensure that the best solutions of problems we all identify, will be
+addressed most thoroughly and efficiently.</p>
+<p>Below are the introductions to six foundational pillars of a proposed software ecosystem
+that may forever change the entire paradigm of our engagement with software. Following each
+introduction is a link to a addendum paper that will explain that particular component in
+greater detail. What is presented at this time are merely proposals that will be refined by any
+willing individual participant and all the participants in whole. The paper also will introduce other
+worthy aspects and notations pertinent to the execution of this proposal.</p>
+</div>
+<div class="section" id="the-codedepot-foundation">
+<h1><a class="toc-backref" href="#id46">The CodeDepot Foundation</a></h1>
+<p>Together, an engaged society will undoubtedly find the best solutions to issues that face them. Over
+the past 40 years, the open source community has shown that open participation most often
+provides better results than that of a closed system. We present here a decentralized organization
+where every member of the community has the opportunity provide direction through proposals,
+discussion and ultimately to that of solutions. We suggest that Decentralized Autonomous Organizations,
+a new concept now available through cutting edge technology, will provide many benifits over
+conventional, centralized organizational structures where they are applicable.</p>
+<div class="section" id="id1">
+<h2><a class="toc-backref" href="#id47">Overview</a></h2>
+<p>The CodeDepot Foundation is the working name of a proposed open governance model for the
+CodeDepot ecosystem; where directives and decisions are decentralized and democratized
+amongst the entire community <a class="footnote-reference" href="#id24" id="id2">[1]</a>. This notion of decentralized governance is aimed at stemming
+the problems of any centralized governing system that naturally creates levels of control <a class="footnote-reference" href="#id25" id="id3">[2]</a>.</p>
+<blockquote>
+<p>Bitcoin's underlying technology of the blockchain <a class="footnote-reference" href="#id26" id="id4">[3]</a>, brings a radical departure from the
+governance model of the old world. It follows trends of decentralization that have emerged
+through the internet in recent years including Bittorrent, Free Software and Open Source
+Movements and collaborative production platforms like Linux and Wikipedia. The essence of this
+game-changing invention is distributed trust (no need for third party reconciliation). Bitcoin
+solves the scaling issue of trust. With its decentralized security, we can now create a more open and
+inclusive society at a global scale.</p>
+<p>Bitcoin's decentralized system opens a door to a new paradigm where people can choose to abide by
+a protocol of consensus which is a different from the logic of domination and control of a
+centralized paradigm. Technology can't solve everything. Technology is just a tool. It always needs
+to be accounted for by democratic consensus of people.
+Technology should never be used to replace human interaction and connection and it should be
+used only to enhance it. <a class="footnote-reference" href="#id27" id="id5">[4]</a></p>
+</blockquote>
+</div>
+</div>
+<div class="section" id="codecoin-the-currency-of-the-ecosystem">
+<h1><a class="toc-backref" href="#id48">CodeCoin, The currency of the ecosystem</a></h1>
+<p>The invention of blockchain technology in 2008 has provided for the world a whole paradigm
+shift in financial and contractual mechanisms. It is truly a marvel that will disrupt many
+many incumbent institutions. Systems that once required intermediaries and centralized
+solutions can now be peer to peer and decentralized. Trust of persons and entities unknown
+can know be established without the need of 3rd parties for verification or validation.
+Moneys can now be sent digitally without any concern for fraud or corruption. Ability to make
+payments in fractions of a penny are now facilitated. These are truly
+amazing times and we as a community of software engagers can benefit from this remarkability</p>
+<p>CodeCoin is the proposed crytpocurrency that will be used in this software ecosystem. It is
+essentially a token that will be used to monetize all the goods and services within the ecosystem. This
+cryptocurrency will be at the center of a well considered autonomous economic model of incentives and
+disincentives formulated by the community. As with other aspects of this proposal, an emphasis
+for thought leaders to be engaged in these models is vehemently sought after and strongly encouraged.</p>
+</div>
+<div class="section" id="codedepot-the-decentralized-software-market-place-and-code-repository">
+<h1><a class="toc-backref" href="#id49">CodeDepot, The decentralized software market place and code repository</a></h1>
+<p>The core component of the ecosystem is a marketplace where users and producers engage.
+This itself is composed of two parts where developers will deposit code into the system
+and users will have an interface to utilize it.</p>
+<div class="note">
+<p class="first admonition-title">Note</p>
+<p class="last"><a class="reference external" href="http://usabilitygeek.com/empathy-and-technology-relationship-makes-good-design-better/">http://usabilitygeek.com/empathy-and-technology-relationship-makes-good-design-better/</a></p>
+</div>
+<p>As described in the section for CodeChain, developers will be rights holders for what essentially
+are snippets of code called components in this paper's nomenclature. The assemblage of
+components yields other composite components or finally applications that end-users
+will utilize for their needs. Users will have many advantages over conventional software
+produced today including but not limited to:</p>
+<blockquote>
+<ul class="simple">
+<li>Flexibility</li>
+<li>Scalability</li>
+<li>Security</li>
+<li>Ease of use</li>
+<li>Accessibility</li>
+</ul>
+</blockquote>
+<p>Mechanisms will be built-in that provide the end-user the ability to:</p>
+<blockquote>
+<ul class="simple">
+<li>Give instantaneous feedback.</li>
+<li>Directly request alterations or needed features.</li>
+<li>Intuitive, complete documentation and autonomous tutelage.</li>
+<li>Hire affordable freelancers directly from their user-interface
+* For asistance or instruction
+* For software developers to provide any possibly needed customization.</li>
+</ul>
+</blockquote>
+<div class="note">
+<p class="first admonition-title">Note</p>
+<p class="last">Mention that CD is also for technical orientated content like documentation, tutorials, articles,
+blogs, audio and video productions.</p>
+</div>
+</div>
+<div class="section" id="codechain-the-decentralized-processing-engine">
+<h1><a class="toc-backref" href="#id50">CodeChain, The decentralized processing engine</a></h1>
+<p>The problems with the conventional programming paradigm are numerous. In fact, at the time
+of the initial draft of this paper, Querying Google's search engine for &quot;The problems with
+programming languages&quot; produced nearly 72 million results. It seems fruitless
+to itemize these problems, let alone the problems of the entire software centric paradigm,
+as a comparison to what is here proposed. Instead as an introduction we ask the following questions.</p>
+<blockquote>
+<ol class="arabic simple">
+<li>What if snippets of software were in essence Lego like reusable components that just snapped together into a desired structure?</li>
+<li>What if once a component or a structure of components was created, it would never have to be created again by anyone? Yes, ever again as in the literal sense of forever.</li>
+<li>What if once a component was created it would be shared by every piece of running software in the world that required it?</li>
+<li>What if an executing software system, even a mission critical system, could be altered or replaced without even a nanosecond of down-time.</li>
+<li>What if it did not matter which programming language was used to create an individual component and that any component could seemlessly communicate with others?</li>
+<li>What if a software producer's time-to-market was reduced by a hundredfold?</li>
+<li>What if a software's execuation was most reliable and the most possibly secure from intrusion?</li>
+<li>What if a software user's privacy was held in the highest regard.</li>
+</ol>
+</blockquote>
+<p>CodeChain, it will be shown, is a system that could and will provide these desirable properties as well
+as others.</p>
+<div class="section" id="id6">
+<h2><a class="toc-backref" href="#id51">Overview</a></h2>
+<p>CodeChain is a decentralized <a class="footnote-reference" href="#id28" id="id7">[5]</a> operating system <a class="footnote-reference" href="#id29" id="id8">[6]</a> which at its core reflects
+the philosphy of component based software engineering (CBSE) <a class="footnote-reference" href="#id30" id="id9">[7]</a> and is entirely inspired by
+J.Paul Morrison's <a class="footnote-reference" href="#id31" id="id10">[8]</a> Flow-Based Programming (FBP) <a class="footnote-reference" href="#id32" id="id11">[9]</a>. The concepts of FBP are
+improved with secure decentralized computing, communication and database models from
+various sources including
+BitCoin <a class="footnote-reference" href="#id33" id="id12">[10]</a>, BitTorrent <a class="footnote-reference" href="#id34" id="id13">[11]</a>. CBSE exhibits the very desirable property
+of loose coupling <a class="footnote-reference" href="#id35" id="id14">[12]</a>. FBP, a particular form of dataflow programming <a class="footnote-reference" href="#id36" id="id15">[13]</a> extends loose
+coupling to define bounded buffers, information packets with defined lifetimes, named ports,
+and most importantly a separate (lazy) definition of communication connections <a class="footnote-reference" href="#id37" id="id16">[14]</a>.</p>
+</div>
+<div class="section" id="fbp-the-architectural-inspiration">
+<h2><a class="toc-backref" href="#id52">FBP: The Architectural Inspiration</a></h2>
+<div class="note">
+<p class="first admonition-title">Note</p>
+<p class="last">The following is taken from J.Paul Morrison's Website <a href="#id38"><span class="problematic" id="id39"><span id="id17"></span>[#]_</span></a>.</p>
+</div>
+<p>Flow-Based Programming is a programming paradigm that uses a &quot;data factory&quot; metaphor
+for designing and building software applications. Applications are defined as networks
+of &quot;black box&quot; processes, which exchange data across predefined connections by message
+passing, where the connections are specified external to the processes. These black
+box processes can be reconnected endlessly to form different applications without having
+to be changed internally. FBP is thus naturally component orientated.</p>
+<p>It views an application not as a single, sequential process, which starts at a point
+in time, and then does one thing at a time until it is finished, but as a network
+of asynchronous processes communicating by means of streams of structured data chunks,
+called &quot;information packets&quot; (IPs). In this view, the focus is on the application
+data and the transformations applied to it to produce the desired outputs.
+The network is defined externally to the processes, as a list of connections
+which is interpreted by a piece of software, usually called the &quot;scheduler&quot;.</p>
+<p>The processes communicate by means of fixed-capacity connections. A connection is
+attached to a process by means of a port, which has a name agreed upon between
+the process code and the network definition. More than one process can execute
+the same piece of code. At any point in time, a given IP can only be &quot;owned&quot; by
+a single process, or be in transit between two processes. Ports may either be
+simple, or array-type. It is the combination of ports with asynchronous processes that
+allows many long-running primitive functions of data processing, such as Sort,
+Merge, Summarize, Collate, etc., to be supported in the form of software black boxes.</p>
+<p>Because FBP processes can continue executing as long they have data to work on and
+somewhere to put their output, FBP applications generally run in less elapsed time
+than conventional programs, and make optimal use of all the processors on a machine,
+with no special programming required to achieve this.</p>
+<p>The network definition is usually diagrammatic (see: 'Component Based Programming' below), and is
+converted into a connection list in some lower-level language or notation. FBP
+is thus a visual programming language at this level. More complex network definitions
+have a hierarchical structure, being built up from subnets with &quot;sticky&quot; connections .</p>
+<p>FBP has much in common with the Linda language in that it is, in Gelernter and
+Carriero's terminology, a &quot;coordination language&quot;: it is essentially
+language-independent. Indeed, given a scheduler written in a sufficiently low-level
+language, components written in different languages can be linked together in a single
+network. FBP thus lends itself to the concept of domain-specific languages or
+&quot;mini-languages&quot;.</p>
+<p>FBP exhibits &quot;data coupling&quot;, described in the article on coupling[*] as the loosest type
+of coupling between components. The concept of loose coupling is in turn related to that
+of service-oriented architectures, and FBP fits a number of the criteria for such an
+architecture, albeit at a more fine-grained level than most examples of this architecture.</p>
+<p>FBP promotes high-level, functional style of specifications that simplify reasoning
+about system behavior. An example of this is the distributed data flow model for
+constructively specifying and analyzing the semantics of distributed multi-party protocols.</p>
+</div>
+<div class="section" id="limitations-of-fbp">
+<h2><a class="toc-backref" href="#id53">Limitations of FBP</a></h2>
+<p>At a superficial level, FBP is an ideal programming paradigm that offers quite a few
+benefits over conventional paradigms. At scale though, there is a limiting condition of
+context switching, especially so on conventional general purpose CPUs <a href="#id38"><span class="problematic" id="id40"><span id="id18"></span>[#]_</span></a>. For an FBP paradigm at scale,
+a point will be reached where the
+number of
+context switches on a single machine CPU, overwhelms the system and causes notable latency.
+On average context switching costs approximately 30 microseconds of
+overhead per occurrence. One benchmark of the theoretical limitations of context switching has an upper
+bound of 18.75% of CPU cycles wasted due to context switching. Generally, optimal CPU
+use, is to have the same number of worker threads as there are hardware threads when a process is CPU bound,
+whereas I/O bound permit more <a href="#id38"><span class="problematic" id="id41"><span id="id19"></span>[#]_</span></a>.
+These considerations puts the FBP paradigm at very much a disadvantaged ideal of maximal
+efficiency.</p>
+</div>
+<div class="section" id="component-based-programming">
+<h2><a class="toc-backref" href="#id54">Component Based Programming</a></h2>
+<p>In order to overcome the conditional limitations of context switching per processing node in an
+strictly FBP paradigm, we provide here an area of consideration to help maximize the efficacy of the CodeChain
+system. The term Component-based Programming (CBP) is coined here for the purpose of a enlisting a stronger
+emphasis on components over that of data flow as it is for FBP.</p>
+<p>The concepts fundamental to FBP (autonomous black-box components loosely coupled via lazy linkage)
+can be easily
+considered at the various phases of the compilation stack prior to execution. Essentially, what this means
+is that we can remove the constraints from that of each component needing to be its own execution process
+or thread, yet
+still be most loosely coupled. We can redefine components to that of a virtual model that can then be
+implemented by encompassing
+one or all of the compilation's translation stages prior to execution.</p>
+<blockquote>
+<ol class="arabic simple">
+<li>Source code</li>
+<li>Semantic analysis</li>
+<li>Intermediate Representation (IR) code and its linkage</li>
+<li>Machine code and its linkage</li>
+<li>Just-In-Time compilation or interpreter engine</li>
+</ol>
+</blockquote>
+<p>Another most exciting and promising consideration is to apply the notion of CBP to include that of speciality hardware
+processors like that of GPGPUs <a href="#id38"><span class="problematic" id="id42"><span id="id20"></span>[#]_</span></a>. GPGPUs provide a processing model of thousands
+concurrently executing threads. Utilizing these high-scale concurrent processors, one can imagine the
+promise of the original FBP concept of inter-communicating processes/threads without the extreme burdens
+imposed when merely targeting that of a CPU architecture.</p>
+</div>
+<div class="section" id="decentralized-network">
+<h2><a class="toc-backref" href="#id55">Decentralized Network</a></h2>
+</div>
+<div class="section" id="processor-node">
+<h2><a class="toc-backref" href="#id56">Processor Node</a></h2>
+</div>
+<div class="section" id="secure-computing">
+<h2><a class="toc-backref" href="#id57">Secure Computing</a></h2>
+<!-- zkSNARKS for C -->
+</div>
+<div class="section" id="micro-payment-calculation">
+<h2><a class="toc-backref" href="#id58">Micro-payment Calculation</a></h2>
+</div>
+<div class="section" id="user-interfaces-are-very-flexible-thin-clients">
+<h2><a class="toc-backref" href="#id59">User Interfaces are Very Flexible Thin Clients</a></h2>
+</div>
+</div>
+<div class="section" id="worksource">
+<h1><a class="toc-backref" href="#id60">WorkSource</a></h1>
+<p>WorkSource is the proposal for a open governence, decentralized, peer to peer marketplace for end-users
+to hire freelancers.
+It will employ modern cutting edge technology for monetization, accounting, contractual obligation and
+in the case needed, arbitration. The most prominent aim is to incorporate very simple access and functionality directly
+into the CodeDepot user-interfaces. Unlike current freelance market places, freelancers will be made to
+feel as equals and not
+of a second class as compared to employers.</p>
+<p>Non-technical users of software often find themselves in need of instruction or in need of customization. By
+incorporating direct and easy contact with software professionals, the users needs can be addressed
+painlessly, immediately and reliably.</p>
+<p>Technical users find themselves paying exorbitant fees to hire developers at conventional centralized
+services. Often the employer will find these services confusing, frustrating and simply inadequate.</p>
+<p>Freelancers will often find that scanning and applying for jobs simply is too time consuming.</p>
+<div class="section" id="id21">
+<h2><a class="toc-backref" href="#id61">Overview</a></h2>
+<p>Current freelance and other work sourcing like exchanges are usually run by a
+centralized corporate entity that enjoy a significant percentage of the
+cost of the transaction together with collecting monthly fees. In a decentralized;
+self-governed; peer-to-peer (P2P) marketplace there isn't any centralized entity,
+just a community of colleagues and clients. Freelancers enjoy the near entirety
+of the proceeds of their transactions without some third party dipping their
+greedy hands in.</p>
+<p>New technologies, most significantly bitcoin's blockchain, have now enabled P2P
+marketplaces to thrive unencumbered by any need of a centralized entity or 3rd party.
+The need for trust is virtually eliminated providing free, flat, P2P markets.</p>
+<p>WorkSource will be decentralized community effort that will provide reliable sources of
+service providers to those that need such services. Current cryptocurrency and other
+new technology make it possible to enable most efficient market ecosystems where trust
+and incentive/disincentive mechanisms are automated and built right in to the platform. This
+together with ideas generated and implemented by the community will make the platform
+most desirable and efficient to participate in.</p>
+</div>
+<div class="section" id="id22">
+<h2><a class="toc-backref" href="#id62">Introduction</a></h2>
+<blockquote>
+WorkSource will be a superset community of sectoral communities for instance that of
+the software sector, namely CodeDepot <a href="#id38"><span class="problematic" id="id43"><span id="id23"></span>[#]_</span></a>.</blockquote>
+</div>
+</div>
+<div class="section" id="codesweet">
+<h1><a class="toc-backref" href="#id63">CodeSweet</a></h1>
+<p>A programmers toolbox is most often burdensome and time consuming to get productive with. It could be
+argued that every tool in use by engineers is in some way problematic or simply incomplete. If every
+aspect of every tool and its interface were a component, then the programmer could fashion their tool
+and hence their toolbox to be just the way they liked it.</p>
+<p>CodeSweet will be a component based toolkit where engineers have the ability to add features that they
+deem worthy.. leaving any others behind. Features like automation, intuitive instruction and ease of
+use will be of strong focus.</p>
+<div class="admonition-todo admonition">
+<p class="first admonition-title">ToDo</p>
+<p class="last">Emphasize the CodeChain Toolbox and how the goal is to make software production unbelievably seemless !</p>
+</div>
+<p>Other aspects will include:</p>
+<blockquote>
+<ul class="simple">
+<li>The best documentation tools and interfaces</li>
+<li>Employing automation as much as possible</li>
+<li>Search and reference to be topped by no other</li>
+<li>Intuition</li>
+<li>Cutting edge compilation and translation chains</li>
+</ul>
+</blockquote>
+<table class="docutils footnote" frame="void" id="id24" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id2">[1]</a></td><td>Decentralized Computing
+<a class="reference external" href="http://en.wikipedia.org/wiki/Decentralized_computing">http://en.wikipedia.org/wiki/Decentralized_computing</a></td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id25" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id3">[2]</a></td><td>Here we define an operating system as not including kernel duties of hardware interfacing.</td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id26" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id4">[3]</a></td><td>Component-Based Software Engineering
+<a class="reference external" href="http://en.wikipedia.org/wiki/Component-based_software_engineering">http://en.wikipedia.org/wiki/Component-based_software_engineering</a></td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id27" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id5">[4]</a></td><td>J. Paul Morrison
+<a class="reference external" href="http://en.wikipedia.org/wiki/John_Paul_Morrison">http://en.wikipedia.org/wiki/John_Paul_Morrison</a></td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id28" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id7">[5]</a></td><td>Flow-Based Programming
+<a class="reference external" href="http://en.wikipedia.org/wiki/Flow-based_programming">http://en.wikipedia.org/wiki/Flow-based_programming</a></td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id29" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id8">[6]</a></td><td>Bitcoin
+<a class="reference external" href="http://en.wikipedia.org/wiki/Bitcoin">http://en.wikipedia.org/wiki/Bitcoin</a></td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id30" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id9">[7]</a></td><td>BitTorrent
+<a class="reference external" href="http://en.wikipedia.org/wiki/BitTorrent">http://en.wikipedia.org/wiki/BitTorrent</a></td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id31" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id10">[8]</a></td><td>Loose Coupling
+<a class="reference external" href="http://en.wikipedia.org/wiki/Loose_coupling">http://en.wikipedia.org/wiki/Loose_coupling</a></td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id32" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id11">[9]</a></td><td>Dataflow Programming
+<a class="reference external" href="http://en.wikipedia.org/wiki/Dataflow_programming">http://en.wikipedia.org/wiki/Dataflow_programming</a></td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id33" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id12">[10]</a></td><td>Flow-Based Programming 2nd Edition
+<a class="reference external" href="http://www.amazon.com/Flow-Based-Programming-J-Paul-Morrison-ebook/dp/B004PLO66O">http://www.amazon.com/Flow-Based-Programming-J-Paul-Morrison-ebook/dp/B004PLO66O</a></td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id34" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id13">[11]</a></td><td>J.Paul Morrison's Website
+<a class="reference external" href="http://www.jpaulmorrison.com/fbp">http://www.jpaulmorrison.com/fbp</a></td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id35" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id14">[12]</a></td><td>Context Switch
+<a class="reference external" href="http://en.wikipedia.org/wiki/Context_switch">http://en.wikipedia.org/wiki/Context_switch</a></td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id36" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id15">[13]</a></td><td>How Long Does It Take To Make Context
+<a class="reference external" href="http://blog.tsunanet.net/2010/11/how-long-does-it-take-to-make-context.html">http://blog.tsunanet.net/2010/11/how-long-does-it-take-to-make-context.html</a></td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id37" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id16">[14]</a></td><td>General-purpose computing on graphics processing units
+<a class="reference external" href="http://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units">http://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units</a></td></tr>
+</tbody>
+</table>
+</div>
+<div class="system-messages section">
+<h1>Docutils System Messages</h1>
+<div class="system-message" id="id38">
+<p class="system-message-title">System Message: ERROR/3 (<tt class="docutils">README.rst</tt>, line 208); <em>backlinks: <a href="#id39">1</a>, <a href="#id40">2</a>, <a href="#id41">3</a>, <a href="#id42">4</a>, <a href="#id43">5</a></em></p>
+Too many autonumbered footnote references: only 14 corresponding footnotes available.</div>
+</div>
+</div>
+</body>
+</html>

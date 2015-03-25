@@ -1,18 +1,18 @@
-
-.. _white-paper:
-
 ========================================
 Proposal for a Modern Software Ecosystem
 ========================================
 
+.. contents:: Table of Contents
+
+
 Overview
 ========
 
-:NOTE:: Need area for a realistic roadmap of finished products !!!!!!!!!!!!!!!!!!!!!!!!!!
+.. note:: Need area for a realistic road-map of finished products !!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 Bob Dylan once wrote a song titled "Everything is Broken". We take that notion and consider
-it quite appopos for the conventions in today's software usage, sales, production and
+it quite apropos for the conventions in today's software usage, sales, production and
 execution. A participant can find inefficiencies and un-warranted complexities practically
 everywhere in today's environment. We ask the reader to take a moment and
 think of their own experiences with software. Have you ever found yourself frustrated?
@@ -42,7 +42,7 @@ will be fixed by what is proposed in this paper and its addendums.
 This paper is currently in its first draft and is itself an open source project for inspired
 persons to contribute their ideas to. Eventually it will reach a 1.0 status at which point it
 will have the appearance more of a specification than of merely a white paper. At this point
-I encourage you to envision the possiblities of a collaborative effort to change the current
+I encourage you to envision the possibilities of a collaborative effort to change the current
 paradigm surrounding the production, consumption and usage of software. You are encouraged to
 join this effort to modernize the entire software ecosystem via open source software.
 Please become a contributing member of the CodeDepot Community.
@@ -83,9 +83,9 @@ conventional, centralized organizational structures where they are applicable.
 Overview
 `````````
 
-The CodeDepot Foundation is the working name of a proposed open governence model for the
+The CodeDepot Foundation is the working name of a proposed open governance model for the
 CodeDepot ecosystem; where directives and decisions are decentralized and democratized
-amongst the entire community [#]_. This notion of decentralized goverence is aimed at stemming
+amongst the entire community [#]_. This notion of decentralized governance is aimed at stemming
 the problems of any centralized governing system that naturally creates levels of control [#]_.
 
     Bitcoin's underlying technology of the blockchain [#]_, brings a radical departure from the
@@ -131,7 +131,7 @@ This itself is composed of two parts where developers will deposit code into the
 and users will have an interface to utilize it.
 
 
-:NOTE:: http://usabilitygeek.com/empathy-and-technology-relationship-makes-good-design-better/
+.. note:: http://usabilitygeek.com/empathy-and-technology-relationship-makes-good-design-better/
 
 
 As described in the section for CodeChain, developers will be rights holders for what essentially
@@ -155,7 +155,7 @@ Mechanisms will be built-in that provide the end-user the ability to:
    * For asistance or instruction
    * For software developers to provide any possibly needed customization.
 
-Note: Mention that CD is also for technical orientated content like documentation, tutorials, articles,
+.. note:: Mention that CD is also for technical orientated content like documentation, tutorials, articles,
       blogs, audio and video productions.
 
 
@@ -186,6 +186,7 @@ as a comparison to what is here proposed. Instead as an introduction we ask the 
 CodeChain, it will be shown, is a system that could and will provide these desirable properties as well
 as others.
 
+
 Overview
 `````````
 
@@ -204,8 +205,7 @@ and most importantly a separate (lazy) definition of communication connections [
 FBP: The Architectural Inspiration
 ```````````````````````````````````
 
-.. note::
-   The following is directly from J.Paul Morrison's Website [#]_.
+.. note:: The following is taken from J.Paul Morrison's Website [#]_.
 
 Flow-Based Programming is a programming paradigm that uses a "data factory" metaphor
 for designing and building software applications. Applications are defined as networks
@@ -268,7 +268,7 @@ a point will be reached where the
 number of
 context switches on a single machine CPU, overwhelms the system and causes notable latency.
 On average context switching costs approximately 30 microseconds of
-overhead per occurance. One benchmark of the theoretical limitations of context switching has an upper
+overhead per occurrence. One benchmark of the theoretical limitations of context switching has an upper
 bound of 18.75% of CPU cycles wasted due to context switching. Generally, optimal CPU
 use, is to have the same number of worker threads as there are hardware threads when a process is CPU bound,
 whereas I/O bound permit more [#]_.
@@ -284,10 +284,10 @@ strictly FBP paradigm, we provide here an area of consideration to help maximize
 system. The term Component-based Programming (CBP) is coined here for the purpose of a enlisting a stronger
 emphasis on components over that of data flow as it is for FBP.
 
-The concepts fundamental to FBP (autonomous blackbox components loosely coupled via lazy linkage)
+The concepts fundamental to FBP (autonomous black-box components loosely coupled via lazy linkage)
 can be easily
 considered at the various phases of the compilation stack prior to execution. Essentially, what this means
-is that we can remove the constraints from that of each component needing to be its own execuation process
+is that we can remove the constraints from that of each component needing to be its own execution process
 or thread, yet
 still be most loosely coupled. We can redefine components to that of a virtual model that can then be
 implemented by encompassing
@@ -302,7 +302,7 @@ one or all of the compilation's translation stages prior to execution.
 Another most exciting and promising consideration is to apply the notion of CBP to include that of speciality hardware
 processors like that of GPGPUs [#]_. GPGPUs provide a processing model of thousands
 concurrently executing threads. Utilizing these high-scale concurrent processors, one can imagine the
-promise of the original FBP concept of inter-communicating processess/threads without the extreme burdens
+promise of the original FBP concept of inter-communicating processes/threads without the extreme burdens
 imposed when merely targeting that of a CPU architecture.
 
 
@@ -329,6 +329,92 @@ User Interfaces are Very Flexible Thin Clients
 ```````````````````````````````````````````````
 
 
+
+
+
+
+
+
+
+
+
+WorkSource
+==========
+
+WorkSource is the proposal for a open governence, decentralized, peer to peer marketplace for end-users
+to hire freelancers.
+It will employ modern cutting edge technology for monetization, accounting, contractual obligation and
+in the case needed, arbitration. The most prominent aim is to incorporate very simple access and functionality directly
+into the CodeDepot user-interfaces. Unlike current freelance market places, freelancers will be made to
+feel as equals and not
+of a second class as compared to employers.
+
+Non-technical users of software often find themselves in need of instruction or in need of customization. By
+incorporating direct and easy contact with software professionals, the users needs can be addressed
+painlessly, immediately and reliably.
+
+Technical users find themselves paying exorbitant fees to hire developers at conventional centralized
+services. Often the employer will find these services confusing, frustrating and simply inadequate.
+
+Freelancers will often find that scanning and applying for jobs simply is too time consuming.
+
+
+
+Overview
+`````````
+
+Current freelance and other work sourcing like exchanges are usually run by a
+centralized corporate entity that enjoy a significant percentage of the
+cost of the transaction together with collecting monthly fees. In a decentralized;
+self-governed; peer-to-peer (P2P) marketplace there isn't any centralized entity,
+just a community of colleagues and clients. Freelancers enjoy the near entirety
+of the proceeds of their transactions without some third party dipping their
+greedy hands in.
+
+New technologies, most significantly bitcoin's blockchain, have now enabled P2P
+marketplaces to thrive unencumbered by any need of a centralized entity or 3rd party.
+The need for trust is virtually eliminated providing free, flat, P2P markets.
+
+WorkSource will be decentralized community effort that will provide reliable sources of
+service providers to those that need such services. Current cryptocurrency and other
+new technology make it possible to enable most efficient market ecosystems where trust
+and incentive/disincentive mechanisms are automated and built right in to the platform. This
+together with ideas generated and implemented by the community will make the platform
+most desirable and efficient to participate in.
+
+
+Introduction
+`````````````
+
+    WorkSource will be a superset community of sectoral communities for instance that of
+    the software sector, namely CodeDepot [#]_.
+
+
+CodeSweet
+=========
+
+A programmers toolbox is most often burdensome and time consuming to get productive with. It could be
+argued that every tool in use by engineers is in some way problematic or simply incomplete. If every
+aspect of every tool and its interface were a component, then the programmer could fashion their tool
+and hence their toolbox to be just the way they liked it.
+
+CodeSweet will be a component based toolkit where engineers have the ability to add features that they
+deem worthy.. leaving any others behind. Features like automation, intuitive instruction and ease of
+use will be of strong focus.
+
+
+.. admonition:: ToDo
+
+   Emphasize the CodeChain Toolbox and how the goal is to make software production unbelievably seemless !
+   
+
+Other aspects will include:
+
+ * The best documentation tools and interfaces
+ * Employing automation as much as possible
+ * Search and reference to be topped by no other
+ * Intuition
+ * Cutting edge compilation and translation chains
 
 
 .. [#] Decentralized Computing
@@ -371,92 +457,6 @@ User Interfaces are Very Flexible Thin Clients
 
 .. [#] General-purpose computing on graphics processing units
        http://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units
-
-
-
-
-
-
-WorkSource
-==========
-
-WorkSource is the proposal for a open governence, decentralized, peer to peer marketplace for end-users
-to hire freelancers.
-It will employ modern cutting edge technology for monetization, accounting, contractual obligation and
-in the case needed, arbitration. The most prominent aim is to incorporate very simple access and functionality directly
-into the CodeDepot user-interfaces. Unlike current freelance market places, freelancers will be made to
-feel as equals and not
-of a second class as compared to employers.
-
-Non-technical users of software often find themselves in need of instruction or in need of customization. By
-incorporating direct and easy contact with software professionals, the users needs can be addressed
-painlessly, immediately and reliably.
-
-Technical users find themselves paying exorbitant fees to hire developers at conventional centralized
-services. Often the employer will find these services confusing, frustrating and simply inadequate.
-
-Freelancers will often find that scanning and applying for jobs simply is too time consuming.
-
-For details, please see :ref:`work-source`.
-
-
-Overview
-`````````
-
-Current freelance and other work sourcing like exchanges are usually run by a
-centralized corporate entity that enjoy a significant percentage of the
-cost of the transaction together with collecting monthly fees. In a decentralized;
-self-governed; peer-to-peer (P2P) marketplace there isn't any centralized entity,
-just a community of colleagues and clients. Freelancers enjoy the near entirety
-of the proceeds of their transactions without some third party dipping their
-greedy hands in.
-
-New technologies, most significantly bitcoin's blockchain, have now enabled P2P
-marketplaces to thrive unencumbered by any need of a centralized entity or 3rd party.
-The need for trust is virtually eliminated providing free, flat, P2P markets.
-
-WorkSource will be decentralized community effort that will provide reliable sources of
-service providers to those that need such services. Current cryptocurrency and other
-new technology make it possible to enable most efficient market ecosystems where trust
-and incentive/disincentive mechanisms are automated and built right in to the platform. This
-together with ideas generated and implemented by the community will make the platform
-most desirable and efficient to participate in.
-
-
-Introduction
-`````````````
-
-    WorkSource will be a superset community of sectorial communities for instance that of
-    the software sector, namingly CodeDepot [#]_.
-
-
-CodeSweet
-=========
-
-A programmers toolbox is most often burdensome and time consuming to get productive with. It could be
-argued that every tool in use by engineers is in some way problematic or simply incomplete. If every
-aspect of every tool and its interface were a component, then the programmer could fashion their tool
-and hence their toolbox to be just the way they liked it.
-
-CodeSweet will be a component based toolkit where engineers have the ability to add features that they
-deem worthy.. leaving any others behind. Features like automation, intuitive instruction and ease of
-use will be of strong focus.
-
-.. admonition:: ToDo 
-   Emphasize the CodeChain Toolbox and how the goal is to make software production unbelievably seemless !
-   
-
-Other aspects will include:
-
- * The best documentation tools and interfaces
- * Employing automation as much as possible
- * Search and reference to be topped by no other
- * Intuition
- * Cutting edge compilation and translation chains
-
-For details, please see :ref:`code-sweet`.
-
-
 
 
 
