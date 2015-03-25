@@ -2,14 +2,19 @@
 Proposal for a Modern Software Ecosystem
 ========================================
 
-.. contents:: Table of Contents
+.. contents::
+
+..
+	TODO
+	====
+	* enterprise focus as well
+	* incentivization for software sales as well
+	* incentives, incentives, incentives
+	* road-map of finished products
 
 
 Overview
 ========
-
-.. note:: Need area for a realistic road-map of finished products !!!!!!!!!!!!!!!!!!!!!!!!!!
-
 
 Bob Dylan once wrote a song titled "Everything is Broken". We take that notion and consider
 it quite apropos for the conventions in today's software usage, sales, production and
@@ -47,7 +52,10 @@ paradigm surrounding the production, consumption and usage of software. You are 
 join this effort to modernize the entire software ecosystem via open source software.
 Please become a contributing member of the CodeDepot Community.
 
-:NOTE:: Say: Bring _your_ innovations and implement them.
+..
+	note:: Say: Bring _your_ innovations and implement them.
+   
+
 
 Introduction
 ============
@@ -61,12 +69,11 @@ discussion and contribution
 globally and easily, will ensure that the best solutions of problems we all identify, will be
 addressed most thoroughly and efficiently.
 
-Below are the introductions to six foundational pillars of a proposed software ecosystem
-that may forever change the entire paradigm of our engagement with software. Following each
-introduction is a link to a addendum paper that will explain that particular component in
-greater detail. What is presented at this time are merely proposals that will be refined by any
-willing individual participant and all the participants in whole. The paper also will introduce other
-worthy aspects and notations pertinent to the execution of this proposal.
+Below are six foundational pillars of a proposed software ecosystem
+that may forever change the entire paradigm of our engagement with software. What is presented
+at this time are merely proposals that will be refined by any
+willing individual participant and all the participants in whole. The paper also will
+introduce other worthy aspects and notations pertinent to the execution of this proposal.
 
 
 The CodeDepot Foundation
@@ -78,7 +85,7 @@ provides better results than that of a closed system. We present here a decentra
 where every member of the community has the opportunity provide direction through proposals,
 discussion and ultimately to that of solutions. We suggest that Decentralized Autonomous Organizations,
 a new concept now available through cutting edge technology, will provide many benifits over
-conventional, centralized organizational structures where they are applicable.
+conventional and centralized organizational structures where they are applicable.
 
 Overview
 `````````
@@ -107,14 +114,14 @@ the problems of any centralized governing system that naturally creates levels o
 CodeCoin, The currency of the ecosystem
 =======================================
 
-The invention of blockchain technology in 2008 has provided for the world a whole paradigm
+The invention of blockchain technology in 2008, has provided for the world a whole paradigm
 shift in financial and contractual mechanisms. It is truly a marvel that will disrupt many
 many incumbent institutions. Systems that once required intermediaries and centralized
 solutions can now be peer to peer and decentralized. Trust of persons and entities unknown
 can know be established without the need of 3rd parties for verification or validation.
 Moneys can now be sent digitally without any concern for fraud or corruption. Ability to make
 payments in fractions of a penny are now facilitated. These are truly
-amazing times and we as a community of software engagers can benefit from this remarkability
+amazing times and we as a community of software engagers can benefit from this remarkability.
 
 CodeCoin is the proposed crytpocurrency that will be used in this software ecosystem. It is
 essentially a token that will be used to monetize all the goods and services within the ecosystem. This
@@ -127,18 +134,17 @@ CodeDepot, The decentralized software market place and code repository
 ======================================================================
 
 The core component of the ecosystem is a marketplace where users and producers engage.
-This itself is composed of two parts where developers will deposit code into the system
-and users will have an interface to utilize it.
-
-
-.. note:: http://usabilitygeek.com/empathy-and-technology-relationship-makes-good-design-better/
-
+This is composed of two parts where developers will deposit code into the system
+and users will have an interface to utilize it. Other participants will include documention
+contributers, article writers, bloggers, audio and video producers. Actually, anything surrounding
+software and related technology.
 
 As described in the section for CodeChain, developers will be rights holders for what essentially
-are snippets of code called components in this paper's nomenclature. The assemblage of
-components yields other composite components or finally applications that end-users
-will utilize for their needs. Users will have many advantages over conventional software
-produced today including but not limited to:
+are snippets of code called components in this paper's nomenclature. They will use
+CodeDepot as a repository and market interface for their components of code and
+other contributions.
+
+Users will have many advantages  over conventional software produced today including but not limited to:
 
  * Flexibility
  * Scalability
@@ -146,24 +152,15 @@ produced today including but not limited to:
  * Ease of use
  * Accessibility
 
-Mechanisms will be built-in that provide the end-user the ability to:
+Mechanisms will be built-in that provide the end-user and easy ability to:
 
- * Give instantaneous feedback.
+ * Give seemless, instantaneous feedback.
  * Directly request alterations or needed features.
  * Intuitive, complete documentation and autonomous tutelage.
  * Hire affordable freelancers directly from their user-interface
    * For asistance or instruction
-   * For software developers to provide any possibly needed customization.
+	* For software developers to provide any possibly needed customization
 
-.. note:: Mention that CD is also for technical orientated content like documentation, tutorials, articles,
-      blogs, audio and video productions.
-
-
-
-      
-      
-      
-      
 
 CodeChain, The decentralized processing engine
 ==============================================
@@ -373,7 +370,7 @@ greedy hands in.
 
 New technologies, most significantly bitcoin's blockchain, have now enabled P2P
 marketplaces to thrive unencumbered by any need of a centralized entity or 3rd party.
-The need for trust is virtually eliminated providing free, flat, P2P markets.
+The need for trust is virtually eliminated.. providing free, flat, P2P markets.
 
 WorkSource will be decentralized community effort that will provide reliable sources of
 service providers to those that need such services. Current cryptocurrency and other
@@ -386,6 +383,7 @@ most desirable and efficient to participate in.
 Introduction
 `````````````
 
+..
     WorkSource will be a superset community of sectoral communities for instance that of
     the software sector, namely CodeDepot [#]_.
 
@@ -393,29 +391,31 @@ Introduction
 CodeSweet
 =========
 
-A programmers toolbox is most often burdensome and time consuming to get productive with. It could be
+A programmers toolbox is most often burdensome and time-consuming to be productive with. It could be
 argued that every tool in use by engineers is in some way problematic or simply incomplete. If every
 aspect of every tool and its interface were a component, then the programmer could fashion their tool
-and hence their toolbox to be just the way they liked it.
+and hence their toolbox to be just the way they liked it. That bears repeating.. If everything is a
+component, then the programmer could fashion their tool and hence their toolbox to be just the way
+they like it!
 
 CodeSweet will be a component based toolkit where engineers have the ability to add features that they
-deem worthy.. leaving any others behind. Features like automation, intuitive instruction and ease of
-use will be of strong focus.
+deem worthy.. leaving any others behind. Features like automation, intuitive instruction, reimagined
+user interfaces, and ease-of-use will be of strong focus.
 
-
-.. admonition:: ToDo
-
-   Emphasize the CodeChain Toolbox and how the goal is to make software production unbelievably seemless !
+..
+	ToDo:: Emphasize the CodeChain Toolbox and how the goal is to make software production unbelievably seemless !
    
-
 Other aspects will include:
 
  * The best documentation tools and interfaces
- * Employing automation as much as possible
+ * Employing intelligence and automation as much as possible
  * Search and reference to be topped by no other
  * Intuition
  * Cutting edge compilation and translation chains
 
+
+
+---------------------------------
 
 .. [#] Decentralized Computing
        http://en.wikipedia.org/wiki/Decentralized_computing
