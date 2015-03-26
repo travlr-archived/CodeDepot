@@ -2,7 +2,7 @@
 Proposal for a Modern Software Ecosystem
 ========================================
 
-*Please note that this whitepaper is very much incomplete and still being formulated.*
+*Please note that this whitepaper is very much incomplete and is being detailed/refined.*
 
 -----------------------------------------
 

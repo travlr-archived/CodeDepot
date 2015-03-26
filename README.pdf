@@ -336,7 +336,7 @@ endobj
 << /Outlines 109 0 R /PageLabels 139 0 R /PageMode /UseNone /Pages 130 0 R /Type /Catalog >>
 endobj
 108 0 obj
-<< /Author () /CreationDate (D:20150326160343+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20150326160610+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Proposal for a Modern Software Ecosystem) >>
 endobj
 109 0 obj
@@ -409,7 +409,7 @@ endobj
 << /Count 8 /Kids [ 45 0 R 49 0 R 52 0 R 63 0 R 66 0 R 68 0 R 81 0 R 106 0 R ] /Type /Pages >>
 endobj
 131 0 obj
-<< /Length 7497 >>
+<< /Length 7500 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -422,7 +422,7 @@ Q
 q
 1 0 0 1 62.69291 719.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (Please note that this whitepaper is very much incomplete and still being formulated.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (Please note that this whitepaper is very much incomplete and is being detailed/refined.) Tj T* ET
 Q
 Q
 q
@@ -2643,27 +2643,27 @@ xref
 0000023048 00000 n
 0000023165 00000 n
 0000023280 00000 n
-0000030835 00000 n
-0000037581 00000 n
-0000045653 00000 n
-0000054245 00000 n
-0000060327 00000 n
-0000066601 00000 n
-0000074264 00000 n
-0000078736 00000 n
-0000078856 00000 n
-0000078894 00000 n
-0000078932 00000 n
-0000078970 00000 n
-0000079008 00000 n
-0000079046 00000 n
-0000079084 00000 n
-0000079122 00000 n
+0000030838 00000 n
+0000037584 00000 n
+0000045656 00000 n
+0000054248 00000 n
+0000060330 00000 n
+0000066604 00000 n
+0000074267 00000 n
+0000078739 00000 n
+0000078859 00000 n
+0000078897 00000 n
+0000078935 00000 n
+0000078973 00000 n
+0000079011 00000 n
+0000079049 00000 n
+0000079087 00000 n
+0000079125 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\244\010\350\351\003\366\214$\243\342\302\243\221p\226\332) (\244\010\350\351\003\366\214$\243\342\302\243\221p\226\332)]
+ [(M\2415m\223\024C\201t4\275\264\343#\277\033) (M\2415m\223\024C\201t4\275\264\343#\277\033)]
  /Info 108 0 R /Root 107 0 R /Size 148 >>
 startxref
-79160
+79163
 %%EOF
