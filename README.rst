@@ -49,8 +49,8 @@ persons to contribute their ideas to. Eventually it will reach a 1.0 status at w
 will have the appearance more of a specification than of merely a white paper. At this point
 I encourage you to envision the possibilities of a collaborative effort to change the current
 paradigm surrounding the production, consumption and usage of software. You are encouraged to
-join this effort to modernize the entire software ecosystem via open source software.
-Please become a contributing member of the CodeDepot Community.
+join this effort to modernize the entire software ecosystem via open source software and its
+principles. Please become a contributing member of the CodeDepot Community.
 
 ..
 	note:: Say: Bring _your_ innovations and implement them.
@@ -123,7 +123,7 @@ Moneys can now be sent digitally without any concern for fraud or corruption. Ab
 payments in fractions of a penny are now facilitated. These are truly
 amazing times and we as a community of software engagers can benefit from this remarkability.
 
-CodeCoin is the proposed crytpocurrency[#]_ that will be used in this software ecosystem. It is
+CodeCoin is the proposed crytpocurrency [#]_ that will be used in this software ecosystem. It is
 essentially a token that will be used to monetize all the goods and services within the ecosystem. This
 cryptocurrency will be at the center of a well considered autonomous economic model of incentives and
 disincentives formulated by the community. As with other aspects of this proposal, an emphasis
@@ -168,8 +168,8 @@ CodeChain, The decentralized processing engine
 The problems with the conventional programming paradigm are numerous. In fact, at the time
 of the initial draft of this paper, Querying Google's search engine for "The problems with
 programming languages" produced nearly 72 million results. It seems fruitless
-to itemize these problems, let alone the problems of the entire software centric paradigm,
-as a comparison to what is here proposed. Instead, as an introduction we ask the following
+to itemize these problems as a comparison to what is proposed here, let alone the problems of
+the entire software-centric paradigm, Instead, as an introduction we ask the following
 questions:
 
   1) What if snippets of software were in essence Lego like reusable components that just snapped together into a desired structure?
@@ -445,9 +445,6 @@ Other aspects will include:
 
 .. [#] Flow-Based Programming
        http://en.wikipedia.org/wiki/Flow-based_programming
-
-
-
 
 .. [#] Bitcoin
        http://en.wikipedia.org/wiki/Bitcoin
