@@ -203,7 +203,7 @@ and most importantly a separate (lazy) definition of communication connections [
 FBP: The Architectural Inspiration
 ```````````````````````````````````
 
-.. note:: The following is taken from J.Paul Morrison's Website [#]_.
+*Note: The following is taken from J.Paul Morrison's Website [#]_.*
 
 Flow-Based Programming is a programming paradigm that uses a "data factory" metaphor
 for designing and building software applications. Applications are defined as networks
