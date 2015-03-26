@@ -189,7 +189,7 @@ as others.
 Overview
 `````````
 
-CodeChain is a decentralized system [#]_which at its core reflects
+CodeChain is a decentralized system [#]_ which at its core reflects
 the philosphy of component based software engineering (CBSE) [#]_. It is entirely inspired by
 J.Paul Morrison's [#]_ Flow-Based Programming (FBP) [#]_. The concepts of FBP are
 improved with secure decentralized computing, communication and database models from
