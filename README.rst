@@ -417,6 +417,9 @@ Other aspects will include:
 
 ---------------------------------
 
+---------------------------------
+
+---------------------------------
 
 
 .. [#] Decentralized Autonomous Organization
