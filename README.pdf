@@ -1,7 +1,7 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R /F3 44 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 60 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
@@ -10,369 +10,400 @@ endobj
 << /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
 endobj
 4 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 45 0 R /XYZ 62.69291 330.0236 0 ] /Rect [ 62.69291 687.7736 107.1629 699.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 44 0 R /XYZ 62.69291 330.0236 0 ] /Rect [ 62.69291 687.7736 107.1629 699.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 5 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 45 0 R /XYZ 62.69291 330.0236 0 ] /Rect [ 527.0227 687.7736 532.5827 699.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 44 0 R /XYZ 62.69291 330.0236 0 ] /Rect [ 527.0227 687.7736 532.5827 699.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 6 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 46 0 R /XYZ 62.69291 466.0236 0 ] /Rect [ 62.69291 669.7736 121.0229 681.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 49 0 R /XYZ 62.69291 639.0236 0 ] /Rect [ 62.69291 669.7736 121.0229 681.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 7 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 46 0 R /XYZ 62.69291 466.0236 0 ] /Rect [ 527.0227 669.7736 532.5827 681.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 49 0 R /XYZ 62.69291 639.0236 0 ] /Rect [ 527.0227 669.7736 532.5827 681.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 8 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 46 0 R /XYZ 62.69291 265.0236 0 ] /Rect [ 62.69291 651.7736 193.8029 663.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 49 0 R /XYZ 62.69291 462.0236 0 ] /Rect [ 62.69291 651.7736 193.8029 663.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 9 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 46 0 R /XYZ 62.69291 265.0236 0 ] /Rect [ 527.0227 651.7736 532.5827 663.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 49 0 R /XYZ 62.69291 462.0236 0 ] /Rect [ 527.0227 651.7736 532.5827 663.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 10 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 52 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 82.69291 633.7736 124.3629 645.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 49 0 R /XYZ 62.69291 339.0236 0 ] /Rect [ 82.69291 633.7736 124.3629 645.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 11 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 52 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 527.0227 633.7736 532.5827 645.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 49 0 R /XYZ 62.69291 339.0236 0 ] /Rect [ 527.0227 633.7736 532.5827 645.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 12 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 52 0 R /XYZ 62.69291 537.0236 0 ] /Rect [ 62.69291 615.7736 262.7429 627.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 62.69291 615.7736 262.7429 627.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 13 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 52 0 R /XYZ 62.69291 537.0236 0 ] /Rect [ 527.0227 615.7736 532.5827 627.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 527.0227 615.7736 532.5827 627.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 14 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 52 0 R /XYZ 62.69291 348.0236 0 ] /Rect [ 62.69291 597.7736 412.2329 609.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 62.69291 576.0236 0 ] /Rect [ 62.69291 597.7736 412.2329 609.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 15 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 52 0 R /XYZ 62.69291 348.0236 0 ] /Rect [ 527.0227 597.7736 532.5827 609.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 62.69291 576.0236 0 ] /Rect [ 527.0227 597.7736 532.5827 609.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 16 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 53 0 R /XYZ 62.69291 496.0236 0 ] /Rect [ 62.69291 579.7736 296.6429 591.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 62.69291 177.0236 0 ] /Rect [ 62.69291 579.7736 296.6429 591.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 17 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 53 0 R /XYZ 62.69291 496.0236 0 ] /Rect [ 527.0227 579.7736 532.5827 591.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 62.69291 177.0236 0 ] /Rect [ 527.0227 579.7736 532.5827 591.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 18 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 82.69291 561.7736 124.3629 573.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 62 0 R /XYZ 62.69291 519.0236 0 ] /Rect [ 82.69291 561.7736 124.3629 573.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 19 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 527.0227 561.7736 532.5827 573.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 62 0 R /XYZ 62.69291 519.0236 0 ] /Rect [ 527.0227 561.7736 532.5827 573.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 20 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 62.69291 645.0236 0 ] /Rect [ 82.69291 543.7736 232.1929 555.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 62 0 R /XYZ 62.69291 399.0236 0 ] /Rect [ 82.69291 543.7736 232.1929 555.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 21 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 62.69291 645.0236 0 ] /Rect [ 527.0227 543.7736 532.5827 555.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 62 0 R /XYZ 62.69291 399.0236 0 ] /Rect [ 527.0227 543.7736 532.5827 555.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 22 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 65 0 R /XYZ 62.69291 717.0236 0 ] /Rect [ 82.69291 525.7736 163.8329 537.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 65 0 R /XYZ 62.69291 471.0236 0 ] /Rect [ 82.69291 525.7736 163.8329 537.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 23 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 65 0 R /XYZ 62.69291 717.0236 0 ] /Rect [ 527.0227 525.7736 532.5827 537.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 65 0 R /XYZ 62.69291 471.0236 0 ] /Rect [ 527.0227 525.7736 532.5827 537.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 24 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 65 0 R /XYZ 62.69291 561.0236 0 ] /Rect [ 82.69291 507.7736 228.3029 519.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 65 0 R /XYZ 62.69291 315.0236 0 ] /Rect [ 82.69291 507.7736 228.3029 519.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 25 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 65 0 R /XYZ 62.69291 561.0236 0 ] /Rect [ 527.0227 507.7736 532.5827 519.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 65 0 R /XYZ 62.69291 315.0236 0 ] /Rect [ 527.0227 507.7736 532.5827 519.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 26 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 82.69291 489.7736 183.2729 501.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 67 0 R /XYZ 62.69291 597.0236 0 ] /Rect [ 82.69291 489.7736 183.2729 501.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 27 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 527.0227 489.7736 532.5827 501.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 67 0 R /XYZ 62.69291 597.0236 0 ] /Rect [ 527.0227 489.7736 532.5827 501.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 28 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 735.0236 0 ] /Rect [ 82.69291 471.7736 154.3829 483.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 67 0 R /XYZ 62.69291 543.0236 0 ] /Rect [ 82.69291 471.7736 154.3829 483.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 29 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 735.0236 0 ] /Rect [ 527.0227 471.7736 532.5827 483.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 67 0 R /XYZ 62.69291 543.0236 0 ] /Rect [ 527.0227 471.7736 532.5827 483.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 30 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 705.0236 0 ] /Rect [ 82.69291 453.7736 165.5029 465.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 67 0 R /XYZ 62.69291 489.0236 0 ] /Rect [ 82.69291 453.7736 165.5029 465.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 31 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 705.0236 0 ] /Rect [ 527.0227 453.7736 532.5827 465.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 67 0 R /XYZ 62.69291 489.0236 0 ] /Rect [ 527.0227 453.7736 532.5827 465.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 32 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 675.0236 0 ] /Rect [ 82.69291 435.7736 201.0529 447.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 67 0 R /XYZ 62.69291 435.0236 0 ] /Rect [ 82.69291 435.7736 201.0529 447.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 33 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 675.0236 0 ] /Rect [ 527.0227 435.7736 532.5827 447.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 67 0 R /XYZ 62.69291 435.0236 0 ] /Rect [ 527.0227 435.7736 532.5827 447.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 34 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 645.0236 0 ] /Rect [ 82.69291 417.7736 283.8629 429.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 67 0 R /XYZ 62.69291 381.0236 0 ] /Rect [ 82.69291 417.7736 283.8629 429.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 35 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 645.0236 0 ] /Rect [ 527.0227 417.7736 532.5827 429.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 67 0 R /XYZ 62.69291 381.0236 0 ] /Rect [ 527.0227 417.7736 532.5827 429.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 36 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 615.0236 0 ] /Rect [ 62.69291 399.7736 121.5929 411.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 67 0 R /XYZ 62.69291 327.0236 0 ] /Rect [ 62.69291 399.7736 121.5929 411.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 37 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 615.0236 0 ] /Rect [ 527.0227 399.7736 532.5827 411.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 67 0 R /XYZ 62.69291 327.0236 0 ] /Rect [ 527.0227 399.7736 532.5827 411.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 38 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 414.0236 0 ] /Rect [ 82.69291 381.7736 124.3629 393.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 82.69291 381.7736 124.3629 393.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 39 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 414.0236 0 ] /Rect [ 527.0227 381.7736 532.5827 393.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 527.0227 381.7736 532.5827 393.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 40 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 210.0236 0 ] /Rect [ 82.69291 363.7736 134.9429 375.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 561.0236 0 ] /Rect [ 82.69291 363.7736 134.9429 375.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 41 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 62.69291 210.0236 0 ] /Rect [ 527.0227 363.7736 532.5827 375.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 561.0236 0 ] /Rect [ 527.0227 363.7736 532.5827 375.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 42 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 62.69291 345.7736 116.5929 357.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 531.0236 0 ] /Rect [ 62.69291 345.7736 116.5929 357.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 43 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 527.0227 345.7736 532.5827 357.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 62.69291 531.0236 0 ] /Rect [ 527.0227 345.7736 532.5827 357.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 44 0 obj
-<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
-endobj
-45 0 obj
 << /Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 
   14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 
   24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 
-  34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R ] /Contents 119 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 118 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R ] /Contents 129 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 128 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
+endobj
+45 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 68.69291 176.6378 0 ] /Rect [ 425.7926 375.7736 430.2406 387.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 46 0 obj
-<< /Contents 120 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 118 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 68.69291 152.6378 0 ] /Rect [ 143.7111 279.7736 148.1591 291.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 47 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 68.69291 349.9843 0 ] /Rect [ 143.7111 705.7736 148.1591 717.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 68.69291 140.6378 0 ] /Rect [ 306.9283 249.7736 311.3763 261.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 48 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 68.69291 337.9843 0 ] /Rect [ 362.8129 693.7736 367.2609 705.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 68.69291 128.6378 0 ] /Rect [ 417.3329 123.7736 421.7809 135.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 49 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 68.69291 313.9843 0 ] /Rect [ 306.9283 675.7736 311.3763 687.7736 ] /Subtype /Link /Type /Annot >>
+<< /Annots [ 45 0 R 46 0 R 47 0 R 48 0 R ] /Contents 130 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 128 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 50 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 68.69291 289.9843 0 ] /Rect [ 417.3329 549.7736 421.7809 561.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 68.69291 104.6378 0 ] /Rect [ 251.144 636.7736 258.1582 648.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 51 0 obj
-<< /A << /S /URI /Type /Action /URI (http://usabilitygeek.com/empathy-and-technology-relationship-makes-good-design-better/) >> /Border [ 0 0 0 ] /Rect [ 78.69291 197.7736 516.5827 209.7736 ] /Subtype /Link /Type /Annot >>
+<< /Annots [ 50 0 R ] /Contents 131 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 128 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 52 0 obj
-<< /Annots [ 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R ] /Contents 121 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 118 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
-  /Trans <<  >> /Type /Page >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 80 0 R /XYZ 68.69291 92.6378 0 ] /Rect [ 199.9775 471.7736 204.4255 483.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 53 0 obj
-<< /Contents 122 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 118 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 104 0 R /XYZ 68.69291 767.0236 0 ] /Rect [ 406.9876 471.7736 415.3312 483.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 54 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 68.69291 277.9843 0 ] /Rect [ 199.1994 729.7736 206.6505 741.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 104 0 R /XYZ 68.69291 743.0236 0 ] /Rect [ 93.0992 459.7736 97.5472 471.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 55 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 68.69291 265.9843 0 ] /Rect [ 287.1287 729.7736 294.5798 741.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 104 0 R /XYZ 68.69291 731.0236 0 ] /Rect [ 315.1408 447.7736 319.5888 459.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 56 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 68.69291 253.9843 0 ] /Rect [ 239.357 717.7736 249.6225 729.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 104 0 R /XYZ 68.69291 719.0236 0 ] /Rect [ 372.0253 447.7736 380.9213 459.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 57 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 68.69291 241.9843 0 ] /Rect [ 469.5272 717.7736 479.7927 729.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 104 0 R /XYZ 68.69291 707.0236 0 ] /Rect [ 180.3089 435.7736 189.2049 447.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 58 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 68.69291 229.9843 0 ] /Rect [ 162.1065 705.7736 166.5545 717.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 104 0 R /XYZ 68.69291 695.0236 0 ] /Rect [ 408.2867 435.7736 419.4907 447.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 59 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 50.61311 217.9843 0 ] /Rect [ 423.3037 693.7736 432.1997 705.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 104 0 R /XYZ 68.69291 683.0236 0 ] /Rect [ 311.6829 411.7736 320.5789 423.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 60 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 68.69291 193.9843 0 ] /Rect [ 488.7444 693.7736 497.6404 705.7736 ] /Subtype /Link /Type /Annot >>
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 61 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 68.69291 181.9843 0 ] /Rect [ 303.5283 681.7736 312.4243 693.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 104 0 R /XYZ 50.61311 671.0236 0 ] /Rect [ 318.4529 308.7736 327.3489 320.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 62 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 68.69291 169.9843 0 ] /Rect [ 62.69291 669.7736 75.06859 681.7736 ] /Subtype /Link /Type /Annot >>
+<< /Annots [ 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 61 0 R ] /Contents 132 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 128 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 63 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 94 0 R /XYZ 61.70311 145.9843 0 ] /Rect [ 443.4029 657.7736 452.2989 669.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 104 0 R /XYZ 68.69291 647.0236 0 ] /Rect [ 242.6175 411.7736 251.5135 423.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 64 0 obj
-<< /Annots [ 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R ] /Contents 123 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 118 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
-  /Trans <<  >> /Type /Page >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 104 0 R /XYZ 68.69291 635.0236 0 ] /Rect [ 89.49183 339.7736 98.38783 351.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 65 0 obj
-<< /Contents 124 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 118 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
-endobj
-66 0 obj
-<< /Contents 125 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 118 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
-endobj
-67 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 52 0 R /XYZ 141.6029 719.0236 0 ] /Rect [ 68.69291 336.7343 74.25291 348.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-68 0 obj
-<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Decentralized_computing) >> /Border [ 0 0 0 ] /Rect [ 268.7723 336.7343 501.0823 348.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-69 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 52 0 R /XYZ 362.8129 707.0236 0 ] /Rect [ 68.69291 324.7343 74.25291 336.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-70 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 52 0 R /XYZ 300.2629 689.0236 0 ] /Rect [ 68.69291 300.7343 74.25291 312.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-71 0 obj
-<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Component-based_software_engineering) >> /Border [ 0 0 0 ] /Rect [ 153.7323 288.7343 456.6423 300.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-72 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 52 0 R /XYZ 417.3329 563.0236 0 ] /Rect [ 68.69291 276.7343 74.25291 288.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-73 0 obj
-<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/John_Paul_Morrison) >> /Border [ 0 0 0 ] /Rect [ 228.7523 276.7343 439.9423 288.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-74 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 196.0829 743.0236 0 ] /Rect [ 68.69291 264.7343 74.25291 276.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-75 0 obj
-<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Flow-based_programming) >> /Border [ 0 0 0 ] /Rect [ 272.0923 264.7343 507.7223 276.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-76 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 281.6749 743.0236 0 ] /Rect [ 68.69291 252.7343 74.25291 264.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-77 0 obj
-<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Bitcoin) >> /Border [ 0 0 0 ] /Rect [ 186.5223 252.7343 336.0223 264.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-78 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 224.9829 731.0236 0 ] /Rect [ 68.69291 240.7343 74.25291 252.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-79 0 obj
-<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/BitTorrent) >> /Border [ 0 0 0 ] /Rect [ 200.4123 240.7343 363.8023 252.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-80 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 426.4049 731.0236 0 ] /Rect [ 68.69291 228.7343 74.25291 240.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-81 0 obj
-<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Loose_coupling) >> /Border [ 0 0 0 ] /Rect [ 225.9923 228.7343 415.5223 240.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-82 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 154.3729 719.0236 0 ] /Rect [ 68.69291 216.7343 74.25291 228.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-83 0 obj
-<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Dataflow_programming) >> /Border [ 0 0 0 ] /Rect [ 258.2023 216.7343 481.0523 228.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-84 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 403.9329 707.0236 0 ] /Rect [ 50.61311 204.7343 61.73311 216.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-85 0 obj
-<< /A << /S /URI /Type /Action /URI (http://www.amazon.com/Flow-Based-Programming-J-Paul-Morrison-ebook/dp/B004PLO66O) >> /Border [ 0 0 0 ] /Rect [ 135.6525 192.7343 544.6625 204.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-86 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 465.0689 707.0236 0 ] /Rect [ 68.69291 180.7343 79.81291 192.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-87 0 obj
-<< /A << /S /URI /Type /Action /URI (http://www.jpaulmorrison.com/fbp) >> /Border [ 0 0 0 ] /Rect [ 271.7823 180.7343 419.6023 192.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-88 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 298.3529 695.0236 0 ] /Rect [ 68.69291 168.7343 79.81291 180.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-89 0 obj
-<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Context_switch) >> /Border [ 0 0 0 ] /Rect [ 223.2023 168.7343 410.4923 180.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-90 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 62.69291 683.0236 0 ] /Rect [ 68.69291 156.7343 79.81291 168.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-91 0 obj
-<< /A << /S /URI /Type /Action /URI (http://blog.tsunanet.net/2010/11/how-long-does-it-take-to-make-context.html) >> /Border [ 0 0 0 ] /Rect [ 153.7323 144.7343 490.0023 156.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-92 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 443.4029 671.0236 0 ] /Rect [ 61.70311 132.7343 72.82311 144.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-93 0 obj
-<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units) >> /Border [ 0 0 0 ] /Rect [ 146.7425 120.7343 533.5725 132.7343 ] /Subtype /Link /Type /Annot >>
-endobj
-94 0 obj
-<< /Annots [ 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 
-  77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 
-  87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R ] /Contents 126 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 118 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 63 0 R 64 0 R ] /Contents 133 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 128 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
+66 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 104 0 R /XYZ 68.69291 623.0236 0 ] /Rect [ 319.678 645.7736 328.574 657.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+67 0 obj
+<< /Annots [ 66 0 R ] /Contents 134 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 128 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+68 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 49 0 R /XYZ 400.6329 389.0236 0 ] /Rect [ 68.69291 163.3878 74.25291 175.3878 ] /Subtype /Link /Type /Annot >>
+endobj
+69 0 obj
+<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Decentralized_Autonomous_Organization) >> /Border [ 0 0 0 ] /Rect [ 153.7323 151.3878 458.3023 163.3878 ] /Subtype /Link /Type /Annot >>
+endobj
+70 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 49 0 R /XYZ 141.6029 293.0236 0 ] /Rect [ 68.69291 139.3878 74.25291 151.3878 ] /Subtype /Link /Type /Annot >>
+endobj
+71 0 obj
+<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Open-source_governance) >> /Border [ 0 0 0 ] /Rect [ 296.0123 139.3878 531.1123 151.3878 ] /Subtype /Link /Type /Annot >>
+endobj
+72 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 49 0 R /XYZ 300.2629 263.0236 0 ] /Rect [ 68.69291 127.3878 74.25291 139.3878 ] /Subtype /Link /Type /Annot >>
+endobj
+73 0 obj
+<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Bitcoin#Block_chain) >> /Border [ 0 0 0 ] /Rect [ 244.5623 127.3878 453.5323 139.3878 ] /Subtype /Link /Type /Annot >>
+endobj
+74 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 49 0 R /XYZ 417.3329 137.0236 0 ] /Rect [ 68.69291 115.3878 74.25291 127.3878 ] /Subtype /Link /Type /Annot >>
+endobj
+75 0 obj
+<< /A << /S /URI /Type /Action /URI (http://falkvinge.net/2014/11/10/bitcoin-the-beginning-of-open-source-governance/) >> /Border [ 0 0 0 ] /Rect [ 153.7323 103.3878 512.2523 115.3878 ] /Subtype /Link /Type /Annot >>
+endobj
+76 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 249.4329 650.0236 0 ] /Rect [ 68.69291 91.3878 74.25291 103.3878 ] /Subtype /Link /Type /Annot >>
+endobj
+77 0 obj
+<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Cryptocurrency) >> /Border [ 0 0 0 ] /Rect [ 224.3023 91.3878 411.5823 103.3878 ] /Subtype /Link /Type /Annot >>
+endobj
+78 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 62 0 R /XYZ 194.9629 485.0236 0 ] /Rect [ 68.69291 79.3878 74.25291 91.3878 ] /Subtype /Link /Type /Annot >>
+endobj
+79 0 obj
+<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Decentralized_computing) >> /Border [ 0 0 0 ] /Rect [ 268.7723 79.3878 501.0823 91.3878 ] /Subtype /Link /Type /Annot >>
+endobj
+80 0 obj
+<< /Annots [ 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 
+  78 0 R 79 0 R ] /Contents 135 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 128 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+81 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 62 0 R /XYZ 388.6009 485.0236 0 ] /Rect [ 68.69291 753.7736 74.25291 765.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+82 0 obj
+<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Component-based_software_engineering) >> /Border [ 0 0 0 ] /Rect [ 153.7323 741.7736 456.6423 753.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+83 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 62 0 R /XYZ 91.58291 473.0236 0 ] /Rect [ 68.69291 729.7736 74.25291 741.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+84 0 obj
+<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/John_Paul_Morrison) >> /Border [ 0 0 0 ] /Rect [ 228.7523 729.7736 439.9423 741.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+85 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 62 0 R /XYZ 314.4529 461.0236 0 ] /Rect [ 68.69291 717.7736 74.25291 729.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+86 0 obj
+<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Flow-based_programming) >> /Border [ 0 0 0 ] /Rect [ 272.0923 717.7736 507.7223 729.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+87 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 62 0 R /XYZ 371.1409 461.0236 0 ] /Rect [ 68.69291 705.7736 79.81291 717.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+88 0 obj
+<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Bitcoin) >> /Border [ 0 0 0 ] /Rect [ 186.5223 705.7736 336.0223 717.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+89 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 62 0 R /XYZ 179.9729 449.0236 0 ] /Rect [ 68.69291 693.7736 79.81291 705.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+90 0 obj
+<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/BitTorrent) >> /Border [ 0 0 0 ] /Rect [ 200.4123 693.7736 363.8023 705.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+91 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 62 0 R /XYZ 407.2789 449.0236 0 ] /Rect [ 68.69291 681.7736 79.81291 693.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+92 0 obj
+<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Loose_coupling) >> /Border [ 0 0 0 ] /Rect [ 225.9923 681.7736 415.5223 693.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+93 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 62 0 R /XYZ 311.6829 425.0236 0 ] /Rect [ 68.69291 669.7736 79.81291 681.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+94 0 obj
+<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Dataflow_programming) >> /Border [ 0 0 0 ] /Rect [ 258.2023 669.7736 481.0523 681.7736 ] /Subtype /Link /Type /Annot >>
+endobj
 95 0 obj
-<< /Outlines 97 0 R /PageLabels 127 0 R /PageMode /UseNone /Pages 118 0 R /Type /Catalog >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 62 0 R /XYZ 318.4529 322.0236 0 ] /Rect [ 50.61311 657.7736 61.73311 669.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 96 0 obj
-<< /Author () /CreationDate (D:20150325164547+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
-  /Title (Proposal for a Modern Software Ecosystem) >>
+<< /A << /S /URI /Type /Action /URI (http://www.amazon.com/Flow-Based-Programming-J-Paul-Morrison-ebook/dp/B004PLO66O) >> /Border [ 0 0 0 ] /Rect [ 135.6525 645.7736 544.6625 657.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 97 0 obj
-<< /Count 23 /First 98 0 R /Last 117 0 R /Type /Outlines >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 65 0 R /XYZ 239.4429 425.0236 0 ] /Rect [ 68.69291 633.7736 79.81291 645.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 98 0 obj
-<< /Dest [ 45 0 R /XYZ 62.69291 330.0236 0 ] /Next 99 0 R /Parent 97 0 R /Title (Overview) >>
+<< /A << /S /URI /Type /Action /URI (http://www.jpaulmorrison.com/fbp) >> /Border [ 0 0 0 ] /Rect [ 271.7823 633.7736 419.6023 645.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 99 0 obj
-<< /Dest [ 46 0 R /XYZ 62.69291 466.0236 0 ] /Next 100 0 R /Parent 97 0 R /Prev 98 0 R /Title (Introduction) >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 65 0 R /XYZ 88.25291 353.0236 0 ] /Rect [ 68.69291 621.7736 79.81291 633.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 100 0 obj
-<< /Count 1 /Dest [ 46 0 R /XYZ 62.69291 265.0236 0 ] /First 101 0 R /Last 101 0 R /Next 102 0 R /Parent 97 0 R 
-  /Prev 99 0 R /Title (The CodeDepot Foundation) >>
+<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Context_switch) >> /Border [ 0 0 0 ] /Rect [ 223.2023 621.7736 410.4923 633.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 101 0 obj
-<< /Dest [ 52 0 R /XYZ 62.69291 765.0236 0 ] /Parent 100 0 R /Title (Overview) >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 67 0 R /XYZ 294.9929 659.0236 0 ] /Rect [ 68.69291 609.7736 79.81291 621.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 102 0 obj
-<< /Dest [ 52 0 R /XYZ 62.69291 537.0236 0 ] /Next 103 0 R /Parent 97 0 R /Prev 100 0 R /Title (CodeCoin, The currency of the ecosystem) >>
+<< /A << /S /URI /Type /Action /URI (http://blog.tsunanet.net/2010/11/how-long-does-it-take-to-make-context.html) >> /Border [ 0 0 0 ] /Rect [ 153.7323 597.7736 490.0023 609.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 103 0 obj
-<< /Dest [ 52 0 R /XYZ 62.69291 348.0236 0 ] /Next 104 0 R /Parent 97 0 R /Prev 102 0 R /Title (CodeDepot, The decentralized software market place and code repository) >>
+<< /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units) >> /Border [ 0 0 0 ] /Rect [ 146.7425 573.7736 533.5725 585.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 104 0 obj
-<< /Count 9 /Dest [ 53 0 R /XYZ 62.69291 496.0236 0 ] /First 105 0 R /Last 113 0 R /Next 114 0 R /Parent 97 0 R 
-  /Prev 103 0 R /Title (CodeChain, The decentralized processing engine) >>
+<< /Annots [ 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 
+  91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 
+  101 0 R 102 0 R 103 0 R ] /Contents 136 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 128 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 105 0 obj
-<< /Dest [ 64 0 R /XYZ 62.69291 765.0236 0 ] /Next 106 0 R /Parent 104 0 R /Title (Overview) >>
+<< /Outlines 107 0 R /PageLabels 137 0 R /PageMode /UseNone /Pages 128 0 R /Type /Catalog >>
 endobj
 106 0 obj
-<< /Dest [ 64 0 R /XYZ 62.69291 645.0236 0 ] /Next 107 0 R /Parent 104 0 R /Prev 105 0 R /Title (FBP: The Architectural Inspiration) >>
+<< /Author () /CreationDate (D:20150326143522+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Proposal for a Modern Software Ecosystem) >>
 endobj
 107 0 obj
-<< /Dest [ 65 0 R /XYZ 62.69291 717.0236 0 ] /Next 108 0 R /Parent 104 0 R /Prev 106 0 R /Title (Limitations of FBP) >>
+<< /Count 23 /First 108 0 R /Last 127 0 R /Type /Outlines >>
 endobj
 108 0 obj
-<< /Dest [ 65 0 R /XYZ 62.69291 561.0236 0 ] /Next 109 0 R /Parent 104 0 R /Prev 107 0 R /Title (Component Based Programming) >>
+<< /Dest [ 44 0 R /XYZ 62.69291 330.0236 0 ] /Next 109 0 R /Parent 107 0 R /Title (Overview) >>
 endobj
 109 0 obj
-<< /Dest [ 66 0 R /XYZ 62.69291 765.0236 0 ] /Next 110 0 R /Parent 104 0 R /Prev 108 0 R /Title (Decentralized Network) >>
+<< /Dest [ 49 0 R /XYZ 62.69291 639.0236 0 ] /Next 110 0 R /Parent 107 0 R /Prev 108 0 R /Title (Introduction) >>
 endobj
 110 0 obj
-<< /Dest [ 66 0 R /XYZ 62.69291 735.0236 0 ] /Next 111 0 R /Parent 104 0 R /Prev 109 0 R /Title (Processor Node) >>
+<< /Count 1 /Dest [ 49 0 R /XYZ 62.69291 462.0236 0 ] /First 111 0 R /Last 111 0 R /Next 112 0 R /Parent 107 0 R 
+  /Prev 109 0 R /Title (The CodeDepot Foundation) >>
 endobj
 111 0 obj
-<< /Dest [ 66 0 R /XYZ 62.69291 705.0236 0 ] /Next 112 0 R /Parent 104 0 R /Prev 110 0 R /Title (Secure Computing) >>
+<< /Dest [ 49 0 R /XYZ 62.69291 339.0236 0 ] /Parent 110 0 R /Title (Overview) >>
 endobj
 112 0 obj
-<< /Dest [ 66 0 R /XYZ 62.69291 675.0236 0 ] /Next 113 0 R /Parent 104 0 R /Prev 111 0 R /Title (Micro-payment Calculation) >>
+<< /Dest [ 51 0 R /XYZ 62.69291 765.0236 0 ] /Next 113 0 R /Parent 107 0 R /Prev 110 0 R /Title (CodeCoin, The currency of the ecosystem) >>
 endobj
 113 0 obj
-<< /Dest [ 66 0 R /XYZ 62.69291 645.0236 0 ] /Parent 104 0 R /Prev 112 0 R /Title (User Interfaces are Very Flexible Thin Clients) >>
+<< /Dest [ 51 0 R /XYZ 62.69291 576.0236 0 ] /Next 114 0 R /Parent 107 0 R /Prev 112 0 R /Title (CodeDepot, The decentralized software market place and code repository) >>
 endobj
 114 0 obj
-<< /Count 2 /Dest [ 66 0 R /XYZ 62.69291 615.0236 0 ] /First 115 0 R /Last 116 0 R /Next 117 0 R /Parent 97 0 R 
-  /Prev 104 0 R /Title (WorkSource) >>
+<< /Count 9 /Dest [ 51 0 R /XYZ 62.69291 177.0236 0 ] /First 115 0 R /Last 123 0 R /Next 124 0 R /Parent 107 0 R 
+  /Prev 113 0 R /Title (CodeChain, The decentralized processing engine) >>
 endobj
 115 0 obj
-<< /Dest [ 66 0 R /XYZ 62.69291 414.0236 0 ] /Next 116 0 R /Parent 114 0 R /Title (Overview) >>
+<< /Dest [ 62 0 R /XYZ 62.69291 519.0236 0 ] /Next 116 0 R /Parent 114 0 R /Title (Overview) >>
 endobj
 116 0 obj
-<< /Dest [ 66 0 R /XYZ 62.69291 210.0236 0 ] /Parent 114 0 R /Prev 115 0 R /Title (Introduction) >>
+<< /Dest [ 62 0 R /XYZ 62.69291 399.0236 0 ] /Next 117 0 R /Parent 114 0 R /Prev 115 0 R /Title (FBP: The Architectural Inspiration) >>
 endobj
 117 0 obj
-<< /Dest [ 94 0 R /XYZ 62.69291 765.0236 0 ] /Parent 97 0 R /Prev 114 0 R /Title (CodeSweet) >>
+<< /Dest [ 65 0 R /XYZ 62.69291 471.0236 0 ] /Next 118 0 R /Parent 114 0 R /Prev 116 0 R /Title (Limitations of FBP) >>
 endobj
 118 0 obj
-<< /Count 8 /Kids [ 45 0 R 46 0 R 52 0 R 53 0 R 64 0 R 65 0 R 66 0 R 94 0 R ] /Type /Pages >>
+<< /Dest [ 65 0 R /XYZ 62.69291 315.0236 0 ] /Next 119 0 R /Parent 114 0 R /Prev 117 0 R /Title (Component Based Programming) >>
 endobj
 119 0 obj
-<< /Length 7637 >>
+<< /Dest [ 67 0 R /XYZ 62.69291 597.0236 0 ] /Next 120 0 R /Parent 114 0 R /Prev 118 0 R /Title (Decentralized Network) >>
+endobj
+120 0 obj
+<< /Dest [ 67 0 R /XYZ 62.69291 543.0236 0 ] /Next 121 0 R /Parent 114 0 R /Prev 119 0 R /Title (Processor Node) >>
+endobj
+121 0 obj
+<< /Dest [ 67 0 R /XYZ 62.69291 489.0236 0 ] /Next 122 0 R /Parent 114 0 R /Prev 120 0 R /Title (Secure Computing) >>
+endobj
+122 0 obj
+<< /Dest [ 67 0 R /XYZ 62.69291 435.0236 0 ] /Next 123 0 R /Parent 114 0 R /Prev 121 0 R /Title (Micro-payment Calculation) >>
+endobj
+123 0 obj
+<< /Dest [ 67 0 R /XYZ 62.69291 381.0236 0 ] /Parent 114 0 R /Prev 122 0 R /Title (User Interfaces are Very Flexible Thin Clients) >>
+endobj
+124 0 obj
+<< /Count 2 /Dest [ 67 0 R /XYZ 62.69291 327.0236 0 ] /First 125 0 R /Last 126 0 R /Next 127 0 R /Parent 107 0 R 
+  /Prev 114 0 R /Title (WorkSource) >>
+endobj
+125 0 obj
+<< /Dest [ 80 0 R /XYZ 62.69291 765.0236 0 ] /Next 126 0 R /Parent 124 0 R /Title (Overview) >>
+endobj
+126 0 obj
+<< /Dest [ 80 0 R /XYZ 62.69291 561.0236 0 ] /Parent 124 0 R /Prev 125 0 R /Title (Introduction) >>
+endobj
+127 0 obj
+<< /Dest [ 80 0 R /XYZ 62.69291 531.0236 0 ] /Parent 107 0 R /Prev 124 0 R /Title (CodeSweet) >>
+endobj
+128 0 obj
+<< /Count 8 /Kids [ 44 0 R 49 0 R 51 0 R 62 0 R 65 0 R 67 0 R 80 0 R 104 0 R ] /Type /Pages >>
+endobj
+129 0 obj
+<< /Length 7810 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -445,7 +476,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -487,7 +518,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -501,7 +532,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -515,7 +546,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -529,7 +560,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -543,7 +574,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -557,7 +588,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -571,7 +602,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -585,7 +616,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -599,7 +630,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -613,7 +644,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -627,7 +658,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -669,7 +700,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -682,187 +713,96 @@ BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Overview) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 291.0236 cm
-Q
-q
-1 0 0 1 62.69291 220.0236 cm
-.960784 .960784 .862745 rg
-n 0 71 469.8898 -71 re f*
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 45 Tm  T* ET
-q
-1 0 0 1 16 40 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.5 Tm /F3 12.5 Tf 15 TL (Note) Tj T* ET
-Q
-Q
-q
-1 0 0 1 16 16 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Need area for a realistic road-map of finished products !!!!!!!!!!!!!!!!!!!!!!!!!!) Tj T* ET
-Q
-Q
-q
-1 J
-1 j
-.662745 .662745 .662745 RG
-.5 w
-n 0 71 m 469.8898 71 l S
-n 0 0 m 469.8898 0 l S
-n 0 0 m 0 71 l S
-n 469.8898 0 m 469.8898 71 l S
-Q
-Q
-q
-1 0 0 1 62.69291 214.0236 cm
-Q
-q
-1 0 0 1 62.69291 136.0236 cm
+1 0 0 1 62.69291 231.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 1.752927 Tw (Bob Dylan once wrote a song titled "Everything is Broken". We take that notion and consider it quite) Tj T* 0 Tw .354269 Tw (apropos for the conventions in today's software usage, sales, production and execution. A participant can) Tj T* 0 Tw 1.064524 Tw (find inefficiencies and un-warranted complexities practically everywhere in today's environment. We ask) Tj T* 0 Tw 1.811163 Tw (the reader to take a moment and think of their own experiences with software. Have you ever found) Tj T* 0 Tw .80998 Tw (yourself frustrated? Have you ever considered some aspect overly complicated, un-intuitive or in-flexible) Tj T* 0 Tw (and thought to yourself "it shouldn't have to be this way"?) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 82.02362 cm
+1 0 0 1 62.69291 153.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .177988 Tw (An end-user of software might have thought of how hard it is to get familiar with a software product or that) Tj T* 0 Tw .372927 Tw (the documentation and help system are simply not much help. They might have wished for a feature they) Tj T* 0 Tw .959398 Tw (needed to be available or that the there are too many features packed into the product. Small business) Tj T* 0 Tw .916905 Tw (owners may find navigating the obstacle course of software system selection and integration impossible) Tj T* 0 Tw ET
-Q
-Q
- 
-endstream
-endobj
-120 0 obj
-<< /Length 5560 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 741.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .608651 Tw (for mere mortals. Software engineers may have thought of many areas of foolishness that surround their) Tj T* 0 Tw (profession. The lists of areas ripe for innovation surrounding the software ecosystem are quite abundant.) Tj T* ET
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .177988 Tw (An end-user of software might have thought of how hard it is to get familiar with a software product or that) Tj T* 0 Tw .372927 Tw (the documentation and help system are simply not much help. They might have wished for a feature they) Tj T* 0 Tw .959398 Tw (needed to be available or that the there are too many features packed into the product. Small business) Tj T* 0 Tw .916905 Tw (owners may find navigating the obstacle course of software system selection and integration impossible) Tj T* 0 Tw .608651 Tw (for mere mortals. Software engineers may have thought of many areas of foolishness that surround their) Tj T* 0 Tw (profession. The lists of areas ripe for innovation surrounding the software ecosystem are quite abundant.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 687.0236 cm
+1 0 0 1 62.69291 99.02362 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .459984 Tw (Other aspects of concern and inefficiency can be seen in the marketplace itself. Golieth sized companies) Tj T* 0 Tw 1.539979 Tw (hold monopolistic power over software marketplace silos. These concentrated marketplaces take large) Tj T* 0 Tw 1.351412 Tw (percentage commissions from a lowly software producer's product sales. They dictate rules that are at) Tj T* 0 Tw (times overly stringent or simply used to control the domination they hold in the market.) Tj T* ET
 Q
 Q
+ 
+endstream
+endobj
+130 0 obj
+<< /Length 6393 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 645.0236 cm
+1 0 0 1 62.69291 729.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.042126 Tw (The readers of this paper are asked to consider very thoughtfully what they themselves, specifically,) Tj T* 0 Tw .346488 Tw (would have improved, because it is that specific item or list of items that will be fixed by what is proposed) Tj T* 0 Tw (in this paper and its addendums.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 567.0236 cm
+1 0 0 1 62.69291 651.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .042619 Tw (This paper is currently in its first draft and is itself an open source project for inspired persons to contribute) Tj T* 0 Tw 1.206488 Tw (their ideas to. Eventually it will reach a 1.0 status at which point it will have the appearance more of a) Tj T* 0 Tw .722209 Tw (specification than of merely a white paper. At this point I encourage you to envision the possibilities of a) Tj T* 0 Tw .143828 Tw (collaborative effort to change the current paradigm surrounding the production, consumption and usage of) Tj T* 0 Tw 1.719318 Tw (software. You are encouraged to join this effort to modernize the entire software ecosystem via open) Tj T* 0 Tw (source software. Please become a contributing member of the CodeDepot Community.) Tj T* ET
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .042619 Tw (This paper is currently in its first draft and is itself an open source project for inspired persons to contribute) Tj T* 0 Tw 1.206488 Tw (their ideas to. Eventually it will reach a 1.0 status at which point it will have the appearance more of a) Tj T* 0 Tw .722209 Tw (specification than of merely a white paper. At this point I encourage you to envision the possibilities of a) Tj T* 0 Tw .143828 Tw (collaborative effort to change the current paradigm surrounding the production, consumption and usage of) Tj T* 0 Tw 1.719318 Tw (software. You are encouraged to join this effort to modernize the entire software ecosystem via open) Tj T* 0 Tw (source software and its principles. Please become a contributing member of the CodeDepot Community.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 555.0236 cm
-Q
-q
-1 0 0 1 62.69291 484.0236 cm
-.960784 .960784 .862745 rg
-n 0 71 469.8898 -71 re f*
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 45 Tm  T* ET
-q
-1 0 0 1 16 40 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.5 Tm /F3 12.5 Tf 15 TL (Note) Tj T* ET
-Q
-Q
-q
-1 0 0 1 16 16 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Say: Bring _your_ innovations and implement them.) Tj T* ET
-Q
-Q
-q
-1 J
-1 j
-.662745 .662745 .662745 RG
-.5 w
-n 0 71 m 469.8898 71 l S
-n 0 0 m 469.8898 0 l S
-n 0 0 m 0 71 l S
-n 469.8898 0 m 469.8898 71 l S
-Q
-Q
-q
-1 0 0 1 62.69291 478.0236 cm
-Q
-q
-1 0 0 1 62.69291 445.0236 cm
+1 0 0 1 62.69291 618.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Introduction) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 355.0236 cm
+1 0 0 1 62.69291 528.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL 2.073516 Tw (Software is ubiquitous in our lives whether we are users or producers. Yet, even a less than astute) Tj T* 0 Tw 3.414104 Tw (observer can see that the entire ecosystem is ripe for innovation. In this paper we will begin a) Tj T* 0 Tw .645318 Tw (conversation of the direction of the needed improvements and we ask the community to participate. This) Tj T* 0 Tw 1.298735 Tw (community that is mentioned, are the people that engage with software whether it be in its production,) Tj T* 0 Tw .534651 Tw (sales or usage; whether they are casual or power users. Having discussion and contribution globally and) Tj T* 0 Tw 1.05811 Tw (easily, will ensure that the best solutions of problems we all identify, will be addressed most thoroughly) Tj T* 0 Tw (and efficiently.) Tj T* ET
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL 2.073516 Tw (Software is ubiquitous in our lives whether we are users or producers. Yet, even a less than astute) Tj T* 0 Tw 3.414104 Tw (observer can see that the entire ecosystem is ripe for innovation. In this paper we will begin a) Tj T* 0 Tw .645318 Tw (conversation of the direction of the needed improvements and we ask the community to participate. This) Tj T* 0 Tw 1.298735 Tw (community that is mentioned, are the people that engage with software whether it be in its production,) Tj T* 0 Tw 1.445697 Tw (sales, tutelage or usage.. whether they are casual or power users. Having discussion and contribution) Tj T* 0 Tw .603516 Tw (globally and easily, will ensure that the best solutions of problems we all identify, will be addressed most) Tj T* 0 Tw (thoroughly and efficiently.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 277.0236 cm
+1 0 0 1 62.69291 474.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .460651 Tw (Below are the introductions to six foundational pillars of a proposed software ecosystem that may forever) Tj T* 0 Tw 1.12561 Tw (change the entire paradigm of our engagement with software. Following each introduction is a link to a) Tj T* 0 Tw 1.385984 Tw (addendum paper that will explain that particular component in greater detail. What is presented at this) Tj T* 0 Tw .146457 Tw (time are merely proposals that will be refined by any willing individual participant and all the participants in) Tj T* 0 Tw .53436 Tw (whole. The paper also will introduce other worthy aspects and notations pertinent to the execution of this) Tj T* 0 Tw (proposal.) Tj T* ET
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .941984 Tw (Below are six foundational pillars of a proposed software ecosystem that may forever change the entire) Tj T* 0 Tw .676235 Tw (paradigm of our engagement with software. What is presented at this time are merely proposals that will) Tj T* 0 Tw 2.412485 Tw (be refined by any willing individual participant and all the participants in whole. The paper also will) Tj T* 0 Tw (introduce other worthy aspects and notations pertinent to the execution of this proposal.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 244.0236 cm
+1 0 0 1 62.69291 441.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (The CodeDepot Foundation) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 154.0236 cm
+1 0 0 1 62.69291 351.0236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL .74186 Tw (Together, an engaged society will undoubtedly find the best solutions to issues that face them. Over the) Tj T* 0 Tw .755318 Tw (past 40 years, the open source community has shown that open participation most often provides better) Tj T* 0 Tw .609318 Tw (results than that of a closed system. We present here a decentralized organization where every member) Tj T* 0 Tw 1.47152 Tw (of the community has the opportunity provide direction through proposals, discussion and ultimately to) Tj T* 0 Tw .10229 Tw (that of solutions. We suggest that Decentralized Autonomous Organizations, a new concept now available) Tj T* 0 Tw .980888 Tw (through cutting edge technology, will provide many benifits over conventional, centralized organizational) Tj T* 0 Tw (structures where they are applicable.) Tj T* ET
+BT 1 0 0 1 0 74 Tm .74186 Tw 12 TL /F1 10 Tf 0 0 0 rg (Together, an engaged society will undoubtedly find the best solutions to issues that face them. Over the) Tj T* 0 Tw .755318 Tw (past 40 years, the open source community has shown that open participation most often provides better) Tj T* 0 Tw .609318 Tw (results than that of a closed system. We present here a decentralized organization where every member) Tj T* 0 Tw 1.47152 Tw (of the community has the opportunity provide direction through proposals, discussion and ultimately to) Tj T* 0 Tw 2.79552 Tw (that of solutions. We suggest that Decentralized Autonomous Organizations ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (1) Tj /F1 10 Tf 0 0 0 rg 0 Ts (, a new concept now) Tj T* 0 Tw 1.408314 Tw (available through cutting edge technology, will provide many benifits over conventional and centralized) Tj T* 0 Tw (organizational structures where they are applicable.) Tj T* ET
 Q
 Q
- 
-endstream
-endobj
-121 0 obj
-<< /Length 6910 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 747.0236 cm
+1 0 0 1 62.69291 321.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Overview) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 693.0236 cm
+1 0 0 1 62.69291 267.0236 cm
 q
-BT 1 0 0 1 0 38 Tm 3.54784 Tw 12 TL /F1 10 Tf 0 0 0 rg (The CodeDepot Foundation is the working name of a proposed open governance model for the) Tj T* 0 Tw .679069 Tw (CodeDepot ecosystem; where directives and decisions are decentralized and democratized amongst the) Tj T* 0 Tw 1.054118 Tw (entire community ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (1) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. This notion of decentralized governance is aimed at stemming the problems of any) Tj T* 0 Tw (centralized governing system that naturally creates levels of control ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (2) Tj /F1 10 Tf 0 0 0 rg 0 Ts (.) Tj T* ET
+BT 1 0 0 1 0 38 Tm 3.54784 Tw 12 TL /F1 10 Tf 0 0 0 rg (The CodeDepot Foundation is the working name of a proposed open governance model for the) Tj T* 0 Tw .679069 Tw (CodeDepot ecosystem; where directives and decisions are decentralized and democratized amongst the) Tj T* 0 Tw 1.054118 Tw (entire community ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (2) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. This notion of decentralized governance is aimed at stemming the problems of any) Tj T* 0 Tw (centralized governing system that naturally creates levels of control.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 687.0236 cm
+1 0 0 1 62.69291 261.0236 cm
 Q
 q
-1 0 0 1 62.69291 549.0236 cm
+1 0 0 1 62.69291 123.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -882,103 +822,77 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 549.0236 cm
+1 0 0 1 62.69291 123.0236 cm
 Q
+ 
+endstream
+endobj
+131 0 obj
+<< /Length 8389 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 516.0236 cm
+1 0 0 1 62.69291 744.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (CodeCoin, The currency of the ecosystem) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 426.0236 cm
+1 0 0 1 62.69291 654.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL 1.92436 Tw (The invention of blockchain technology in 2008 has provided for the world a whole paradigm shift in) Tj T* 0 Tw 3.354983 Tw (financial and contractual mechanisms. It is truly a marvel that will disrupt many many incumbent) Tj T* 0 Tw .453555 Tw (institutions. Systems that once required intermediaries and centralized solutions can now be peer to peer) Tj T* 0 Tw 1.124651 Tw (and decentralized. Trust of persons and entities unknown can know be established without the need of) Tj T* 0 Tw .30881 Tw (3rd parties for verification or validation. Moneys can now be sent digitally without any concern for fraud or) Tj T* 0 Tw .744985 Tw (corruption. Ability to make payments in fractions of a penny are now facilitated. These are truly amazing) Tj T* 0 Tw (times and we as a community of software engagers can benefit from this remarkability) Tj T* ET
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL 1.75061 Tw (The invention of blockchain technology in 2008, has provided for the world a whole paradigm shift in) Tj T* 0 Tw 3.354983 Tw (financial and contractual mechanisms. It is truly a marvel that will disrupt many many incumbent) Tj T* 0 Tw .453555 Tw (institutions. Systems that once required intermediaries and centralized solutions can now be peer to peer) Tj T* 0 Tw 1.124651 Tw (and decentralized. Trust of persons and entities unknown can know be established without the need of) Tj T* 0 Tw .30881 Tw (3rd parties for verification or validation. Moneys can now be sent digitally without any concern for fraud or) Tj T* 0 Tw .744985 Tw (corruption. Ability to make payments in fractions of a penny are now facilitated. These are truly amazing) Tj T* 0 Tw (times and we as a community of software engagers can benefit from this remarkability.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 360.0236 cm
+1 0 0 1 62.69291 588.0236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .78061 Tw (CodeCoin is the proposed crytpocurrency that will be used in this software ecosystem. It is essentially a) Tj T* 0 Tw .606235 Tw (token that will be used to monetize all the goods and services within the ecosystem. This cryptocurrency) Tj T* 0 Tw 1.423984 Tw (will be at the center of a well considered autonomous economic model of incentives and disincentives) Tj T* 0 Tw .67436 Tw (formulated by the community. As with other aspects of this proposal, an emphasis for thought leaders to) Tj T* 0 Tw (be engaged in these models is vehemently sought after and strongly encouraged.) Tj T* ET
+BT 1 0 0 1 0 50 Tm .342221 Tw 12 TL /F1 10 Tf 0 0 0 rg (CodeCoin is the proposed crytpocurrency ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (5 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (that will be used in this software ecosystem. It is essentially a) Tj T* 0 Tw .606235 Tw (token that will be used to monetize all the goods and services within the ecosystem. This cryptocurrency) Tj T* 0 Tw 1.423984 Tw (will be at the center of a well considered autonomous economic model of incentives and disincentives) Tj T* 0 Tw .67436 Tw (formulated by the community. As with other aspects of this proposal, an emphasis for thought leaders to) Tj T* 0 Tw (be engaged in these models is vehemently sought after and strongly encouraged.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 306.0236 cm
+1 0 0 1 62.69291 534.0236 cm
 q
 BT 1 0 0 1 0 24.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (CodeDepot, The decentralized software market place) Tj T* (and code repository) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 264.0236 cm
+1 0 0 1 62.69291 480.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .397485 Tw (The core component of the ecosystem is a marketplace where users and producers engage. This itself is) Tj T* 0 Tw 2.48186 Tw (composed of two parts where developers will deposit code into the system and users will have an) Tj T* 0 Tw (interface to utilize it.) Tj T* ET
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.979984 Tw (The core component of the ecosystem is a marketplace where users and producers engage. This is) Tj T* 0 Tw 2.48186 Tw (composed of two parts where developers will deposit code into the system and users will have an) Tj T* 0 Tw 1.875814 Tw (interface to utilize it. Other participants will include documention contributers, article writers, bloggers,) Tj T* 0 Tw (audio and video producers. Actually, anything surrounding software and related technology.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 252.0236 cm
-Q
-q
-1 0 0 1 62.69291 181.0236 cm
-.960784 .960784 .862745 rg
-n 0 71 469.8898 -71 re f*
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 45 Tm  T* ET
-q
-1 0 0 1 16 40 cm
+1 0 0 1 62.69291 438.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.5 Tm /F3 12.5 Tf 15 TL (Note) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.017984 Tw (As described in the section for CodeChain, developers will be rights holders for what essentially are) Tj T* 0 Tw 3.214983 Tw (snippets of code called components in this paper's nomenclature. They will use CodeDepot as a) Tj T* 0 Tw (repository and market interface for their components of code and other contributions.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 16 16 cm
-q
-0 0 .501961 rg
-0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://usabilitygeek.com/empathy-and-technology-relationship-makes-good-design-better/) Tj T* ET
-Q
-Q
-q
-1 J
-1 j
-.662745 .662745 .662745 RG
-.5 w
-n 0 71 m 469.8898 71 l S
-n 0 0 m 469.8898 0 l S
-n 0 0 m 0 71 l S
-n 469.8898 0 m 469.8898 71 l S
-Q
-Q
-q
-1 0 0 1 62.69291 175.0236 cm
-Q
-q
-1 0 0 1 62.69291 121.0236 cm
+1 0 0 1 62.69291 420.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.017984 Tw (As described in the section for CodeChain, developers will be rights holders for what essentially are) Tj T* 0 Tw .554597 Tw (snippets of code called components in this paper's nomenclature. The assemblage of components yields) Tj T* 0 Tw 1.369983 Tw (other composite components or finally applications that end-users will utilize for their needs. Users will) Tj T* 0 Tw (have many advantages over conventional software produced today including but not limited to:) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Users will have many advantages over conventional software produced today including but not limited to:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 115.0236 cm
+1 0 0 1 62.69291 414.0236 cm
 Q
 q
-1 0 0 1 62.69291 82.86614 cm
+1 0 0 1 62.69291 324.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 26.15748 cm
+1 0 0 1 20 84 cm
 Q
 q
-1 0 0 1 20 26.15748 cm
+1 0 0 1 20 84 cm
 Q
 q
-1 0 0 1 20 14.15748 cm
+1 0 0 1 20 72 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -999,10 +913,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 8.15748 cm
+1 0 0 1 20 66 cm
 Q
 q
-1 0 0 1 20 -3.84252 cm
+1 0 0 1 20 54 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1023,23 +937,8 @@ q
 Q
 Q
 q
-1 0 0 1 20 0 cm
+1 0 0 1 20 48 cm
 Q
-q
-Q
-Q
- 
-endstream
-endobj
-122 0 obj
-<< /Length 8226 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 717.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 36 cm
 0 0 0 rg
@@ -1116,31 +1015,31 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 717.0236 cm
+1 0 0 1 62.69291 324.0236 cm
 Q
 q
-1 0 0 1 62.69291 699.0236 cm
+1 0 0 1 62.69291 306.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mechanisms will be built-in that provide the end-user the ability to:) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mechanisms will be built-in that provide the end-user and easy ability to:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 693.0236 cm
+1 0 0 1 62.69291 300.0236 cm
 Q
 q
-1 0 0 1 62.69291 609.0236 cm
+1 0 0 1 62.69291 189.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 78 cm
+1 0 0 1 20 105 cm
 Q
 q
-1 0 0 1 20 78 cm
+1 0 0 1 20 105 cm
 Q
 q
-1 0 0 1 20 66 cm
+1 0 0 1 20 93 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1154,17 +1053,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Give instantaneous feedback.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Give seemless, instantaneous feedback.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20 60 cm
+1 0 0 1 20 87 cm
 Q
 q
-1 0 0 1 20 48 cm
+1 0 0 1 20 75 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1185,10 +1084,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 42 cm
+1 0 0 1 20 69 cm
 Q
 q
-1 0 0 1 20 30 cm
+1 0 0 1 20 57 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1209,14 +1108,67 @@ q
 Q
 Q
 q
-1 0 0 1 20 24 cm
+1 0 0 1 20 51 cm
 Q
 q
 1 0 0 1 20 0 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 9 cm
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hire affordable freelancers directly from their user-interface) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 30 cm
+Q
+q
+1 0 0 1 23 30 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (For asistance or instruction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 8 Tm  T* ET
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -1226,7 +1178,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .904597 Tw (Hire affordable freelancers directly from their user-interface * For asistance or instruction * For) Tj T* 0 Tw (software developers to provide any possibly needed customization.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (For software developers to provide any possibly needed customization) Tj T* ET
 Q
 Q
 q
@@ -1239,64 +1191,48 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 609.0236 cm
-Q
-q
-1 0 0 1 62.69291 597.0236 cm
-Q
-q
-1 0 0 1 62.69291 514.0236 cm
-.960784 .960784 .862745 rg
-n 0 83 469.8898 -83 re f*
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 57 Tm  T* ET
-q
-1 0 0 1 16 52 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.5 Tm /F3 12.5 Tf 15 TL (Note) Tj T* ET
 Q
 Q
 q
-1 0 0 1 16 16 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.355814 Tw (Mention that CD is also for technical orientated content like documentation, tutorials, articles,) Tj T* 0 Tw (blogs, audio and video productions.) Tj T* ET
-Q
+1 0 0 1 23 -3 cm
 Q
 q
-1 J
-1 j
-.662745 .662745 .662745 RG
-.5 w
-n 0 83 m 469.8898 83 l S
-n 0 0 m 469.8898 0 l S
-n 0 0 m 0 83 l S
-n 469.8898 0 m 469.8898 83 l S
 Q
 Q
 q
-1 0 0 1 62.69291 508.0236 cm
+1 0 0 1 20 0 cm
 Q
 q
-1 0 0 1 62.69291 475.0236 cm
+Q
+Q
+q
+1 0 0 1 62.69291 189.0236 cm
+Q
+q
+1 0 0 1 62.69291 156.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (CodeChain, The decentralized processing engine) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 409.0236 cm
+1 0 0 1 62.69291 90.02362 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .223735 Tw (The problems with the conventional programming paradigm are numerous. In fact, at the time of the initial) Tj T* 0 Tw 1.676905 Tw (draft of this paper, Querying Google's search engine for "The problems with programming languages") Tj T* 0 Tw .537485 Tw (produced nearly 72 million results. It seems fruitless to itemize these problems, let alone the problems of) Tj T* 0 Tw 3.609318 Tw (the entire software centric paradigm, as a comparison to what is here proposed. Instead as an) Tj T* 0 Tw (introduction we ask the following questions.) Tj T* ET
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .223735 Tw (The problems with the conventional programming paradigm are numerous. In fact, at the time of the initial) Tj T* 0 Tw 1.676905 Tw (draft of this paper, Querying Google's search engine for "The problems with programming languages") Tj T* 0 Tw .147045 Tw (produced nearly 72 million results. It seems fruitless to itemize these problems as a comparison to what is) Tj T* 0 Tw .37284 Tw (proposed here, let alone the problems of the entire software-centric paradigm, Instead, as an introduction) Tj T* 0 Tw (we ask the following questions:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 403.0236 cm
+1 0 0 1 62.69291 84.02362 cm
 Q
+ 
+endstream
+endobj
+132 0 obj
+<< /Length 8234 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 199.0236 cm
+1 0 0 1 62.69291 561.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1502,45 +1438,38 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 199.0236 cm
+1 0 0 1 62.69291 561.0236 cm
 Q
 q
-1 0 0 1 62.69291 169.0236 cm
+1 0 0 1 62.69291 531.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .508876 Tw (CodeChain, it will be shown, is a system that could and will provide these desirable properties as well as) Tj T* 0 Tw (others.) Tj T* ET
 Q
 Q
- 
-endstream
-endobj
-123 0 obj
-<< /Length 6975 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 747.0236 cm
+1 0 0 1 62.69291 501.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Overview) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 657.0236 cm
+1 0 0 1 62.69291 411.0236 cm
 q
-BT 1 0 0 1 0 74 Tm .77911 Tw 12 TL /F1 10 Tf 0 0 0 rg (CodeChain is a decentralized ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (5 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (operating system ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (6 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (which at its core reflects the philosphy of component) Tj T* 0 Tw 3.59352 Tw (based software engineering \(CBSE\) ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (7 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (and is entirely inspired by J.Paul Morrison's ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (8 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (Flow-Based) Tj T* 0 Tw 3.866814 Tw (Programming \(FBP\) ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (9) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. The concepts of FBP are improved with secure decentralized computing,) Tj T* 0 Tw 2.152314 Tw (communication and database models from various sources including BitCoin ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (10) Tj /F1 10 Tf 0 0 0 rg 0 Ts (, BitTorrent ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (11) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. CBSE) Tj T* 0 Tw .646918 Tw (exhibits the very desirable property of loose coupling ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (12) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. FBP, a particular form of dataflow programming) Tj T* 0 Tw 1.255674 Tw /F1 8 Tf 0 0 .501961 rg 5 Ts (13 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (extends loose coupling to define bounded buffers, information packets with defined lifetimes, named) Tj T* 0 Tw (ports, and most importantly a separate \(lazy\) definition of communication connections ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (14) Tj /F1 10 Tf 0 0 0 rg 0 Ts (.) Tj T* ET
+BT 1 0 0 1 0 74 Tm 1.684269 Tw 12 TL /F1 10 Tf 0 0 0 rg (CodeChain is a decentralized system [#]_which at its core reflects the philosphy of component based) Tj T* 0 Tw 1.67152 Tw (software engineering \(CBSE\) ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (6) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. It is entirely inspired by J.Paul Morrison's ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (7 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (Flow-Based Programming) Tj T* 0 Tw 1.51629 Tw (\(FBP\) ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (8) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. The concepts of FBP are improved with secure decentralized computing, communication and) Tj T* 0 Tw .098269 Tw (database models from various sources including BitCoin ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (9) Tj /F1 10 Tf 0 0 0 rg 0 Ts (, BitTorrent ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (10) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. CBSE exhibits the very desirable) Tj T* 0 Tw .083985 Tw (property of loose coupling ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (11) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. FBP, a particular form of dataflow programming ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (12 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (extends loose coupling to) Tj T* 0 Tw .915366 Tw (define bounded buffers, information packets with defined lifetimes, named ports, and most importantly a) Tj T* 0 Tw (separate \(lazy\) definition of communication connections ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (13) Tj /F1 10 Tf 0 0 0 rg 0 Ts (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 627.0236 cm
+1 0 0 1 62.69291 381.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (FBP: The Architectural Inspiration) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 609.0236 cm
+1 0 0 1 62.69291 363.0236 cm
 Q
 q
-1 0 0 1 62.69291 538.0236 cm
+1 0 0 1 62.69291 292.0236 cm
 .960784 .960784 .862745 rg
 n 0 71 469.8898 -71 re f*
 0 0 0 rg
@@ -1556,7 +1485,7 @@ Q
 q
 1 0 0 1 16 16 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The following is taken from J.Paul Morrison's Website ) Tj 1 0 0 rg ([#]_) Tj 0 0 0 rg (.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The following is taken from J.Paul Morrison's Website ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (14) Tj /F1 10 Tf 0 0 0 rg 0 Ts (.) Tj T* ET
 Q
 Q
 q
@@ -1571,108 +1500,122 @@ n 469.8898 0 m 469.8898 71 l S
 Q
 Q
 q
-1 0 0 1 62.69291 532.0236 cm
+1 0 0 1 62.69291 286.0236 cm
 Q
 q
-1 0 0 1 62.69291 466.0236 cm
+1 0 0 1 62.69291 220.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .84229 Tw (Flow-Based Programming is a programming paradigm that uses a "data factory" metaphor for designing) Tj T* 0 Tw .669213 Tw (and building software applications. Applications are defined as networks of "black box" processes, which) Tj T* 0 Tw .573314 Tw (exchange data across predefined connections by message passing, where the connections are specified) Tj T* 0 Tw 1.683555 Tw (external to the processes. These black box processes can be reconnected endlessly to form different) Tj T* 0 Tw (applications without having to be changed internally. FBP is thus naturally component orientated.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 388.0236 cm
+1 0 0 1 62.69291 142.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .654724 Tw (It views an application not as a single, sequential process, which starts at a point in time, and then does) Tj T* 0 Tw 1.452339 Tw (one thing at a time until it is finished, but as a network of asynchronous processes communicating by) Tj T* 0 Tw .75311 Tw (means of streams of structured data chunks, called "information packets" \(IPs\). In this view, the focus is) Tj T* 0 Tw .567485 Tw (on the application data and the transformations applied to it to produce the desired outputs. The network) Tj T* 0 Tw .38332 Tw (is defined externally to the processes, as a list of connections which is interpreted by a piece of software,) Tj T* 0 Tw (usually called the "scheduler".) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 298.0236 cm
+1 0 0 1 62.69291 88.02362 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL 2.369213 Tw (The processes communicate by means of fixed-capacity connections. A connection is attached to a) Tj T* 0 Tw .597765 Tw (process by means of a port, which has a name agreed upon between the process code and the network) Tj T* 0 Tw .975777 Tw (definition. More than one process can execute the same piece of code. At any point in time, a given IP) Tj T* 0 Tw 1.254987 Tw (can only be "owned" by a single process, or be in transit between two processes. Ports may either be) Tj T* 0 Tw 2.639269 Tw (simple, or array-type. It is the combination of ports with asynchronous processes that allows many) Tj T* 0 Tw .69284 Tw (long-running primitive functions of data processing, such as Sort, Merge, Summarize, Collate, etc., to be) Tj T* 0 Tw (supported in the form of software black boxes.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 256.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .077045 Tw (Because FBP processes can continue executing as long they have data to work on and somewhere to put) Tj T* 0 Tw .889983 Tw (their output, FBP applications generally run in less elapsed time than conventional programs, and make) Tj T* 0 Tw (optimal use of all the processors on a machine, with no special programming required to achieve this.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 202.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.974147 Tw (The network definition is usually diagrammatic \(see: 'Component Based Programming' below\), and is) Tj T* 0 Tw 3.795318 Tw (converted into a connection list in some lower-level language or notation. FBP is thus a visual) Tj T* 0 Tw .148443 Tw (programming language at this level. More complex network definitions have a hierarchical structure, being) Tj T* 0 Tw (built up from subnets with "sticky" connections .) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 148.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .432765 Tw (FBP has much in common with the Linda language in that it is, in Gelernter and Carriero's terminology, a) Tj T* 0 Tw 1.740814 Tw ("coordination language": it is essentially language-independent. Indeed, given a scheduler written in a) Tj T* 0 Tw 2.069213 Tw (sufficiently low-level language, components written in different languages can be linked together in a) Tj T* 0 Tw (single network. FBP thus lends itself to the concept of domain-specific languages or "mini-languages".) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 94.02362 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.541984 Tw (FBP exhibits "data coupling", described in the article on coupling[*] as the loosest type of coupling) Tj T* 0 Tw 3.349983 Tw (between components. The concept of loose coupling is in turn related to that of service-oriented) Tj T* 0 Tw .569986 Tw (architectures, and FBP fits a number of the criteria for such an architecture, albeit at a more fine-grained) Tj T* 0 Tw (level than most examples of this architecture.) Tj T* ET
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.369213 Tw (The processes communicate by means of fixed-capacity connections. A connection is attached to a) Tj T* 0 Tw .597765 Tw (process by means of a port, which has a name agreed upon between the process code and the network) Tj T* 0 Tw .975777 Tw (definition. More than one process can execute the same piece of code. At any point in time, a given IP) Tj T* 0 Tw 1.254987 Tw (can only be "owned" by a single process, or be in transit between two processes. Ports may either be) Tj T* 0 Tw ET
 Q
 Q
  
 endstream
 endobj
-124 0 obj
-<< /Length 5789 >>
+133 0 obj
+<< /Length 5898 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 729.0236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.639269 Tw (simple, or array-type. It is the combination of ports with asynchronous processes that allows many) Tj T* 0 Tw .69284 Tw (long-running primitive functions of data processing, such as Sort, Merge, Summarize, Collate, etc., to be) Tj T* 0 Tw (supported in the form of software black boxes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .077045 Tw (Because FBP processes can continue executing as long they have data to work on and somewhere to put) Tj T* 0 Tw .889983 Tw (their output, FBP applications generally run in less elapsed time than conventional programs, and make) Tj T* 0 Tw (optimal use of all the processors on a machine, with no special programming required to achieve this.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.974147 Tw (The network definition is usually diagrammatic \(see: 'Component Based Programming' below\), and is) Tj T* 0 Tw 3.795318 Tw (converted into a connection list in some lower-level language or notation. FBP is thus a visual) Tj T* 0 Tw .148443 Tw (programming language at this level. More complex network definitions have a hierarchical structure, being) Tj T* 0 Tw (built up from subnets with "sticky" connections .) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .432765 Tw (FBP has much in common with the Linda language in that it is, in Gelernter and Carriero's terminology, a) Tj T* 0 Tw 1.740814 Tw ("coordination language": it is essentially language-independent. Indeed, given a scheduler written in a) Tj T* 0 Tw 2.069213 Tw (sufficiently low-level language, components written in different languages can be linked together in a) Tj T* 0 Tw (single network. FBP thus lends itself to the concept of domain-specific languages or "mini-languages".) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.541984 Tw (FBP exhibits "data coupling", described in the article on coupling[*] as the loosest type of coupling) Tj T* 0 Tw 3.349983 Tw (between components. The concept of loose coupling is in turn related to that of service-oriented) Tj T* 0 Tw .569986 Tw (architectures, and FBP fits a number of the criteria for such an architecture, albeit at a more fine-grained) Tj T* 0 Tw (level than most examples of this architecture.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .530814 Tw (FBP promotes high-level, functional style of specifications that simplify reasoning about system behavior.) Tj T* 0 Tw 2.201984 Tw (An example of this is the distributed data flow model for constructively specifying and analyzing the) Tj T* 0 Tw (semantics of distributed multi-party protocols.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 699.0236 cm
+1 0 0 1 62.69291 453.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Limitations of FBP) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 573.0236 cm
+1 0 0 1 62.69291 327.0236 cm
 q
-BT 1 0 0 1 0 110 Tm 2.724985 Tw 12 TL /F1 10 Tf 0 0 0 rg (At a superficial level, FBP is an ideal programming paradigm that offers quite a few benefits over) Tj T* 0 Tw .969983 Tw (conventional paradigms. At scale though, there is a limiting condition of context switching, especially so) Tj T* 0 Tw .177045 Tw (on conventional general purpose CPUs ) Tj 1 0 0 rg ([#]_) Tj 0 0 0 rg (. For an FBP paradigm at scale, a point will be reached where) Tj T* 0 Tw 1.127984 Tw (the number of context switches on a single machine CPU, overwhelms the system and causes notable) Tj T* 0 Tw .34498 Tw (latency. On average context switching costs approximately 30 microseconds of overhead per occurrence.) Tj T* 0 Tw .638735 Tw (One benchmark of the theoretical limitations of context switching has an upper bound of 18.75% of CPU) Tj T* 0 Tw 1.82186 Tw (cycles wasted due to context switching. Generally, optimal CPU use, is to have the same number of) Tj T* 0 Tw .571235 Tw (worker threads as there are hardware threads when a process is CPU bound, whereas I/O bound permit) Tj T* 0 Tw .719984 Tw (more ) Tj 1 0 0 rg ([#]_) Tj 0 0 0 rg (. These considerations puts the FBP paradigm at very much a disadvantaged ideal of maximal) Tj T* 0 Tw (efficiency.) Tj T* ET
+BT 1 0 0 1 0 110 Tm 2.724985 Tw 12 TL /F1 10 Tf 0 0 0 rg (At a superficial level, FBP is an ideal programming paradigm that offers quite a few benefits over) Tj T* 0 Tw .969983 Tw (conventional paradigms. At scale though, there is a limiting condition of context switching, especially so) Tj T* 0 Tw .634927 Tw (on conventional general purpose CPUs ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (15) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. For an FBP paradigm at scale, a point will be reached where) Tj T* 0 Tw 1.127984 Tw (the number of context switches on a single machine CPU, overwhelms the system and causes notable) Tj T* 0 Tw .34498 Tw (latency. On average context switching costs approximately 30 microseconds of overhead per occurrence.) Tj T* 0 Tw .638735 Tw (One benchmark of the theoretical limitations of context switching has an upper bound of 18.75% of CPU) Tj T* 0 Tw 1.82186 Tw (cycles wasted due to context switching. Generally, optimal CPU use, is to have the same number of) Tj T* 0 Tw .571235 Tw (worker threads as there are hardware threads when a process is CPU bound, whereas I/O bound permit) Tj T* 0 Tw 1.238918 Tw (more ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (16) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. These considerations puts the FBP paradigm at very much a disadvantaged ideal of maximal) Tj T* 0 Tw (efficiency.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 543.0236 cm
+1 0 0 1 62.69291 297.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Component Based Programming) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 489.0236 cm
+1 0 0 1 62.69291 243.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .119985 Tw (In order to overcome the conditional limitations of context switching per processing node in an strictly FBP) Tj T* 0 Tw 1.979318 Tw (paradigm, we provide here an area of consideration to help maximize the efficacy of the CodeChain) Tj T* 0 Tw .832651 Tw (system. The term Component-based Programming \(CBP\) is coined here for the purpose of a enlisting a) Tj T* 0 Tw (stronger emphasis on components over that of data flow as it is for FBP.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 411.0236 cm
+1 0 0 1 62.69291 165.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .760814 Tw (The concepts fundamental to FBP \(autonomous black-box components loosely coupled via lazy linkage\)) Tj T* 0 Tw 1.275318 Tw (can be easily considered at the various phases of the compilation stack prior to execution. Essentially,) Tj T* 0 Tw .128409 Tw (what this means is that we can remove the constraints from that of each component needing to be its own) Tj T* 0 Tw .862927 Tw (execution process or thread, yet still be most loosely coupled. We can redefine components to that of a) Tj T* 0 Tw 1.147984 Tw (virtual model that can then be implemented by encompassing one or all of the compilation's translation) Tj T* 0 Tw (stages prior to execution.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 405.0236 cm
+1 0 0 1 62.69291 159.0236 cm
 Q
+ 
+endstream
+endobj
+134 0 obj
+<< /Length 6216 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 315.0236 cm
+1 0 0 1 62.69291 675.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1806,215 +1749,255 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 315.0236 cm
+1 0 0 1 62.69291 675.0236 cm
 Q
 q
-1 0 0 1 62.69291 249.0236 cm
+1 0 0 1 62.69291 609.0236 cm
 q
-BT 1 0 0 1 0 50 Tm 2.54936 Tw 12 TL /F1 10 Tf 0 0 0 rg (Another most exciting and promising consideration is to apply the notion of CBP to include that of) Tj T* 0 Tw 2.927674 Tw (speciality hardware processors like that of GPGPUs ) Tj 1 0 0 rg ([#]_) Tj 0 0 0 rg (. GPGPUs provide a processing model of) Tj T* 0 Tw 2.580976 Tw (thousands concurrently executing threads. Utilizing these high-scale concurrent processors, one can) Tj T* 0 Tw 1.456647 Tw (imagine the promise of the original FBP concept of inter-communicating processes/threads without the) Tj T* 0 Tw (extreme burdens imposed when merely targeting that of a CPU architecture.) Tj T* ET
+BT 1 0 0 1 0 50 Tm 2.54936 Tw 12 TL /F1 10 Tf 0 0 0 rg (Another most exciting and promising consideration is to apply the notion of CBP to include that of) Tj T* 0 Tw 3.526443 Tw (speciality hardware processors like that of GPGPUs ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (17) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. GPGPUs provide a processing model of) Tj T* 0 Tw 2.580976 Tw (thousands concurrently executing threads. Utilizing these high-scale concurrent processors, one can) Tj T* 0 Tw 1.456647 Tw (imagine the promise of the original FBP concept of inter-communicating processes/threads without the) Tj T* 0 Tw (extreme burdens imposed when merely targeting that of a CPU architecture.) Tj T* ET
 Q
 Q
- 
-endstream
-endobj
-125 0 obj
-<< /Length 4838 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 747.0236 cm
+1 0 0 1 62.69291 579.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Decentralized Network) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 717.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Processor Node) Tj T* ET
-Q
+1 0 0 1 62.69291 567.0236 cm
 Q
 q
-1 0 0 1 62.69291 687.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Secure Computing) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 657.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Micro-payment Calculation) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 627.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (User Interfaces are Very Flexible Thin Clients) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 594.0236 cm
-q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (WorkSource) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 516.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .056412 Tw (WorkSource is the proposal for a open governence, decentralized, peer to peer marketplace for end-users) Tj T* 0 Tw 4.280814 Tw (to hire freelancers. It will employ modern cutting edge technology for monetization, accounting,) Tj T* 0 Tw .645318 Tw (contractual obligation and in the case needed, arbitration. The most prominent aim is to incorporate very) Tj T* 0 Tw 2.600888 Tw (simple access and functionality directly into the CodeDepot user-interfaces. Unlike current freelance) Tj T* 0 Tw 1.711098 Tw (market places, freelancers will be made to feel as equals and not of a second class as compared to) Tj T* 0 Tw (employers.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 474.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .830651 Tw (Non-technical users of software often find themselves in need of instruction or in need of customization.) Tj T* 0 Tw .730697 Tw (By incorporating direct and easy contact with software professionals, the users needs can be addressed) Tj T* 0 Tw (painlessly, immediately and reliably.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 444.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.96498 Tw (Technical users find themselves paying exorbitant fees to hire developers at conventional centralized) Tj T* 0 Tw (services. Often the employer will find these services confusing, frustrating and simply inadequate.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 426.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Freelancers will often find that scanning and applying for jobs simply is too time consuming.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 396.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Overview) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 330.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .090651 Tw (Current freelance and other work sourcing like exchanges are usually run by a centralized corporate entity) Tj T* 0 Tw .207633 Tw (that enjoy a significant percentage of the cost of the transaction together with collecting monthly fees. In a) Tj T* 0 Tw 2.375433 Tw (decentralized; self-governed; peer-to-peer \(P2P\) marketplace there isn't any centralized entity, just a) Tj T* 0 Tw 3.15284 Tw (community of colleagues and clients. Freelancers enjoy the near entirety of the proceeds of their) Tj T* 0 Tw (transactions without some third party dipping their greedy hands in.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 288.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .973314 Tw (New technologies, most significantly bitcoin's blockchain, have now enabled P2P marketplaces to thrive) Tj T* 0 Tw .896457 Tw (unencumbered by any need of a centralized entity or 3rd party. The need for trust is virtually eliminated) Tj T* 0 Tw (providing free, flat, P2P markets.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 222.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .021412 Tw (WorkSource will be decentralized community effort that will provide reliable sources of service providers to) Tj T* 0 Tw 1.962126 Tw (those that need such services. Current cryptocurrency and other new technology make it possible to) Tj T* 0 Tw 4.417976 Tw (enable most efficient market ecosystems where trust and incentive/disincentive mechanisms are) Tj T* 0 Tw .881235 Tw (automated and built right in to the platform. This together with ideas generated and implemented by the) Tj T* 0 Tw (community will make the platform most desirable and efficient to participate in.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 192.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Introduction) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 180.0236 cm
-Q
-q
-1 0 0 1 62.69291 156.0236 cm
+1 0 0 1 62.69291 555.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 14 Tm .97284 Tw 12 TL /F1 10 Tf 0 0 0 rg (WorkSource will be a superset community of sectoral communities for instance that of the software) Tj T* 0 Tw (sector, namely CodeDepot ) Tj 1 0 0 rg ([#]_) Tj 0 0 0 rg (.) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Todo) Tj T* ET
 Q
 Q
 q
+Q
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Processor Node) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Todo) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Secure Computing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Todo) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Micro-payment Calculation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Todo) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (User Interfaces are Very Flexible Thin Clients) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Todo) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+Q
+q
+1 0 0 1 62.69291 306.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (WorkSource) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .652126 Tw (WorkSource is a proposal for a open governence, decentralized, peer to peer marketplace for end-users) Tj T* 0 Tw 4.280814 Tw (to hire freelancers. It will employ modern cutting edge technology for monetization, accounting,) Tj T* 0 Tw .645318 Tw (contractual obligation and in the case needed, arbitration. The most prominent aim is to incorporate very) Tj T* 0 Tw 2.600888 Tw (simple access and functionality directly into the CodeDepot user-interfaces. Unlike current freelance) Tj T* 0 Tw 1.711098 Tw (market places, freelancers will be made to feel as equals and not of a second class as compared to) Tj T* 0 Tw (employers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 186.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .830651 Tw (Non-technical users of software often find themselves in need of instruction or in need of customization.) Tj T* 0 Tw .730697 Tw (By incorporating direct and easy contact with software professionals, the users needs can be addressed) Tj T* 0 Tw (painlessly, immediately and reliably.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 156.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.96498 Tw (Technical users find themselves paying exorbitant fees to hire developers at conventional centralized) Tj T* 0 Tw (services. Often the employer will find these services confusing, frustrating and simply inadequate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 138.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Freelancers will often find that scanning and applying for jobs simply is too time consuming.) Tj T* ET
+Q
 Q
  
 endstream
 endobj
-126 0 obj
-<< /Length 8910 >>
+135 0 obj
+<< /Length 7632 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 744.0236 cm
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .090651 Tw (Current freelance and other work sourcing like exchanges are usually run by a centralized corporate entity) Tj T* 0 Tw .207633 Tw (that enjoy a significant percentage of the cost of the transaction together with collecting monthly fees. In a) Tj T* 0 Tw 2.375433 Tw (decentralized; self-governed; peer-to-peer \(P2P\) marketplace there isn't any centralized entity, just a) Tj T* 0 Tw 3.15284 Tw (community of colleagues and clients. Freelancers enjoy the near entirety of the proceeds of their) Tj T* 0 Tw (transactions without some third party dipping their greedy hands in.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .973314 Tw (New technologies, most significantly bitcoin's blockchain, have now enabled P2P marketplaces to thrive) Tj T* 0 Tw .569398 Tw (unencumbered by any need of a centralized entity or 3rd party. The need for trust is virtually eliminated..) Tj T* 0 Tw (providing free, flat, P2P markets.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .021412 Tw (WorkSource will be decentralized community effort that will provide reliable sources of service providers to) Tj T* 0 Tw 1.962126 Tw (those that need such services. Current cryptocurrency and other new technology make it possible to) Tj T* 0 Tw 4.417976 Tw (enable most efficient market ecosystems where trust and incentive/disincentive mechanisms are) Tj T* 0 Tw .881235 Tw (automated and built right in to the platform. This together with ideas generated and implemented by the) Tj T* 0 Tw (community will make the platform most desirable and efficient to participate in.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (CodeSweet) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 690.0236 cm
+1 0 0 1 62.69291 444.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .43186 Tw (A programmers toolbox is most often burdensome and time consuming to get productive with. It could be) Tj T* 0 Tw 1.682927 Tw (argued that every tool in use by engineers is in some way problematic or simply incomplete. If every) Tj T* 0 Tw .20881 Tw (aspect of every tool and its interface were a component, then the programmer could fashion their tool and) Tj T* 0 Tw (hence their toolbox to be just the way they liked it.) Tj T* ET
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .609318 Tw (A programmers toolbox is most often burdensome and time-consuming to be productive with. It could be) Tj T* 0 Tw 1.682927 Tw (argued that every tool in use by engineers is in some way problematic or simply incomplete. If every) Tj T* 0 Tw .20881 Tw (aspect of every tool and its interface were a component, then the programmer could fashion their tool and) Tj T* 0 Tw .999431 Tw (hence their toolbox to be just the way they liked it. That bears repeating.. If everything is a component,) Tj T* 0 Tw (then the programmer could fashion their tool and hence their toolbox to be just the way they like it!) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 648.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .707485 Tw (CodeSweet will be a component based toolkit where engineers have the ability to add features that they) Tj T* 0 Tw .968555 Tw (deem worthy.. leaving any others behind. Features like automation, intuitive instruction and ease of use) Tj T* 0 Tw (will be of strong focus.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 636.0236 cm
-Q
-q
-1 0 0 1 62.69291 553.0236 cm
-.960784 .960784 .862745 rg
-n 0 83 469.8898 -83 re f*
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 57 Tm  T* ET
-q
-1 0 0 1 16 52 cm
+1 0 0 1 62.69291 402.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.5 Tm /F3 12.5 Tf 15 TL (ToDo) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .707485 Tw (CodeSweet will be a component based toolkit where engineers have the ability to add features that they) Tj T* 0 Tw .854147 Tw (deem worthy.. leaving any others behind. Features like automation, intuitive instruction, reimagined user) Tj T* 0 Tw (interfaces, and ease-of-use will be of strong focus.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 16 16 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .377674 Tw (Emphasize the CodeChain Toolbox and how the goal is to make software production unbelievably) Tj T* 0 Tw (seemless !) Tj T* ET
-Q
-Q
-q
-1 J
-1 j
-.662745 .662745 .662745 RG
-.5 w
-n 0 83 m 469.8898 83 l S
-n 0 0 m 469.8898 0 l S
-n 0 0 m 0 83 l S
-n 469.8898 0 m 469.8898 83 l S
-Q
-Q
-q
-1 0 0 1 62.69291 547.0236 cm
-Q
-q
-1 0 0 1 62.69291 529.0236 cm
+1 0 0 1 62.69291 384.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Other aspects will include:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 523.0236 cm
+1 0 0 1 62.69291 378.0236 cm
 Q
 q
-1 0 0 1 62.69291 433.0236 cm
+1 0 0 1 62.69291 288.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -2063,7 +2046,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Employing automation as much as possible) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Employing intelligence and automation as much as possible) Tj T* ET
 Q
 Q
 q
@@ -2148,23 +2131,122 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 433.0236 cm
+1 0 0 1 62.69291 288.0236 cm
 Q
 q
-1 0 0 1 62.69291 376.3307 cm
-Q
-q
-1 0 0 1 62.69291 347.9843 cm
+1 0 0 1 62.69291 259.6772 cm
 n 0 14.17323 m 469.8898 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 335.9843 cm
+1 0 0 1 62.69291 202.9843 cm
+Q
+q
+1 0 0 1 62.69291 174.6378 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 150.6378 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+BT 1 0 0 1 0 14 Tm 99.6652 Tw 12 TL /F1 10 Tf 0 0 0 rg (Decentralized Autonomous Organization) Tj T* 0 Tw 0 0 .501961 rg (http://en.wikipedia.org/wiki/Decentralized_Autonomous_Organization) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 138.6378 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Open-source Goverence Model ) Tj 0 0 .501961 rg (http://en.wikipedia.org/wiki/Open-source_governance) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 126.6378 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Bitcoin's Blockchain ) Tj 0 0 .501961 rg (http://en.wikipedia.org/wiki/Bitcoin#Block_chain) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 102.6378 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+BT 1 0 0 1 0 14 Tm 31.08208 Tw 12 TL /F1 10 Tf 0 0 0 rg (Bitcoin, The Beginning of Open-source Goverence) Tj T* 0 Tw 0 0 .501961 rg (http://falkvinge.net/2014/11/10/bitcoin-the-beginning-of-open-source-governance/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 90.6378 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Cryptocurrency ) Tj 0 0 .501961 rg (http://en.wikipedia.org/wiki/Cryptocurrency) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 78.6378 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (6) Tj T* ET
 Q
 Q
 q
@@ -2176,34 +2258,21 @@ Q
 q
 Q
 Q
+ 
+endstream
+endobj
+136 0 obj
+<< /Length 4408 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 311.9843 cm
+1 0 0 1 62.69291 741.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 12 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2) Tj T* ET
-Q
-Q
-q
-1 0 0 1 91.03937 0 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.622533 Tw (Here we define an operating system as not including kernel duties of hardware) Tj T* 0 Tw (interfacing.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 287.9843 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 12 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (3) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (7) Tj T* ET
 Q
 Q
 q
@@ -2216,13 +2285,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 275.9843 cm
+1 0 0 1 62.69291 729.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (4) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (8) Tj T* ET
 Q
 Q
 q
@@ -2235,13 +2304,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 263.9843 cm
+1 0 0 1 62.69291 717.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (5) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (9) Tj T* ET
 Q
 Q
 q
@@ -2254,13 +2323,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 251.9843 cm
+1 0 0 1 62.69291 705.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (6) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (10) Tj T* ET
 Q
 Q
 q
@@ -2273,13 +2342,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 239.9843 cm
+1 0 0 1 62.69291 693.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (7) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (11) Tj T* ET
 Q
 Q
 q
@@ -2292,13 +2361,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 227.9843 cm
+1 0 0 1 62.69291 681.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (8) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (12) Tj T* ET
 Q
 Q
 q
@@ -2311,13 +2380,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 215.9843 cm
+1 0 0 1 62.69291 669.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (9) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (13) Tj T* ET
 Q
 Q
 q
@@ -2330,13 +2399,13 @@ q
 Q
 Q
 q
-1 0 0 1 44.61311 191.9843 cm
+1 0 0 1 44.61311 645.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 12 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (10) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (14) Tj T* ET
 Q
 Q
 q
@@ -2349,13 +2418,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 179.9843 cm
+1 0 0 1 62.69291 633.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (11) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (15) Tj T* ET
 Q
 Q
 q
@@ -2368,13 +2437,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 167.9843 cm
+1 0 0 1 62.69291 621.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (12) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (16) Tj T* ET
 Q
 Q
 q
@@ -2387,13 +2456,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 143.9843 cm
+1 0 0 1 62.69291 597.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 12 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (13) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (17) Tj T* ET
 Q
 Q
 q
@@ -2406,13 +2475,13 @@ q
 Q
 Q
 q
-1 0 0 1 55.70311 119.9843 cm
+1 0 0 1 55.70311 573.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 12 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (14) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (18) Tj T* ET
 Q
 Q
 q
@@ -2427,36 +2496,36 @@ Q
  
 endstream
 endobj
-127 0 obj
-<< /Nums [ 0 128 0 R 1 129 0 R 2 130 0 R 3 131 0 R 4 132 0 R 
-  5 133 0 R 6 134 0 R 7 135 0 R ] >>
+137 0 obj
+<< /Nums [ 0 138 0 R 1 139 0 R 2 140 0 R 3 141 0 R 4 142 0 R 
+  5 143 0 R 6 144 0 R 7 145 0 R ] >>
 endobj
-128 0 obj
+138 0 obj
 << /S /D /St 1 >>
 endobj
-129 0 obj
+139 0 obj
 << /S /D /St 2 >>
 endobj
-130 0 obj
+140 0 obj
 << /S /D /St 3 >>
 endobj
-131 0 obj
+141 0 obj
 << /S /D /St 4 >>
 endobj
-132 0 obj
+142 0 obj
 << /S /D /St 5 >>
 endobj
-133 0 obj
+143 0 obj
 << /S /D /St 6 >>
 endobj
-134 0 obj
+144 0 obj
 << /S /D /St 7 >>
 endobj
-135 0 obj
+145 0 obj
 << /S /D /St 8 >>
 endobj
 xref
-0 136
+0 146
 0000000000 65535 f
 0000000075 00000 n
 0000000130 00000 n
@@ -2502,102 +2571,112 @@ xref
 0000006885 00000 n
 0000007057 00000 n
 0000007229 00000 n
-0000007352 00000 n
-0000007862 00000 n
-0000008074 00000 n
-0000008246 00000 n
-0000008418 00000 n
-0000008590 00000 n
-0000008762 00000 n
-0000009004 00000 n
-0000009263 00000 n
-0000009475 00000 n
-0000009647 00000 n
-0000009819 00000 n
-0000009990 00000 n
-0000010162 00000 n
-0000010334 00000 n
-0000010506 00000 n
-0000010678 00000 n
-0000010850 00000 n
-0000011022 00000 n
-0000011194 00000 n
-0000011488 00000 n
-0000011700 00000 n
-0000011912 00000 n
-0000012084 00000 n
-0000012292 00000 n
-0000012464 00000 n
-0000012636 00000 n
-0000012857 00000 n
-0000013029 00000 n
-0000013232 00000 n
-0000013404 00000 n
-0000013611 00000 n
-0000013783 00000 n
-0000013975 00000 n
-0000014147 00000 n
-0000014342 00000 n
-0000014514 00000 n
-0000014713 00000 n
-0000014885 00000 n
-0000015090 00000 n
-0000015262 00000 n
-0000015498 00000 n
-0000015670 00000 n
-0000015858 00000 n
-0000016030 00000 n
-0000016229 00000 n
-0000016401 00000 n
-0000016632 00000 n
-0000016804 00000 n
-0000017043 00000 n
-0000017464 00000 n
-0000017575 00000 n
-0000017826 00000 n
-0000017905 00000 n
-0000018018 00000 n
-0000018149 00000 n
-0000018335 00000 n
-0000018437 00000 n
-0000018597 00000 n
-0000018788 00000 n
-0000018997 00000 n
-0000019113 00000 n
-0000019269 00000 n
-0000019409 00000 n
-0000019558 00000 n
-0000019701 00000 n
-0000019837 00000 n
-0000019975 00000 n
-0000020122 00000 n
-0000020276 00000 n
-0000020449 00000 n
-0000020565 00000 n
-0000020685 00000 n
-0000020801 00000 n
-0000020915 00000 n
-0000028610 00000 n
-0000034228 00000 n
-0000041196 00000 n
-0000049480 00000 n
-0000056513 00000 n
-0000062360 00000 n
-0000067256 00000 n
-0000076224 00000 n
-0000076344 00000 n
-0000076382 00000 n
-0000076420 00000 n
-0000076458 00000 n
-0000076496 00000 n
-0000076534 00000 n
-0000076572 00000 n
-0000076610 00000 n
+0000007739 00000 n
+0000007911 00000 n
+0000008083 00000 n
+0000008255 00000 n
+0000008427 00000 n
+0000008679 00000 n
+0000008850 00000 n
+0000009081 00000 n
+0000009252 00000 n
+0000009425 00000 n
+0000009596 00000 n
+0000009769 00000 n
+0000009942 00000 n
+0000010115 00000 n
+0000010288 00000 n
+0000010461 00000 n
+0000010584 00000 n
+0000010757 00000 n
+0000011044 00000 n
+0000011217 00000 n
+0000011390 00000 n
+0000011628 00000 n
+0000011799 00000 n
+0000012030 00000 n
+0000012202 00000 n
+0000012424 00000 n
+0000012596 00000 n
+0000012803 00000 n
+0000012975 00000 n
+0000013179 00000 n
+0000013351 00000 n
+0000013587 00000 n
+0000013758 00000 n
+0000013956 00000 n
+0000014126 00000 n
+0000014332 00000 n
+0000014644 00000 n
+0000014816 00000 n
+0000015037 00000 n
+0000015209 00000 n
+0000015412 00000 n
+0000015584 00000 n
+0000015791 00000 n
+0000015963 00000 n
+0000016155 00000 n
+0000016327 00000 n
+0000016522 00000 n
+0000016694 00000 n
+0000016893 00000 n
+0000017065 00000 n
+0000017270 00000 n
+0000017442 00000 n
+0000017678 00000 n
+0000017850 00000 n
+0000018038 00000 n
+0000018210 00000 n
+0000018410 00000 n
+0000018583 00000 n
+0000018815 00000 n
+0000019055 00000 n
+0000019453 00000 n
+0000019566 00000 n
+0000019818 00000 n
+0000019899 00000 n
+0000020015 00000 n
+0000020149 00000 n
+0000020337 00000 n
+0000020439 00000 n
+0000020600 00000 n
+0000020792 00000 n
+0000021002 00000 n
+0000021118 00000 n
+0000021274 00000 n
+0000021414 00000 n
+0000021563 00000 n
+0000021706 00000 n
+0000021842 00000 n
+0000021980 00000 n
+0000022127 00000 n
+0000022281 00000 n
+0000022455 00000 n
+0000022571 00000 n
+0000022691 00000 n
+0000022808 00000 n
+0000022923 00000 n
+0000030791 00000 n
+0000037242 00000 n
+0000045689 00000 n
+0000053981 00000 n
+0000059937 00000 n
+0000066211 00000 n
+0000073901 00000 n
+0000078367 00000 n
+0000078487 00000 n
+0000078525 00000 n
+0000078563 00000 n
+0000078601 00000 n
+0000078639 00000 n
+0000078677 00000 n
+0000078715 00000 n
+0000078753 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\000\330\200\202\207\267lC\302\340\337\251z\2139\235) (\000\330\200\202\207\267lC\302\340\337\251z\2139\235)]
- /Info 96 0 R /Root 95 0 R /Size 136 >>
+ [(\007\375\003\315\232h\226a\037QO\375\375\271\361\342) (\007\375\003\315\232h\226a\037QO\375\375\271\361\342)]
+ /Info 106 0 R /Root 105 0 R /Size 146 >>
 startxref
-76648
+78791
 %%EOF
