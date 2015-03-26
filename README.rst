@@ -64,10 +64,9 @@ Software is ubiquitous in our lives whether we are users or producers. Yet, even
 astute observer can see that the entire ecosystem is ripe for innovation. In this paper we will
 begin a conversation of the direction of the needed improvements and we ask the community
 to participate. This community that is mentioned, are the people that engage with software
-whether it be in its production, sales or usage; whether they are casual or power users. Having
-discussion and contribution
-globally and easily, will ensure that the best solutions of problems we all identify, will be
-addressed most thoroughly and efficiently.
+whether it be in its production, sales, tutelage or usage.. whether they are casual or power users.
+Having discussion and contribution globally and easily, will ensure that the best solutions of
+problems we all identify, will be addressed most thoroughly and efficiently.
 
 Below are six foundational pillars of a proposed software ecosystem
 that may forever change the entire paradigm of our engagement with software. What is presented
@@ -83,7 +82,8 @@ Together, an engaged society will undoubtedly find the best solutions to issues 
 the past 40 years, the open source community has shown that open participation most often
 provides better results than that of a closed system. We present here a decentralized organization
 where every member of the community has the opportunity provide direction through proposals,
-discussion and ultimately to that of solutions. We suggest that Decentralized Autonomous Organizations,
+discussion and ultimately to that of solutions. We suggest that Decentralized Autonomous
+Organizations [#]_,
 a new concept now available through cutting edge technology, will provide many benifits over
 conventional and centralized organizational structures where they are applicable.
 
@@ -93,7 +93,7 @@ Overview
 The CodeDepot Foundation is the working name of a proposed open governance model for the
 CodeDepot ecosystem; where directives and decisions are decentralized and democratized
 amongst the entire community [#]_. This notion of decentralized governance is aimed at stemming
-the problems of any centralized governing system that naturally creates levels of control [#]_.
+the problems of any centralized governing system that naturally creates levels of control.
 
     Bitcoin's underlying technology of the blockchain [#]_, brings a radical departure from the
     governance model of the old world. It follows trends of decentralization that have emerged
@@ -123,7 +123,7 @@ Moneys can now be sent digitally without any concern for fraud or corruption. Ab
 payments in fractions of a penny are now facilitated. These are truly
 amazing times and we as a community of software engagers can benefit from this remarkability.
 
-CodeCoin is the proposed crytpocurrency that will be used in this software ecosystem. It is
+CodeCoin is the proposed crytpocurrency[#]_ that will be used in this software ecosystem. It is
 essentially a token that will be used to monetize all the goods and services within the ecosystem. This
 cryptocurrency will be at the center of a well considered autonomous economic model of incentives and
 disincentives formulated by the community. As with other aspects of this proposal, an emphasis
@@ -169,7 +169,8 @@ The problems with the conventional programming paradigm are numerous. In fact, a
 of the initial draft of this paper, Querying Google's search engine for "The problems with
 programming languages" produced nearly 72 million results. It seems fruitless
 to itemize these problems, let alone the problems of the entire software centric paradigm,
-as a comparison to what is here proposed. Instead as an introduction we ask the following questions.
+as a comparison to what is here proposed. Instead, as an introduction we ask the following
+questions:
 
   1) What if snippets of software were in essence Lego like reusable components that just snapped together into a desired structure?
   2) What if once a component or a structure of components was created, it would never have to be created again by anyone? Yes, ever again as in the literal sense of forever.
@@ -187,12 +188,11 @@ as others.
 Overview
 `````````
 
-CodeChain is a decentralized [#]_ operating system [#]_ which at its core reflects
-the philosphy of component based software engineering (CBSE) [#]_ and is entirely inspired by
+CodeChain is a decentralized system [#]_which at its core reflects
+the philosphy of component based software engineering (CBSE) [#]_. It is entirely inspired by
 J.Paul Morrison's [#]_ Flow-Based Programming (FBP) [#]_. The concepts of FBP are
 improved with secure decentralized computing, communication and database models from
-various sources including
-BitCoin [#]_, BitTorrent [#]_. CBSE exhibits the very desirable property
+various sources including BitCoin [#]_, BitTorrent [#]_. CBSE exhibits the very desirable property
 of loose coupling [#]_. FBP, a particular form of dataflow programming [#]_ extends loose
 coupling to define bounded buffers, information packets with defined lifetimes, named ports,
 and most importantly a separate (lazy) definition of communication connections [#]_.
@@ -305,40 +305,36 @@ imposed when merely targeting that of a CPU architecture.
 
 Decentralized Network
 ``````````````````````
+	Todo
 
 
 
 Processor Node
 ```````````````
-
+	Todo
 
 Secure Computing
 `````````````````
+	Todo
 
 .. zkSNARKS for C
 
 
 Micro-payment Calculation
 ``````````````````````````
+	Todo
 
 
 User Interfaces are Very Flexible Thin Clients
 ```````````````````````````````````````````````
-
-
-
-
-
-
-
-
+	Todo
 
 
 
 WorkSource
 ==========
 
-WorkSource is the proposal for a open governence, decentralized, peer to peer marketplace for end-users
+WorkSource is a proposal for a open governence, decentralized, peer to peer marketplace for end-users
 to hire freelancers.
 It will employ modern cutting edge technology for monetization, accounting, contractual obligation and
 in the case needed, arbitration. The most prominent aim is to incorporate very simple access and functionality directly
@@ -355,6 +351,9 @@ services. Often the employer will find these services confusing, frustrating and
 
 Freelancers will often find that scanning and applying for jobs simply is too time consuming.
 
+
+..
+	develop the idea of a market chain (all) and its sidechains (e.g: codedepot).
 
 
 Overview
@@ -416,11 +415,27 @@ Other aspects will include:
 
 
 ---------------------------------
+---------------------------------
+---------------------------------
+
+
+.. [#] Decentralized Autonomous Organization
+		 http://en.wikipedia.org/wiki/Decentralized_Autonomous_Organization
+
+.. [#] Open-source Goverence Model
+		http://en.wikipedia.org/wiki/Open-source_governance
+
+.. [#] Bitcoin's Blockchain
+		http://en.wikipedia.org/wiki/Bitcoin#Block_chain
+
+.. [#] Bitcoin, The Beginning of Open-source Goverence
+		http://falkvinge.net/2014/11/10/bitcoin-the-beginning-of-open-source-governance/
+
+.. [#] Cryptocurrency
+		 http://en.wikipedia.org/wiki/Cryptocurrency
 
 .. [#] Decentralized Computing
        http://en.wikipedia.org/wiki/Decentralized_computing
-
-.. [#] Here we define an operating system as not including kernel duties of hardware interfacing.
 
 .. [#] Component-Based Software Engineering
        http://en.wikipedia.org/wiki/Component-based_software_engineering
@@ -430,6 +445,9 @@ Other aspects will include:
 
 .. [#] Flow-Based Programming
        http://en.wikipedia.org/wiki/Flow-based_programming
+
+
+
 
 .. [#] Bitcoin
        http://en.wikipedia.org/wiki/Bitcoin
