@@ -2,6 +2,10 @@
 Proposal for a Modern Software Ecosystem
 ========================================
 
+*Please note that this whitepaper is very much incomplete and still being formulated.*
+
+-----------------------------------------
+
 .. contents::
 
 ..
@@ -407,19 +411,16 @@ user interfaces, and ease-of-use will be of strong focus.
    
 Other aspects will include:
 
- * The best documentation tools and interfaces
- * Employing intelligence and automation as much as possible
- * Search and reference to be topped by no other
- * Intuition
- * Cutting edge compilation and translation chains
+* The best documentation tools and interfaces
+* Employing intelligence and automation as much as possible
+* Search and reference to be topped by no other
+* Intuition
+* Cutting edge compilation and translation chains
 
 
 
 ---------------------------------
 
----------------------------------
-
----------------------------------
 
 
 .. [#] Decentralized Autonomous Organization
