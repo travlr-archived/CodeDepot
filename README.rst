@@ -462,8 +462,8 @@ Other aspects will include:
 .. [#] Dataflow Programming
        http://en.wikipedia.org/wiki/Dataflow_programming
 
-.. [#] Flow-Based Programming 2nd Edition
-       http://www.amazon.com/Flow-Based-Programming-J-Paul-Morrison-ebook/dp/B004PLO66O
+.. [#] Flow-Based Programming
+		 http://ersaconf.org/ersa-adn/papers/adn003.pdf
 
 .. [#] J.Paul Morrison's Website
        http://www.jpaulmorrison.com/fbp
