@@ -164,8 +164,7 @@ Mechanisms will be built-in that provide the end-user and easy ability to:
  * Directly request alterations or needed features.
  * Intuitive, complete documentation and autonomous tutelage.
  * Hire affordable freelancers directly from their user-interface
-
-   * For asistance or instruction
+	* For asistance or instruction
 	* For software developers to provide any possibly needed customization
 
 

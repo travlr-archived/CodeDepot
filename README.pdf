@@ -339,7 +339,7 @@ endobj
 << /Outlines 110 0 R /PageLabels 140 0 R /PageMode /UseNone /Pages 131 0 R /Type /Catalog >>
 endobj
 109 0 obj
-<< /Author () /CreationDate (D:20150403113926+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20150403114107+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Proposal for a Modern Software Ecosystem) >>
 endobj
 110 0 obj
@@ -869,7 +869,7 @@ Q
 endstream
 endobj
 134 0 obj
-<< /Length 8584 >>
+<< /Length 8537 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1193,40 +1193,40 @@ q
 1 0 0 1 23 36 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hire affordable freelancers directly from their user-interface) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Hire affordable freelancers directly from their user-interface) Tj T* ET
 Q
-Q
-q
-1 0 0 1 23 30 cm
-Q
-q
-1 0 0 1 23 30 cm
 Q
 q
 1 0 0 1 23 -3 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
 q
-1 0 0 1 6 18 cm
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 18 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (For asistance or instruction) Tj T* ET
-Q
-Q
-q
 1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 8 Tm  T* ET
 q
-1 0 0 1 20 12 cm
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (For asistance or instruction) Tj T* ET
+Q
+Q
+q
+Q
 Q
 q
 1 0 0 1 20 12 cm
@@ -1257,12 +1257,6 @@ q
 Q
 q
 Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
 Q
 q
 Q
@@ -2684,25 +2678,25 @@ xref
 0000023496 00000 n
 0000031405 00000 n
 0000038191 00000 n
-0000046833 00000 n
-0000055425 00000 n
-0000061507 00000 n
-0000067781 00000 n
-0000075444 00000 n
-0000079849 00000 n
-0000079969 00000 n
-0000080007 00000 n
-0000080045 00000 n
-0000080083 00000 n
-0000080121 00000 n
-0000080159 00000 n
-0000080197 00000 n
-0000080235 00000 n
+0000046786 00000 n
+0000055378 00000 n
+0000061460 00000 n
+0000067734 00000 n
+0000075397 00000 n
+0000079802 00000 n
+0000079922 00000 n
+0000079960 00000 n
+0000079998 00000 n
+0000080036 00000 n
+0000080074 00000 n
+0000080112 00000 n
+0000080150 00000 n
+0000080188 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\253X\367\330V\341\376x\352\033uM\206\031\354\177) (\253X\367\330V\341\376x\352\033uM\206\031\354\177)]
+ [(CH Oq_\332\213\031rY\367\)A\227\254) (CH Oq_\332\213\031rY\367\)A\227\254)]
  /Info 109 0 R /Root 108 0 R /Size 149 >>
 startxref
-80273
+80226
 %%EOF
