@@ -145,7 +145,7 @@ and users will have an interface to utilize it. Other participants will include 
 contributers, article writers, bloggers, audio and video producers. Actually, anything surrounding
 software and related technology.
 
-As described in the section for CodeChain_, developers will be rights holders for what essentially
+As described in the section for CodeChain_ below, developers will be rights holders for what essentially
 are snippets of code called components in this paper's nomenclature. They will use
 CodeDepot as a repository and market interface for their components of code and
 other contributions.
@@ -169,7 +169,7 @@ Mechanisms will be built-in that provide the end-user and easy ability to:
 	* For software developers to provide any possibly needed customization
 
 
-.. _CodeChain:
+.. _CodeChain: https://github.com/ProDataLab/CodeDepot#codechain-the-decentralized-processing-engine
 
 CodeChain, The decentralized processing engine
 ==============================================
