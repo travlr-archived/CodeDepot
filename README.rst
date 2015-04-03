@@ -169,7 +169,7 @@ Mechanisms will be built-in that provide the end-user and easy ability to:
 	* For software developers to provide any possibly needed customization
 
 
-.. _CodeChain: https://github.com/ProDataLab/CodeDepot#codechain-the-decentralized-processing-engine
+.. _CodeChain:
 
 CodeChain, The decentralized processing engine
 ==============================================
