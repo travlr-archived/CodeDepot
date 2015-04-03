@@ -163,9 +163,9 @@ Mechanisms will be built-in that provide the end-user and easy ability to:
  * Give seemless, instantaneous feedback.
  * Directly request alterations or needed features.
  * Intuitive, complete documentation and autonomous tutelage.
- * Hire affordable freelancers directly from their user-interface
-	* For asistance or instruction
-	* For software developers to provide any possibly needed customization
+ * Hire affordable freelancers directly from their user-interface.
+	* For asistance or instruction.
+	* For software developers to provide any possibly needed customization.
 
 
 .. _CodeChain: https://github.com/ProDataLab/CodeDepot#codechain-the-decentralized-processing-engine
@@ -174,10 +174,10 @@ CodeChain, The decentralized processing engine
 ==============================================
 
 The problems with the conventional programming paradigm are numerous. In fact, at the time
-of the initial draft of this paper, Querying Google's search engine for "The problems with
+of the initial draft of this paper, querying Google's search engine for "The problems with
 programming languages" produced nearly 72 million results. It seems fruitless
 to itemize these problems as a comparison to what is proposed here, let alone the problems of
-the entire software-centric paradigm, Instead, as an introduction we ask the following
+the entire software-centric paradigm. Instead, as an introduction, we ask the following
 questions:
 
   1) What if snippets of software were in essence Lego like reusable components that just snapped together into a desired structure?
@@ -189,7 +189,7 @@ questions:
   7) What if a software's execuation was most reliable and the most possibly secure from intrusion?
   8) What if a software user's privacy was held in the highest regard.
 
-CodeChain, it will be shown, is a system that could and will provide these desirable properties as well
+CodeChain, it will be shown, is a system that could and will provide these desirable properties, as well
 as others.
 
 
@@ -212,55 +212,55 @@ FBP: The Architectural Inspiration
 
 *The following is taken from J.Paul Morrison's Website.* [#]_
 
-Flow-Based Programming is a programming paradigm that uses a "data factory" metaphor
-for designing and building software applications. Applications are defined as networks
-of "black box" processes, which exchange data across predefined connections by message
-passing, where the connections are specified external to the processes. These black
-box processes can be reconnected endlessly to form different applications without having
-to be changed internally. FBP is thus naturally component orientated.
+	Flow-Based Programming is a programming paradigm that uses a "data factory" metaphor
+	for designing and building software applications. Applications are defined as networks
+	of "black box" processes, which exchange data across predefined connections by message
+	passing, where the connections are specified external to the processes. These black
+	box processes can be reconnected endlessly to form different applications without having
+	to be changed internally. FBP is thus naturally component orientated.
 
-It views an application not as a single, sequential process, which starts at a point
-in time, and then does one thing at a time until it is finished, but as a network
-of asynchronous processes communicating by means of streams of structured data chunks,
-called "information packets" (IPs). In this view, the focus is on the application
-data and the transformations applied to it to produce the desired outputs.
-The network is defined externally to the processes, as a list of connections
-which is interpreted by a piece of software, usually called the "scheduler".
+	It views an application not as a single, sequential process, which starts at a point
+	in time, and then does one thing at a time until it is finished, but as a network
+	of asynchronous processes communicating by means of streams of structured data chunks,
+	called "information packets" (IPs). In this view, the focus is on the application
+	data and the transformations applied to it to produce the desired outputs.
+	The network is defined externally to the processes, as a list of connections
+	which is interpreted by a piece of software, usually called the "scheduler".
 
-The processes communicate by means of fixed-capacity connections. A connection is
-attached to a process by means of a port, which has a name agreed upon between
-the process code and the network definition. More than one process can execute
-the same piece of code. At any point in time, a given IP can only be "owned" by
-a single process, or be in transit between two processes. Ports may either be
-simple, or array-type. It is the combination of ports with asynchronous processes that
-allows many long-running primitive functions of data processing, such as Sort,
-Merge, Summarize, Collate, etc., to be supported in the form of software black boxes.
+	The processes communicate by means of fixed-capacity connections. A connection is
+	attached to a process by means of a port, which has a name agreed upon between
+	the process code and the network definition. More than one process can execute
+	the same piece of code. At any point in time, a given IP can only be "owned" by
+	a single process, or be in transit between two processes. Ports may either be
+	simple, or array-type. It is the combination of ports with asynchronous processes that
+	allows many long-running primitive functions of data processing, such as Sort,
+	Merge, Summarize, Collate, etc., to be supported in the form of software black boxes.
 
-Because FBP processes can continue executing as long they have data to work on and
-somewhere to put their output, FBP applications generally run in less elapsed time
-than conventional programs, and make optimal use of all the processors on a machine,
-with no special programming required to achieve this.
+	Because FBP processes can continue executing as long they have data to work on and
+	somewhere to put their output, FBP applications generally run in less elapsed time
+	than conventional programs, and make optimal use of all the processors on a machine,
+	with no special programming required to achieve this.
 
-The network definition is usually diagrammatic (see: 'Component Based Programming' below), and is
-converted into a connection list in some lower-level language or notation. FBP
-is thus a visual programming language at this level. More complex network definitions
-have a hierarchical structure, being built up from subnets with "sticky" connections .
+	The network definition is usually diagrammatic (see: 'Component Based Programming' below), and is
+	converted into a connection list in some lower-level language or notation. FBP
+	is thus a visual programming language at this level. More complex network definitions
+	have a hierarchical structure, being built up from subnets with "sticky" connections .
 
-FBP has much in common with the Linda language in that it is, in Gelernter and
-Carriero's terminology, a "coordination language": it is essentially
-language-independent. Indeed, given a scheduler written in a sufficiently low-level
-language, components written in different languages can be linked together in a single
-network. FBP thus lends itself to the concept of domain-specific languages or
-"mini-languages".
+	FBP has much in common with the Linda language in that it is, in Gelernter and
+	Carriero's terminology, a "coordination language": it is essentially
+	language-independent. Indeed, given a scheduler written in a sufficiently low-level
+	language, components written in different languages can be linked together in a single
+	network. FBP thus lends itself to the concept of domain-specific languages or
+	"mini-languages".
 
-FBP exhibits "data coupling", described in the article on coupling[*] as the loosest type
-of coupling between components. The concept of loose coupling is in turn related to that
-of service-oriented architectures, and FBP fits a number of the criteria for such an
-architecture, albeit at a more fine-grained level than most examples of this architecture.
+	FBP exhibits "data coupling", described in the article on coupling[*] as the loosest type
+	of coupling between components. The concept of loose coupling is in turn related to that
+	of service-oriented architectures, and FBP fits a number of the criteria for such an
+	architecture, albeit at a more fine-grained level than most examples of this architecture.
 
-FBP promotes high-level, functional style of specifications that simplify reasoning
-about system behavior. An example of this is the distributed data flow model for
-constructively specifying and analyzing the semantics of distributed multi-party protocols.
+	FBP promotes high-level, functional style of specifications that simplify reasoning
+	about system behavior. An example of this is the distributed data flow model for
+	constructively specifying and analyzing the semantics of distributed multi-party protocols.
 
 
 Limitations of FBP
@@ -341,6 +341,12 @@ User Interfaces are Very Flexible Thin Clients
 
 WorkSource
 ==========
+
+..
+	 * Google Helpouts
+	 * Amazon Mechanical Turk
+	 * Angie's List
+	 * Amazon
 
 WorkSource is a proposal for a open governence, decentralized, peer to peer marketplace for end-users
 to hire freelancers.
