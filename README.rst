@@ -38,7 +38,7 @@ to be this way"?
 
 An end-user of software might have thought of how hard it is to get familiar with a
 software product or that the documentation and help system are simply not much help.
-They might have wished for a feature they needed to be available or that the there are
+They might have wished for a feature they needed to be available or that the there were
 too many features packed into the product. Small business owners may find navigating the
 obstacle course of software system selection and integration impossible for mere mortals.
 Software engineers may have thought of many areas of foolishness that surround their
@@ -114,12 +114,7 @@ the problems of any centralized governing system that naturally creates levels o
     solves the scaling issue of trust. With its decentralized security, we can now create a more open and
     inclusive society at a global scale.
 
-    Bitcoin's decentralized system opens a door to a new paradigm where people can choose to abide by
-    a protocol of consensus which is a different from the logic of domination and control of a
-    centralized paradigm. Technology can't solve everything. Technology is just a tool. It always needs
-    to be accounted for by democratic consensus of people.
-    Technology should never be used to replace human interaction and connection and it should be
-    used only to enhance it. [#]_
+	 Bitcoin's decentralized system opens a door to a new paradigm where people can choose to abide by a protocol of consensus which is a different from the logic of domination and control of a centralized paradigm. Technology can't solve everything. Technology is just a tool. It always needs to be accounted for by democratic consensus of people. Technology should never be used to replace human interaction and connection.. it should be used only to enhance it. [#]_
 
 
 CodeCoin, The currency of the ecosystem
@@ -127,18 +122,18 @@ CodeCoin, The currency of the ecosystem
 
 The invention of blockchain technology in 2008, has provided for the world a whole paradigm
 shift in financial and contractual mechanisms. It is truly a marvel that will disrupt many
-many incumbent institutions. Systems that once required intermediaries and centralized
+incumbent institutions. Systems that once required intermediaries and centralized
 solutions can now be peer to peer and decentralized. Trust of persons and entities unknown
 can know be established without the need of 3rd parties for verification or validation.
 Moneys can now be sent digitally without any concern for fraud or corruption. Ability to make
-payments in fractions of a penny are now facilitated. These are truly
-amazing times and we as a community of software engagers can benefit from this remarkability.
+payments in fractions of a penny are now facilitated. These are truly amazing times and we as a community of software engagers can benefit from this remarkability.
 
 CodeCoin is the proposed crytpocurrency [#]_ that will be used in this software ecosystem. It is
 essentially a token that will be used to monetize all the goods and services within the ecosystem. This
 cryptocurrency will be at the center of a well considered autonomous economic model of incentives and
 disincentives formulated by the community. As with other aspects of this proposal, an emphasis
 for thought leaders to be engaged in these models is vehemently sought after and strongly encouraged.
+Please join the CodeDepot community!
 
 
 CodeDepot, The decentralized software market place and code repository
@@ -150,7 +145,7 @@ and users will have an interface to utilize it. Other participants will include 
 contributers, article writers, bloggers, audio and video producers. Actually, anything surrounding
 software and related technology.
 
-As described in the section for CodeChain, developers will be rights holders for what essentially
+As described in the section for CodeChain_, developers will be rights holders for what essentially
 are snippets of code called components in this paper's nomenclature. They will use
 CodeDepot as a repository and market interface for their components of code and
 other contributions.
@@ -173,6 +168,8 @@ Mechanisms will be built-in that provide the end-user and easy ability to:
    * For asistance or instruction
 	* For software developers to provide any possibly needed customization
 
+
+.. _CodeChain:
 
 CodeChain, The decentralized processing engine
 ==============================================
