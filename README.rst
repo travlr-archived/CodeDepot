@@ -17,8 +17,15 @@ Proposal for a Modern Software Ecosystem
 	* road-map of finished products
 
 
+
+
 Overview
 ========
+	 Utilizing state of the art crypto-currency technologies and an unconventional
+	 programming model, a complete paradigm shift in technology production is possible.
+	 Time-to-market for all software developers could decrease by a hundredfold. It is
+	 strongly believed that these innovations will change the all computing is done in
+
 
 Bob Dylan once wrote a song titled "Everything is Broken". We take that notion and consider
 it quite apropos for the conventions in today's software usage, sales, production and
