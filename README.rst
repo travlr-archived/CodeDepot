@@ -320,6 +320,24 @@ promise of the original FBP concept of inter-communicating processes/threads wit
 imposed when merely targeting that of a CPU architecture.
 
 
+EVERYTHING is a Component
+`````````````````````````
+* Components can be atomic or composites made up of other components.
+* Components are virtually snapped together like Legos.
+* High scale concurrency.
+* Processing efficiency
+* Once a component is created:
+	 * It can be reused and re-purposed to anywhere it is possibly needed.
+	 * It will never need to be created ever again.. as in the literal sense of forever.
+	 * It can be virtually shared by every piece of running software, in the world,
+		that depends on it.
+* All apps and "libraries" are comprised of networks of components
+* Networked components model lends itself overwhelmingly to visual programming interfaces (VPI).
+	 * We propose vast "smart" improvements over conventional visual programming environments.
+* In the future, developers will have ready-made base component networks, in that they only need
+  to minimally append and/or tweak what has been done before them.
+	 * Extremely smart and efficient component "search" mechanizms.
+
 Decentralized Network
 ``````````````````````
 	 Todo
@@ -332,27 +350,23 @@ Secure Computing
 `````````````````
 	 Todo
 
-zkSNARKS for C
-~~~~~~~~~~~~~~
+* zkSNARKS for C
 
-	 Todo
 
 Micro-payment Calculation
 ``````````````````````````
 	 Todo
 
 
-User Interfaces are Ubiquitous
-``````````````````````````````
+User Interfaces
+````````````````
 	 Todo
 
-Very Flexible Thin Clients
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-	 Todo
-
-Context Menus are Broken
-~~~~~~~~~~~~~~~~~~~~~~~~
-	 Todo
+* Are Ubiquitous
+* Are also component based.
+* Very Flexible Thin Clients.
+* Context Menus have always been Broken.
+* Extremely customizable.
 
 
 WorkSource
