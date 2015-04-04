@@ -25,7 +25,11 @@ Overview
 	 programming model, a complete paradigm shift in technology production is possible.
 	 Time-to-market for all software developers could decrease by a hundredfold. It is
 	 strongly believed that the innovations presented below, will change the way all
-	 computing is done in the future. ~Peter Alexander, ProDataLab
+	 computing is done in the future. ProDataLab would like to emphasize, that this truly
+	 amazing efficiency would not be possible without the ability to stand on the shoulders
+	 of giants.. the open source software community!
+
+~Peter Alexander, ProDataLab
 
 Bob Dylan once wrote a song titled "Everything is Broken". We take that notion and consider
 it quite apropos for the conventions in today's software usage, sales, production and
@@ -104,7 +108,7 @@ Overview
 The CodeDepot Foundation is the working name of a proposed open governance model for the
 CodeDepot ecosystem; where directives and decisions are decentralized and democratized
 amongst the entire community [#]_. This notion of decentralized governance is aimed at stemming
-the problems of any centralized governing system that naturally creates levels of control.
+the problems of any centralized governing system that naturally creates hierarchical levels of control.
 
     Bitcoin's underlying technology of the blockchain [#]_, brings a radical departure from the
     governance model of the old world. It follows trends of decentralization that have emerged
@@ -128,12 +132,17 @@ can know be established without the need of 3rd parties for verification or vali
 Moneys can now be sent digitally without any concern for fraud or corruption. Ability to make
 payments in fractions of a penny are now facilitated. These are truly amazing times and we as a community of software engagers can benefit from this remarkability.
 
+
+Overview
+````````
+
 CodeCoin is the proposed crytpocurrency [#]_ that will be used in this software ecosystem. It is
 essentially a token that will be used to monetize all the goods and services within the ecosystem. This
 cryptocurrency will be at the center of a well considered autonomous economic model of incentives and
 disincentives formulated by the community. As with other aspects of this proposal, an emphasis
 for thought leaders to be engaged in these models is vehemently sought after and strongly encouraged.
 Please join the CodeDepot community!
+
 
 
 CodeDepot, The decentralized software market place and code repository
@@ -272,7 +281,7 @@ context switching, especially so on conventional general purpose CPUs [#]_. For 
 a point will be reached where the
 number of
 context switches on a single machine CPU, overwhelms the system and causes notable latency.
-On average context switching costs approximately 30 microseconds of
+On average, context switching costs approximately 30 microseconds of
 overhead per occurrence. One benchmark of the theoretical limitations of context switching has an upper
 bound of 18.75% of CPU cycles wasted due to context switching. Generally, optimal CPU
 use, is to have the same number of worker threads as there are hardware threads when a process is CPU bound,
@@ -284,27 +293,27 @@ efficiency.
 Component Based Programming
 ````````````````````````````
 
-In order to overcome the conditional limitations of context switching per processing node in an
+In order to overcome the conditional limitations of context switching per processing node, in a
 strictly FBP paradigm, we provide here an area of consideration to help maximize the efficacy of the CodeChain
 system. The term Component-based Programming (CBP) is coined here for the purpose of a enlisting a stronger
 emphasis on components over that of data flow as it is for FBP.
 
 The concepts fundamental to FBP (autonomous black-box components loosely coupled via lazy linkage)
 can be easily
-considered at the various phases of the compilation stack prior to execution. Essentially, what this means
-is that we can remove the constraints from that of each component needing to be its own execution process
+considered at the various phases of the compilation stack prior to execution. Essentially what this means,
+is that we can remove the constraints, from that of each component, needing to be its own execution process
 or thread, yet
-still be most loosely coupled. We can redefine components to that of a virtual model that can then be
-implemented by encompassing
+still be most loosely coupled. We can redefine components to that of a virtual model, that can then be
+implemented, by encompassing
 one or all of the compilation's translation stages prior to execution.
 
-    1. Source code
-    2. Semantic analysis
-    3. Intermediate Representation \(IR\) code and its linkage
-    4. Machine code and its linkage
-    5. Just-In-Time compilation or interpreter engine
+1. Source code
+2. Semantic analysis
+3. Intermediate Representation \(IR\) code and its linkage
+4. Machine code and its linkage
+5. Just-In-Time compilation or interpreter engine
 
-Another most exciting and promising consideration is to apply the notion of CBP to include that of speciality hardware
+Another most exciting and promising consideration, is to apply the notion of CBP to include that of speciality hardware
 processors like that of GPGPUs [#]_. GPGPUs provide a processing model of thousands
 concurrently executing threads. Utilizing these high-scale concurrent processors, one can imagine the
 promise of the original FBP concept of inter-communicating processes/threads without the extreme burdens
@@ -313,30 +322,37 @@ imposed when merely targeting that of a CPU architecture.
 
 Decentralized Network
 ``````````````````````
-	Todo
-
-
+	 Todo
 
 Processor Node
 ```````````````
-	Todo
+	 Todo
 
 Secure Computing
 `````````````````
-	Todo
+	 Todo
 
-.. zkSNARKS for C
+zkSNARKS for C
+~~~~~~~~~~~~~~
 
+	 Todo
 
 Micro-payment Calculation
 ``````````````````````````
-	Todo
+	 Todo
 
 
-User Interfaces are Very Flexible Thin Clients
-```````````````````````````````````````````````
-	Todo
+User Interfaces are Ubiquitous
+``````````````````````````````
+	 Todo
 
+Very Flexible Thin Clients
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+	 Todo
+
+Context Menus are Broken
+~~~~~~~~~~~~~~~~~~~~~~~~
+	 Todo
 
 
 WorkSource
@@ -346,15 +362,16 @@ WorkSource
 	 * Google Helpouts
 	 * Amazon Mechanical Turk
 	 * Angie's List
-	 * Amazon
+	 * Amazon Home Services
 
 WorkSource is a proposal for a open governence, decentralized, peer to peer marketplace for end-users
 to hire freelancers.
-It will employ modern cutting edge technology for monetization, accounting, contractual obligation and
+It will employ modern cutting edge technology for monetization, accounting, reputation,
+contractual obligation and
 in the case needed, arbitration. The most prominent aim is to incorporate very simple access and functionality directly
 into the CodeDepot user-interfaces. Unlike current freelance market places, freelancers will be made to
 feel as equals and not
-of a second class as compared to employers.
+of a second class, as compared to employers.
 
 Non-technical users of software often find themselves in need of instruction or in need of customization. By
 incorporating direct and easy contact with software professionals, the users needs can be addressed
@@ -363,7 +380,7 @@ painlessly, immediately and reliably.
 Technical users find themselves paying exorbitant fees to hire developers at conventional centralized
 services. Often the employer will find these services confusing, frustrating and simply inadequate.
 
-Freelancers will often find that scanning and applying for jobs simply is too time consuming.
+Freelancers will often find that scanning and applying for jobs, is simply too time consuming.
 
 
 ..
@@ -373,9 +390,9 @@ Freelancers will often find that scanning and applying for jobs simply is too ti
 Overview
 `````````
 
-Current freelance and other work sourcing like exchanges are usually run by a
+Current freelance and other work-sourcing like exchanges, are usually run by a
 centralized corporate entity that enjoy a significant percentage of the
-cost of the transaction together with collecting monthly fees. In a decentralized;
+cost of the transaction; together with collecting monthly fees. In a decentralized;
 self-governed; peer-to-peer (P2P) marketplace there isn't any centralized entity,
 just a community of colleagues and clients. Freelancers enjoy the near entirety
 of the proceeds of their transactions without some third party dipping their
@@ -385,18 +402,19 @@ New technologies, most significantly bitcoin's blockchain, have now enabled P2P
 marketplaces to thrive unencumbered by any need of a centralized entity or 3rd party.
 The need for trust is virtually eliminated.. providing free, flat, P2P markets.
 
-WorkSource will be decentralized community effort that will provide reliable sources of
-service providers to those that need such services. Current cryptocurrency and other
-new technology make it possible to enable most efficient market ecosystems where trust
-and incentive/disincentive mechanisms are automated and built right in to the platform. This
-together with ideas generated and implemented by the community will make the platform
+WorkSource will be decentralized, community effort, that will provide reliable sources of
+service providers to those that need such services. Current cryptocurrency, and other
+new technology, make it possible to enable most efficient market ecosystems where trust
+and incentive/disincentive mechanisms are automated; built right in to the platform. This,
+together with ideas generated and implemented by the community, will make the platform
 most desirable and efficient to participate in.
 
 
-Introduction
-`````````````
+
 
 ..
+	Introduction
+	`````````````
     WorkSource will be a superset community of sectoral communities for instance that of
     the software sector, namely CodeDepot [#]_.
 
