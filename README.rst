@@ -333,7 +333,7 @@ EVERYTHING is a Component
 	 * It will never need to be created ever again.. as in the literal sense of forever.
 	 * It can be virtually shared by every piece of running software, in the world,
 		that depends on it.
-* Can be comprised of code from any :sup: `1` programming language
+* Can be comprised of code from any programming language with an LLVM compiler toolkit [#]_ frontend.
 * All apps and "libraries" are comprised of networks of components
 * Networked components model lends itself overwhelmingly to visual programming interfaces (VPI).
 	 * We propose vast "smart" improvements over conventional visual programming environments.
@@ -343,8 +343,6 @@ EVERYTHING is a Component
 	 * Extremely smart and efficient component "search" mechanisms.
 
 
-:sup:`1` programming languages acceptable are those limited to those that are ported to
-			LLVM compilation toolkit [#]_
 
 
 Decentralized Network
