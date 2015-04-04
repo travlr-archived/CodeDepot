@@ -355,7 +355,7 @@ endobj
 << /Outlines 115 0 R /PageLabels 146 0 R /PageMode /UseNone /Pages 137 0 R /Type /Catalog >>
 endobj
 114 0 obj
-<< /Author () /CreationDate (D:20150404192532+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20150404192702+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Proposal for a Modern Software Ecosystem) >>
 endobj
 115 0 obj
@@ -1694,7 +1694,7 @@ Q
 endstream
 endobj
 143 0 obj
-<< /Length 10500 >>
+<< /Length 10502 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -2104,7 +2104,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Can be comprised of code from any:sup: ) Tj /F3 10 Tf 0 0 0 rg (1) Tj /F1 10 Tf 0 0 0 rg (programming language) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Can be comprised of code from any :sup: ) Tj /F3 10 Tf 0 0 0 rg (1 ) Tj /F1 10 Tf 0 0 0 rg (programming language) Tj T* ET
 Q
 Q
 q
@@ -3362,22 +3362,22 @@ xref
 0000046539 00000 n
 0000056000 00000 n
 0000062543 00000 n
-0000073102 00000 n
-0000080173 00000 n
-0000090897 00000 n
-0000091017 00000 n
-0000091055 00000 n
-0000091093 00000 n
-0000091131 00000 n
-0000091169 00000 n
-0000091207 00000 n
-0000091245 00000 n
-0000091283 00000 n
+0000073104 00000 n
+0000080175 00000 n
+0000090899 00000 n
+0000091019 00000 n
+0000091057 00000 n
+0000091095 00000 n
+0000091133 00000 n
+0000091171 00000 n
+0000091209 00000 n
+0000091247 00000 n
+0000091285 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\014x\300\007i\345Nq\235\370}\005\301\017F\370) (\014x\300\007i\345Nq\235\370}\005\301\017F\370)]
+ [(\370\340M{9jW\366\037%9n\324\203\007\024) (\370\340M{9jW\366\037%9n\324\203\007\024)]
  /Info 114 0 R /Root 113 0 R /Size 155 >>
 startxref
-91321
+91323
 %%EOF
