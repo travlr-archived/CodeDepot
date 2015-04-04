@@ -322,6 +322,8 @@ imposed when merely targeting that of a CPU architecture.
 
 EVERYTHING is a Component
 `````````````````````````
+	 Todo
+
 * Components can be atomic or composites made up of other components.
 * Components are virtually snapped together like Legos.
 * High scale concurrency.
@@ -336,7 +338,8 @@ EVERYTHING is a Component
 	 * We propose vast "smart" improvements over conventional visual programming environments.
 * In the future, developers will have ready-made base component networks, in that they only need
   to minimally append and/or tweak what has been done before them.
-	 * Extremely smart and efficient component "search" mechanizms.
+	 * Extremely smart and efficient component "search" mechanisms.
+
 
 Decentralized Network
 ``````````````````````
