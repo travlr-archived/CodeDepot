@@ -37,8 +37,7 @@ execution. A participant can find inefficiencies and un-warranted complexities p
 everywhere in today's environment. We ask the reader to take a moment and
 think of their own experiences with software. Have you ever found yourself frustrated?
 Have you ever considered some aspect overly complicated, un-intuitive or in-flexible and
-thought to yourself "it shouldn't have
-to be this way"?
+thought to yourself "it shouldn't have to be this way"?
 
 An end-user of software might have thought of how hard it is to get familiar with a
 software product or that the documentation and help system are simply not much help.
@@ -130,7 +129,8 @@ incumbent institutions. Systems that once required intermediaries and centralize
 solutions can now be peer to peer and decentralized. Trust of persons and entities unknown
 can know be established without the need of 3rd parties for verification or validation.
 Moneys can now be sent digitally without any concern for fraud or corruption. Ability to make
-payments in fractions of a penny are now facilitated. These are truly amazing times and we as a community of software engagers can benefit from this remarkability.
+payments in fractions of a penny are now facilitated. These are truly amazing times and we
+as a community of software engagers can benefit from this remarkability.
 
 
 Overview
@@ -144,8 +144,17 @@ for thought leaders to be engaged in these models is vehemently sought after and
 Please join the CodeDepot community!
 
 
+Currency Model
+``````````````
 
-CodeDepot, The decentralized software market place and code repository
+Incentives Model
+````````````````
+
+Micro-payment Utilization
+`````````````````````````
+
+
+CodeDepot, The decentralized software marketplace and code repository
 ======================================================================
 
 The core component of the ecosystem is a marketplace where users and producers engage.
@@ -166,6 +175,8 @@ Users will have many advantages  over conventional software produced today inclu
  * Security
  * Ease of use
  * Accessibility
+ * Privacy
+ * Complete control and ownership of their data.
 
 Mechanisms will be built-in that provide the end-user and easy ability to:
 
@@ -173,8 +184,34 @@ Mechanisms will be built-in that provide the end-user and easy ability to:
  * Directly request alterations or needed features.
  * Intuitive, complete documentation and autonomous tutelage.
  * Hire affordable freelancers directly from their user-interface.
-	* For asistance or instruction.
-	* For software developers to provide any possibly needed customization.
+	  * For asistance or instruction.
+	  * For software developers to provide any possibly needed customization.
+ * Possibly even choose "payment methods"
+	  * Advertising
+	  * One-time fee for apps
+	  * Per execution cycle (micro-payments)
+	  * Contractual, eg. monthly/yearly
+	  * Synergies via CodeDepot's economic partners
+	  * Selling value of their usage characteristics
+			* e.g., Facebook model where the user is the product
+
+
+Overview
+````````
+
+Developer Interface
+```````````````````
+
+End-user Interface
+``````````````````
+
+Market Considerations, Economics
+````````````````````````````````
+* End users might have a choice of service payment method
+
+
+
+
 
 
 .. _CodeChain: https://github.com/ProDataLab/CodeDepot#codechain-the-decentralized-processing-engine
@@ -320,11 +357,13 @@ promise of the original FBP concept of inter-communicating processes/threads wit
 imposed when merely targeting that of a CPU architecture.
 
 
-EVERYTHING is a Component
+Everything is a Component
 `````````````````````````
 	 Todo
 
-* Components can be atomic or composites made up of other components.
+* Components are snippets of code
+* Components can be atomic or composites, made up of other components.
+* Chains (component networks) are defined either statically or dynamically.
 * Components are virtually snapped together like Legos.
 * High scale concurrency.
 * Processing efficiency
@@ -333,11 +372,11 @@ EVERYTHING is a Component
 	 * It will never need to be created ever again.. as in the literal sense of forever.
 	 * It can be virtually shared by every piece of running software, in the world,
 		that depends on it.
-* Can be comprised of code from any programming language with an LLVM compiler toolkit [#]_ frontend.
-* All apps and "libraries" are comprised of networks of components
-* Networked components model lends itself overwhelmingly to visual programming interfaces (VPI).
+* Can be comprised of code from any programming language**.
+* All apps and "libraries" are comprised of networks of components.
+* The networked components model, lends itself overwhelmingly to visual programming interfaces (VPI).
 	 * We propose vast "smart" improvements over conventional visual programming environments.
-* In the future, developers will have ready-made base component networks, in that they only need
+* In the future, developers will have ready-made "base" component networks, in that they only need
   to minimally append and/or tweak what has been done before them.
 
 	 * Extremely smart and efficient component "search" mechanisms.
@@ -349,7 +388,7 @@ Decentralized Network
 ``````````````````````
 	 Todo
 
-Processor Node
+Processor Nodes
 ```````````````
 	 Todo
 
@@ -372,6 +411,7 @@ User Interfaces
 * Are Ubiquitous
 * Are also component based.
 * Very Flexible Thin Clients.
+* Graphical or headless
 * Context Menus have always been Broken.
 * Extremely customizable.
 
@@ -525,7 +565,7 @@ Other aspects will include:
 .. [#] General-purpose computing on graphics processing units
        http://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units
 
-.. [#] LLVM compiler
+.. [#] LLVM compilation toolkit
 		 http://llvm.org
 
 
