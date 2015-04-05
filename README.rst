@@ -118,8 +118,8 @@ the problems of any centralized governing system that naturally creates hierarch
 	 Bitcoin's decentralized system opens a door to a new paradigm where people can choose to abide by a protocol of consensus which is a different from the logic of domination and control of a centralized paradigm. Technology can't solve everything. Technology is just a tool. It always needs to be accounted for by democratic consensus of people. Technology should never be used to replace human interaction and connection.. it should be used only to enhance it. [#]_
 
 
-Distributed Group Decision Making
-`````````````````````````````````
+Distributed, Group Governance Platform
+``````````````````````````````````````
 
 * Loomio ? [#]_
 * DemocracyOS ? [#]_
@@ -517,19 +517,19 @@ Other aspects will include:
 		 http://en.wikipedia.org/wiki/Decentralized_Autonomous_Organization
 
 .. [#] Open-source Goverence Model
-		http://en.wikipedia.org/wiki/Open-source_governance
+		 http://en.wikipedia.org/wiki/Open-source_governance
 
 .. [#] Bitcoin's Blockchain
-		http://en.wikipedia.org/wiki/Bitcoin#Block_chain
+		 http://en.wikipedia.org/wiki/Bitcoin#Block_chain
+
+.. [#] Bitcoin, The Beginning of Open-source Goverence
+		 http://falkvinge.net/2014/11/10/bitcoin-the-beginning-of-open-source-governance/
 
 .. [#] Loomio
 		 http://loomio.org
 
 .. [#] DemocracyOS
 		 http://democracyos.org
-
-.. [#] Bitcoin, The Beginning of Open-source Goverence
-		http://falkvinge.net/2014/11/10/bitcoin-the-beginning-of-open-source-governance/
 
 .. [#] Cryptocurrency
 		 http://en.wikipedia.org/wiki/Cryptocurrency

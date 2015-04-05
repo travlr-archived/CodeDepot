@@ -37,7 +37,7 @@ endobj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 72 0 R /XYZ 62.69291 642.0236 0 ] /Rect [ 527.0227 583.4272 532.5827 595.4272 ] /Subtype /Link /Type /Annot >>
 endobj
 13 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 72 0 R /XYZ 62.69291 414.0236 0 ] /Rect [ 82.69291 565.4272 237.1829 577.4272 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 72 0 R /XYZ 62.69291 414.0236 0 ] /Rect [ 82.69291 565.4272 261.0929 577.4272 ] /Subtype /Link /Type /Annot >>
 endobj
 14 0 obj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 72 0 R /XYZ 62.69291 414.0236 0 ] /Rect [ 527.0227 565.4272 532.5827 577.4272 ] /Subtype /Link /Type /Annot >>
@@ -212,10 +212,10 @@ endobj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 108 0 R /XYZ 68.69291 164.6378 0 ] /Rect [ 494.5829 426.7736 499.0309 438.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 69 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 108 0 R /XYZ 68.69291 152.6378 0 ] /Rect [ 129.6029 369.7736 134.0509 381.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 108 0 R /XYZ 68.69291 140.6378 0 ] /Rect [ 129.6029 369.7736 134.0509 381.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 70 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 108 0 R /XYZ 68.69291 140.6378 0 ] /Rect [ 161.8229 351.7736 166.2709 363.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 108 0 R /XYZ 68.69291 128.6378 0 ] /Rect [ 161.8229 351.7736 166.2709 363.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 71 0 obj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 108 0 R /XYZ 68.69291 116.6378 0 ] /Rect [ 251.144 183.7736 258.1582 195.7736 ] /Subtype /Link /Type /Annot >>
@@ -308,19 +308,19 @@ endobj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 72 0 R /XYZ 494.5829 440.0236 0 ] /Rect [ 68.69291 151.3878 74.25291 163.3878 ] /Subtype /Link /Type /Annot >>
 endobj
 99 0 obj
-<< /A << /S /URI /Type /Action /URI (http://loomio.org) >> /Border [ 0 0 0 ] /Rect [ 189.3023 151.3878 261.0023 163.3878 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://falkvinge.net/2014/11/10/bitcoin-the-beginning-of-open-source-governance/) >> /Border [ 0 0 0 ] /Rect [ 153.7323 139.3878 512.2523 151.3878 ] /Subtype /Link /Type /Annot >>
 endobj
 100 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 72 0 R /XYZ 129.6029 383.0236 0 ] /Rect [ 68.69291 139.3878 74.25291 151.3878 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 72 0 R /XYZ 129.6029 383.0236 0 ] /Rect [ 68.69291 127.3878 74.25291 139.3878 ] /Subtype /Link /Type /Annot >>
 endobj
 101 0 obj
-<< /A << /S /URI /Type /Action /URI (http://democracyos.org) >> /Border [ 0 0 0 ] /Rect [ 221.5223 139.3878 323.2323 151.3878 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://loomio.org) >> /Border [ 0 0 0 ] /Rect [ 189.3023 127.3878 261.0023 139.3878 ] /Subtype /Link /Type /Annot >>
 endobj
 102 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 72 0 R /XYZ 161.8229 365.0236 0 ] /Rect [ 68.69291 127.3878 74.25291 139.3878 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 72 0 R /XYZ 161.8229 365.0236 0 ] /Rect [ 68.69291 115.3878 74.25291 127.3878 ] /Subtype /Link /Type /Annot >>
 endobj
 103 0 obj
-<< /A << /S /URI /Type /Action /URI (http://falkvinge.net/2014/11/10/bitcoin-the-beginning-of-open-source-governance/) >> /Border [ 0 0 0 ] /Rect [ 153.7323 115.3878 512.2523 127.3878 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://democracyos.org) >> /Border [ 0 0 0 ] /Rect [ 221.5223 115.3878 323.2323 127.3878 ] /Subtype /Link /Type /Annot >>
 endobj
 104 0 obj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 72 0 R /XYZ 249.4329 197.0236 0 ] /Rect [ 68.69291 103.3878 74.25291 115.3878 ] /Subtype /Link /Type /Annot >>
@@ -424,7 +424,7 @@ endobj
 << /Outlines 137 0 R /PageLabels 178 0 R /PageMode /UseNone /Pages 167 0 R /Type /Catalog >>
 endobj
 136 0 obj
-<< /Author () /CreationDate (D:20150405093652+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20150405094101+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Proposal for a Modern Software Ecosystem) >>
 endobj
 137 0 obj
@@ -444,7 +444,7 @@ endobj
 << /Dest [ 72 0 R /XYZ 62.69291 642.0236 0 ] /Next 142 0 R /Parent 140 0 R /Title (Overview) >>
 endobj
 142 0 obj
-<< /Dest [ 72 0 R /XYZ 62.69291 414.0236 0 ] /Parent 140 0 R /Prev 141 0 R /Title (Distributed Group Decision Making) >>
+<< /Dest [ 72 0 R /XYZ 62.69291 414.0236 0 ] /Parent 140 0 R /Prev 141 0 R /Title (Distributed, Group Governance Platform) >>
 endobj
 143 0 obj
 << /Count 4 /Dest [ 72 0 R /XYZ 62.69291 342.0236 0 ] /First 144 0 R /Last 147 0 R /Next 148 0 R /Parent 137 0 R 
@@ -526,7 +526,7 @@ endobj
 << /Count 10 /Kids [ 63 0 R 64 0 R 72 0 R 74 0 R 85 0 R 88 0 R 90 0 R 91 0 R 108 0 R 134 0 R ] /Type /Pages >>
 endobj
 168 0 obj
-<< /Length 8147 >>
+<< /Length 8152 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -615,7 +615,7 @@ Q
 q
 1 0 0 1 0 435 cm
 q
-BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Distributed Group Decision Making) Tj T* ET
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Distributed, Group Governance Platform) Tj T* ET
 Q
 Q
 q
@@ -1058,7 +1058,7 @@ Q
 endstream
 endobj
 170 0 obj
-<< /Length 6642 >>
+<< /Length 6647 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1128,7 +1128,7 @@ Q
 q
 1 0 0 1 62.69291 396.0236 cm
 q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Distributed Group Decision Making) Tj T* ET
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Distributed, Group Governance Platform) Tj T* ET
 Q
 Q
 q
@@ -3274,13 +3274,32 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 150.6378 cm
+1 0 0 1 62.69291 138.6378 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+BT 1 0 0 1 0 14 Tm 31.08208 Tw 12 TL /F1 10 Tf 0 0 0 rg (Bitcoin, The Beginning of Open-source Goverence) Tj T* 0 Tw 0 0 .501961 rg (http://falkvinge.net/2014/11/10/bitcoin-the-beginning-of-open-source-governance/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 126.6378 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (4) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (5) Tj T* ET
 Q
 Q
 q
@@ -3293,30 +3312,11 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 138.6378 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (5) Tj T* ET
-Q
-Q
-q
-1 0 0 1 91.03937 0 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (DemocracyOS ) Tj 0 0 .501961 rg (http://democracyos.org) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
 1 0 0 1 62.69291 114.6378 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 12 cm
+1 0 0 1 6 0 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (6) Tj T* ET
 Q
@@ -3324,7 +3324,7 @@ Q
 q
 1 0 0 1 91.03937 0 cm
 q
-BT 1 0 0 1 0 14 Tm 31.08208 Tw 12 TL /F1 10 Tf 0 0 0 rg (Bitcoin, The Beginning of Open-source Goverence) Tj T* 0 Tw 0 0 .501961 rg (http://falkvinge.net/2014/11/10/bitcoin-the-beginning-of-open-source-governance/) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (DemocracyOS ) Tj 0 0 .501961 rg (http://democracyos.org) Tj T* ET
 Q
 Q
 q
@@ -3761,10 +3761,10 @@ xref
 0000017421 00000 n
 0000017625 00000 n
 0000017797 00000 n
-0000017970 00000 n
-0000018143 00000 n
-0000018322 00000 n
-0000018495 00000 n
+0000018033 00000 n
+0000018206 00000 n
+0000018380 00000 n
+0000018553 00000 n
 0000018732 00000 n
 0000018905 00000 n
 0000019105 00000 n
@@ -3804,57 +3804,57 @@ xref
 0000025704 00000 n
 0000025892 00000 n
 0000026008 00000 n
-0000026149 00000 n
-0000026352 00000 n
-0000026468 00000 n
-0000026604 00000 n
-0000026742 00000 n
-0000026875 00000 n
-0000027108 00000 n
-0000027224 00000 n
-0000027365 00000 n
-0000027505 00000 n
-0000027645 00000 n
-0000027856 00000 n
-0000027972 00000 n
-0000028128 00000 n
-0000028268 00000 n
-0000028417 00000 n
-0000028564 00000 n
-0000028707 00000 n
-0000028844 00000 n
-0000028982 00000 n
-0000029129 00000 n
-0000029252 00000 n
-0000029426 00000 n
-0000029529 00000 n
-0000029647 00000 n
-0000029778 00000 n
-0000037983 00000 n
-0000044040 00000 n
-0000050740 00000 n
-0000057517 00000 n
-0000065320 00000 n
-0000071435 00000 n
-0000081522 00000 n
-0000088788 00000 n
-0000096963 00000 n
-0000101683 00000 n
-0000101823 00000 n
-0000101861 00000 n
-0000101899 00000 n
-0000101937 00000 n
-0000101975 00000 n
-0000102013 00000 n
-0000102051 00000 n
-0000102089 00000 n
-0000102127 00000 n
-0000102165 00000 n
+0000026154 00000 n
+0000026357 00000 n
+0000026473 00000 n
+0000026609 00000 n
+0000026747 00000 n
+0000026880 00000 n
+0000027113 00000 n
+0000027229 00000 n
+0000027370 00000 n
+0000027510 00000 n
+0000027650 00000 n
+0000027861 00000 n
+0000027977 00000 n
+0000028133 00000 n
+0000028273 00000 n
+0000028422 00000 n
+0000028569 00000 n
+0000028712 00000 n
+0000028849 00000 n
+0000028987 00000 n
+0000029134 00000 n
+0000029257 00000 n
+0000029431 00000 n
+0000029534 00000 n
+0000029652 00000 n
+0000029783 00000 n
+0000037993 00000 n
+0000044050 00000 n
+0000050755 00000 n
+0000057532 00000 n
+0000065335 00000 n
+0000071450 00000 n
+0000081537 00000 n
+0000088803 00000 n
+0000096978 00000 n
+0000101698 00000 n
+0000101838 00000 n
+0000101876 00000 n
+0000101914 00000 n
+0000101952 00000 n
+0000101990 00000 n
+0000102028 00000 n
+0000102066 00000 n
+0000102104 00000 n
+0000102142 00000 n
+0000102180 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(*U\021-R\236\314\276Kk\217A.o\373\236) (*U\021-R\236\314\276Kk\217A.o\373\236)]
+ [(\373\037Tc<+\347\002\206;*\376\375B\237\237) (\373\037Tc<+\347\002\206;*\376\375B\237\237)]
  /Info 136 0 R /Root 135 0 R /Size 189 >>
 startxref
-102204
+102219
 %%EOF
