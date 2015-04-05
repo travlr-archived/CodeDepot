@@ -207,11 +207,6 @@ End-user Interface
 
 Market Considerations, Economics
 ````````````````````````````````
-* End users might have a choice of service payment method
-
-
-
-
 
 
 .. _CodeChain: https://github.com/ProDataLab/CodeDepot#codechain-the-decentralized-processing-engine
