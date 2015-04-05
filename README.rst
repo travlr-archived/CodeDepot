@@ -27,9 +27,7 @@ Overview
 	 strongly believed that the innovations presented below, will change the way all
 	 computing is done in the future. ProDataLab would like to emphasize, that this truly
 	 amazing efficiency would not be possible without the ability to stand on the shoulders
-	 of giants.. the open source software community!
-
-~Peter Alexander, ProDataLab
+	 of giants.. the open source software community! ~Peter Alexander, ProDataLab
 
 Bob Dylan once wrote a song titled "Everything is Broken". We take that notion and consider
 it quite apropos for the conventions in today's software usage, sales, production and
@@ -186,14 +184,16 @@ Mechanisms will be built-in that provide the end-user and easy ability to:
  * Hire affordable freelancers directly from their user-interface.
 	  * For asistance or instruction.
 	  * For software developers to provide any possibly needed customization.
- * Possibly even choose "payment methods"
-	  * Advertising
-	  * One-time fee for apps
-	  * Per execution cycle (micro-payments)
-	  * Contractual, eg. monthly/yearly
-	  * Synergies via CodeDepot's economic partners
-	  * Selling value of their usage characteristics
-			* e.g., Facebook model where the user is the product
+
+..
+	 * Possibly even choose "payment methods"
+		  * Advertising
+		  * One-time fee for apps
+		  * Per execution cycle (micro-payments)
+		  * Contractual, eg. monthly/yearly
+		  * Synergies via CodeDepot's economic partners
+		  * Selling value of their usage characteristics
+				* e.g., Facebook model where the user is the product
 
 
 Overview
@@ -335,9 +335,9 @@ can be easily
 considered at the various phases of the compilation stack prior to execution. Essentially what this means,
 is that we can remove the constraints, from that of each component, needing to be its own execution process
 or thread, yet
-still be most loosely coupled. We can redefine components to that of a virtual model, that can then be
-implemented, by encompassing
-one or all of the compilation's translation stages prior to execution.
+still be most loosely coupled. We can redefine networked inter-process components to that of a
+virtual model, that can then be implemented, by encompassing one or all of the compilation's
+translation stages prior to execution.
 
 1. Source code
 2. Semantic analysis
