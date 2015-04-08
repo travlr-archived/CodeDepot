@@ -94,7 +94,7 @@ Proposal for a Modern Software Ecosystem
 	* Network effect and incentivization do go together, don't they!
 		 * Important to empasize network affect!
 			  * Itemize all the methods I will employ
-	* Study Vitalik
+	* Study Vitalik's and Daniel's blogs / papers
 ..
 	Notes
 	=====
