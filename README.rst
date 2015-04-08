@@ -15,7 +15,135 @@ Proposal for a Modern Software Ecosystem
 	* incentivization for software sales as well
 	* incentives, incentives, incentives
 	* road-map of finished products
+	* tranparency.. to a fault
+		 * All transactions
+		 * All developer discussions
+		 * Continuous, complete blogging of future direction
+	* CodeChain model facilitates forking in a gentle way (describe this.. see
+	* Marketing model
+		 * Think this through
+			  * My current and near future contribution
+			  * Incentivization models.. to the max.
+		 * Network effect
+			  * Open source community is already a very large community.
+	* The thin client model provides expediencies when developing for various hardware
+	  and system platforms.
+	* I need to develop the business model for software producers and consumers.
+		 * conventional market ???
+	* Minimum Viable Product
+		 * decide and elaborate a minimum viable product model would be to just build the concept
+			as quick as possible (cloud servers, etc) and build in decentralization and other ideals
+			as quick as possible afterward.
+			  * Security never compramized.
+			  * We create an abstraction of DECENTRALIZED SERVER and CONVENTIONAL CLOUD.
+					* First release is centralized as we work on decentralized
+		 * Donate idea of "aggregation" site.. get the info you need, in a better way.
+			  * Smart search and results
+			  * Topographical structure of all information (eg: related to bitcoin)
+		 * Scrape and index all opensource code available.
+			  * Put them in CodeDepot to bootstrap the system.. CodeChain
+		 * Maybe only start with one component... WorkSource.
+	* decide on and elaborate the roadmap of executing the proposal.. whats first, second, etc and
+	  how it will be implemented.
+	* Send the whitepaper to
+		 * "Lucius" on zapchain.
+		 * John Barlow
+		 * Pieter Hintgens
+		 * J. Paul Morrison
+		 * Vitalik Buterin
+		 * Econtalk guy
+		 * llvm guy?
+		 * Airbitz founder "William"
+		 * Eric S. Raymond
+		 * Steve Wozniack ??
+		 * Leaders in the various OSS sub-communities
 
+	* How many instructions does llvm ir have? thats how many atomic nodes there are.
+	  everything else is done via component connection graph (network).
+	* freelancers also get "charged" for transferring money through paypal/bank.
+		 * doule hit on income (exchange, payment processor)
+		 * Are they? ..check this out.
+	* I need to integrate natural language translations into websites, etc.
+	* FOSS governance is a model
+		 * see whitepaper
+	* .".The dev is the rights holder" ..is she? would it be the community? ANSWER THIS !!!
+	* Create medium where I can communicate activities and progress, etc.
+	* Referral incentives (marketing)
+	* Corportate sponsors to fund devs and other ecosystem components ????
+	* Clarify that llvm IR is the most ideal location to implement.
+	* Distributed computing and Zennet
+	* Per cycle micropayment viability
+	* Demonstrate how CodeChain works
+		 * Devs just add a few components to what is there.
+	* Payment/Incentives model for work (code,etc)
+	* Diagrams for paper
+	* WorkSource expansion to general work sourcing site
+	* End-user data is cross-application:
+		 * The user has access to all of their data at their fingertips through a smart interface
+		 * End-user data is global to all apps
+		 * This breaks down application data silos for end-users.
+	* Koinify has a good criteria list for dApps that should be used in the paper
+		 * https://koinify.com/blog/things-we-look-for-in-a-dapp-project/
+	* Tokens purpose and application
+		 * see koinify blog post
+		 * fuel for processor nodes
+		 * incentivization:
+			  * programmers
+			  * writers and videographers
+			  * etc.. fill this in!
+	* Network effect and incentivization do go together, don't they!
+		 * Important to empasize network affect!
+			  * Itemize all the methods I will employ
+	* Study Vitalik
+..
+	Notes
+	=====
+	* Public Ledger Platforms definition: Are networks that enable th transfer of digital assets from
+	  sender to receiver
+	* Governance models:
+		 * Bitcoinc
+			  * loose gov model
+			  * core dev group
+			  * foundation, provides financial support for core dev work.
+			  * volunteers contribute src code too.c
+			  * anyone could modify sw code.
+			  * changes to src code occur:
+					* noncontroversial: is adopted immediately
+					* controversial:    broad community consensus.
+		 * Ripple
+			  * developed by a for-profit co.
+			  * private investment.
+			  * open-source sw.
+			  * volunteers
+			  * "stock grants" on the containers (ripples).
+					* to motivate members of the community and compensate the company.
+			  * gov model similar to google's over android.
+			  * question viable (laborer) network effect.. criticized by the bitcoin community
+		 * Arguments against open source business models and DPLs:
+			  * DPL whitepaper
+	* Ecosystem
+		 * Two kinds of firms are likely to develop:
+			  * Provide financial services to consumers and other business based on the
+				 public ledger platform. (aka: financial services market)
+			  * operate the platform itself by providing processing and other services.
+				 (processing market)
+					* If predictable prices for labor (processing) then a prominent incentive
+					  for large firms to become established
+
+		  * Incentive to manipulate container prices are incentivized during the growth
+			 period.
+
+	* Containers can cary software code and would facilitate rules-based transactions.
+	* Estimates of efficiency of dpl platforms are affected by operation of:
+		 * Incentives
+		 * Governance
+		 * Cost of regulations
+		 * Security
+	* Innovation is accelerated by pushing it out to the edge into the hands of DPL platform
+	  distributed network entrepreneurs/developers.
+	* DPL for software-enabled contracts.
+	* General programming on the blockchain (ethereum)
+	* DPL platforms are complex organizations
 
 
 
@@ -144,7 +272,11 @@ Overview
 CodeCoin is the proposed crytpocurrency [#]_ that will be used in this software ecosystem. It is
 essentially a token that will be used to monetize all the goods and services within the ecosystem. This
 cryptocurrency will be at the center of a well considered autonomous economic model of incentives and
-disincentives formulated by the community. As with other aspects of this proposal, an emphasis
+disincentives formulated by the community.
+
+
+
+As with other aspects of this proposal, an emphasis
 for thought leaders to be engaged in these models is vehemently sought after and strongly encouraged.
 Please join the CodeDepot community!
 
@@ -157,6 +289,11 @@ Incentives Model
 
 Micro-payment Utilization
 `````````````````````````
+
+..
+	Note: What crypto companies are offer interest bearing accounts in the future?.. partner
+	with them.
+
 
 
 CodeDepot, The decentralized software marketplace and code repository
@@ -412,10 +549,10 @@ User Interfaces
 
 * Are Ubiquitous
 * Are also component based.
-* Very Flexible Thin Clients.
+* Very flexible and powerful thin/thick Clients.
 * Graphical or headless
-* Context Menus have always been Broken.
-* Extremely customizable.
+* Context menus have always been broken.
+* Extremely customizable and "skinable".
 
 
 WorkSource
@@ -501,12 +638,14 @@ user interfaces, and ease-of-use will be of strong focus.
    
 Other aspects will include:
 
+	Todo
+
 * The best documentation tools and interfaces
 * Employing intelligence and automation as much as possible
 * Search and reference to be topped by no other
 * Intuition
 * Cutting edge compilation and translation chains
-
+* "Code once for everywhere" user-interface compiler
 
 
 ---------------------------------
