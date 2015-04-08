@@ -248,6 +248,7 @@ the problems of any centralized governing system that naturally creates hierarch
 
 Distributed, Group Governance Platform
 ``````````````````````````````````````
+	Todo
 
 * Loomio ? [#]_
 * DemocracyOS ? [#]_
