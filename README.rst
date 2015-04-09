@@ -21,10 +21,10 @@ Overview
 
 The artist Bob Dylan, once titled a song "Everything is Broken". We take that notion
 and consider it in reference to the conventions in today's software usage, sales, production
-and execution. A participant can find inefficiencies and un-warranted complexities practically
+and execution. A participant can find inefficiencies and unwarranted complexities practically
 everywhere in today's environment. We ask the reader to take a moment and
 think of their own experiences with software. Have you ever found yourself frustrated?
-Have you ever considered some aspect overly complicated, un-intuitive or in-flexible and
+Have you ever considered some aspect overly complicated, unintuitive or inflexible and
 thought to yourself "it shouldn't have to be this way"?
 
 An end-user of software might have thought of how hard it is to get familiar with a
@@ -99,15 +99,12 @@ CodeDepot ecosystem; where directives and decisions are decentralized and democr
 amongst the entire community [#]_. This notion of decentralized governance is aimed at stemming
 the problems of any centralized governing system that naturally creates hierarchical levels of control.
 
-    Bitcoin's underlying technology of the blockchain [#]_, brings a radical departure from the
-    governance model of the old world. It follows trends of decentralization that have emerged
-    through the internet in recent years including Bittorrent, Free Software and Open Source
-    Movements and collaborative production platforms like Linux and Wikipedia. The essence of this
-    game-changing invention is distributed trust (no need for third party reconciliation). Bitcoin
+    Bitcoin's underlying technology of the blockchain [#]_, brings a radical departure from the governance model of the old world. It follows trends of decentralization that have emerged through the internet in recent years including Bittorrent, Free Software and Open Source Movements
+    and collaborative production platforms like Linux and Wikipedia. The essence of this game changing invention is distributed trust (no need for third party reconciliation). Bitcoin
     solves the scaling issue of trust. With its decentralized security, we can now create a more open and
     inclusive society at a global scale.
 
-	 Bitcoin's decentralized system opens a door to a new paradigm where people can choose to abide by a protocol of consensus which is a different from the logic of domination and control of a centralized paradigm. Technology can't solve everything. Technology is just a tool. It always needs to be accounted for by democratic consensus of people. Technology should never be used to replace human interaction and connection.. it should be used only to enhance it. [#]_
+    Bitcoin's decentralized system opens a door to a new paradigm where people can choose to abide by a protocol of consensus which is a different from the logic of domination and control of a centralized paradigm. Technology can't solve everything. Technology is just a tool. It always needs to be accounted for by democratic consensus of people. Technology should never be used to replace human interaction and connection.. it should be used only to enhance it. [#]_
 
 
 Distributed, Group Governance Platform
@@ -150,7 +147,7 @@ Currency Model
 Incentives Model
 ````````````````
 
-Micro-payment Utilization
+Micropayment Utilization
 `````````````````````````
 
 ..
@@ -188,15 +185,15 @@ Mechanisms will be built-in that provide the end-user and easy ability to:
  * Give seemless, instantaneous feedback.
  * Directly request alterations or needed features.
  * Intuitive, complete documentation and autonomous tutelage.
- * Hire affordable freelancers directly from their user-interface.
+ * Hire affordable freelancers directly from their user interface.
 	  * For asistance or instruction.
 	  * For software developers to provide any possibly needed customization.
 
 ..
 	 * Possibly even choose "payment methods"
 		  * Advertising
-		  * One-time fee for apps
-		  * Per execution cycle (micro-payments)
+          * Onetime fee for apps
+          * Per execution cycle (micropayments)
 		  * Contractual, eg. monthly/yearly
 		  * Synergies via CodeDepot's economic partners
 		  * Selling value of their usage characteristics
@@ -225,13 +222,13 @@ The problems with the conventional programming paradigm are numerous. In fact, a
 of the initial draft of this paper, querying Google's search engine for "The problems with
 programming languages" produced nearly 72 million results. It seems fruitless
 to itemize these problems as a comparison to what is proposed here, let alone the problems of
-the entire software-centric paradigm. Instead, as an introduction, we ask the following
+the entire software centric paradigm. Instead, as an introduction, we ask the following
 questions:
 
   1) What if snippets of software were in essence Lego like reusable components that just snapped together into a desired structure?
   2) What if once a component or a structure of components was created, it would never have to be created again by anyone? Yes, ever again as in the literal sense of forever.
   3) What if once a component was created it would be shared by every piece of running software in the world that required it?
-  4) What if an executing software system, even a mission critical system, could be altered or replaced without even a nanosecond of down-time.
+  4) What if an executing software system, even a mission critical system, could be altered or replaced without even a nanosecond of downtime.
   5) What if it did not matter which programming language was used to create an individual component and that any component could seemlessly communicate with others?
   6) What if a software producer's time-to-market was reduced by a hundredfold?
   7) What if a software's execuation was most reliable and the most possibly secure from intrusion?
@@ -261,31 +258,31 @@ FBP: The Architectural Inspiration
 
 *The following is taken from J.Paul Morrison's Website.* [#]_
 
-	Flow-Based Programming is a programming paradigm that uses a "data factory" metaphor
-	for designing and building software applications. Applications are defined as networks
-	of "black box" processes, which exchange data across predefined connections by message
-	passing, where the connections are specified external to the processes. These black
-	box processes can be reconnected endlessly to form different applications without having
-	to be changed internally. FBP is thus naturally component orientated.
+    Flow-Based Programming is a programming paradigm that uses a "data factory" metaphor
+    for designing and building software applications. Applications are defined as networks
+    of "black box" processes, which exchange data across predefined connections by message
+    passing, where the connections are specified external to the processes. These black
+    box processes can be reconnected endlessly to form different applications without having
+    to be changed internally. FBP is thus naturally component orientated.
 
-	It views an application not as a single, sequential process, which starts at a point
-	in time, and then does one thing at a time until it is finished, but as a network
-	of asynchronous processes communicating by means of streams of structured data chunks,
-	called "information packets" (IPs). In this view, the focus is on the application
-	data and the transformations applied to it to produce the desired outputs.
-	The network is defined externally to the processes, as a list of connections
-	which is interpreted by a piece of software, usually called the "scheduler".
+    It views an application not as a single, sequential process, which starts at a point
+    in time, and then does one thing at a time until it is finished, but as a network
+    of asynchronous processes communicating by means of streams of structured data chunks,
+    called "information packets" (IPs). In this view, the focus is on the application
+    data and the transformations applied to it to produce the desired outputs.
+    The network is defined externally to the processes, as a list of connections
+    which is interpreted by a piece of software, usually called the "scheduler".
 
-	The processes communicate by means of fixed-capacity connections. A connection is
-	attached to a process by means of a port, which has a name agreed upon between
-	the process code and the network definition. More than one process can execute
-	the same piece of code. At any point in time, a given IP can only be "owned" by
-	a single process, or be in transit between two processes. Ports may either be
-	simple, or array-type. It is the combination of ports with asynchronous processes that
-	allows many long-running primitive functions of data processing, such as Sort,
-	Merge, Summarize, Collate, etc., to be supported in the form of software black boxes.
+    The processes communicate by means of fixed capacity connections. A connection is
+    attached to a process by means of a port, which has a name agreed upon between
+    the process code and the network definition. More than one process can execute
+    the same piece of code. At any point in time, a given IP can only be "owned" by
+    a single process, or be in transit between two processes. Ports may either be
+    simple, or arraytype. It is the combination of ports with asynchronous processes that
+    allows many long running primitive functions of data processing, such as Sort,
+    Merge, Summarize, Collate, etc., to be supported in the form of software black boxes.
 
-	Because FBP processes can continue executing as long they have data to work on and
+    Because FBP processes can continue executing as long they have data to work on and
 	somewhere to put their output, FBP applications generally run in less elapsed time
 	than conventional programs, and make optimal use of all the processors on a machine,
 	with no special programming required to achieve this.
@@ -297,9 +294,9 @@ FBP: The Architectural Inspiration
 
 	FBP has much in common with the Linda language in that it is, in Gelernter and
 	Carriero's terminology, a "coordination language": it is essentially
-	language-independent. Indeed, given a scheduler written in a sufficiently low-level
+    language independent. Indeed, given a scheduler written in a sufficiently low-level
 	language, components written in different languages can be linked together in a single
-	network. FBP thus lends itself to the concept of domain-specific languages or
+    network. FBP thus lends itself to the concept of domain specific languages or
 	"mini-languages".
 
 	FBP exhibits "data coupling", described in the article on coupling[*] as the loosest type
@@ -338,7 +335,7 @@ strictly FBP paradigm, we provide here an area of consideration to help maximize
 system. The term Component-based Programming (CBP) is coined here for the purpose of a enlisting a stronger
 emphasis on components over that of data flow as it is for FBP.
 
-The concepts fundamental to FBP (autonomous black-box components loosely coupled via lazy linkage)
+The concepts fundamental to FBP (autonomous blackbox components loosely coupled via lazy linkage)
 can be easily
 considered at the various phases of the compilation stack prior to execution. Essentially what this means
 is that we can remove the constraints from that of each component, needing to be its own execution process
@@ -371,7 +368,7 @@ Everything is a Component
 * High scale concurrency.
 * Processing efficiency
 * Once a component is created:
-	 * It can be reused and re-purposed to anywhere it is possibly needed.
+     * It can be reused and repurposed to anywhere it is possibly needed.
 	 * It will never need to be created ever again.. as in the literal sense of forever.
 	 * It can be virtually shared by every piece of running software, in the world,
 		that depends on it.
@@ -402,7 +399,7 @@ Secure Computing
 * zkSNARKS for C
 
 
-Micro-payment Calculation
+Micropayment Calculation
 ``````````````````````````
 	 Todo
 
@@ -433,7 +430,7 @@ to hire freelancers.
 It will employ modern cutting edge technology for monetization, accounting, reputation,
 contractual obligation and
 in the case needed, arbitration. The most prominent aim is to incorporate very simple access and functionality directly
-into the CodeDepot user-interfaces. Unlike current freelance market places, freelancers will be made to
+into the CodeDepot userinterfaces. Unlike current freelance market places, freelancers will be made to
 feel as equals and not
 of a second class, as compared to employers.
 
@@ -486,7 +483,7 @@ most desirable and efficient to participate in.
 CodeSweet
 =========
 
-A programmers toolbox is most often burdensome and time-consuming to be productive with. It could be
+A programmers toolbox is most often burdensome and time consuming to be productive with. It could be
 argued that every tool in use by engineers is in some way problematic or simply incomplete. If every
 aspect of every tool and its interface were a component, then the programmer could fashion their tool
 and hence their toolbox to be just the way they liked it. That bears repeating.. If everything is a
@@ -509,7 +506,7 @@ Other aspects will include:
 * Search and reference to be topped by no other
 * Intuition
 * Cutting edge compilation and translation chains
-* "Code once for everywhere" user-interface compiler
+* "Code once for everywhere" user interface compiler
 
 
 ---------------------------------
