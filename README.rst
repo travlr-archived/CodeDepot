@@ -8,238 +8,6 @@ Proposal for a Modern Software Ecosystem
 
 .. contents::
 
-..
-	TODO
-	====
-	* enterprise focus as well
-	* incentivization for software sales as well
-	* incentives, incentives, incentives
-	* road-map of finished products
-	* tranparency.. to a fault
-		 * All transactions
-		 * All developer discussions
-		 * Continuous, complete blogging of future direction
-	* CodeChain model facilitates forking in a gentle way (describe this.. see
-	* Marketing model
-		 * Think this through
-			  * My current and near future contribution
-			  * Incentivization models.. to the max.
-		 * Network effect
-			  * Open source community is already a very large community.
-	* The thin client model provides expediencies when developing for various hardware
-	  and system platforms.
-	* Develop the business model for software producers and consumers.
-		 * conventional market ???
-	* Minimum Viable Product
-		 * decide and elaborate a minimum viable product model would be to just build the concept
-			as quick as possible (cloud servers, etc) and build in decentralization and other ideals
-			as quick as possible afterward.
-			  * Security never compramized.
-			  * We create an abstraction of DECENTRALIZED SERVER and CONVENTIONAL CLOUD.
-					* First release is centralized as we work on decentralized
-		 * Donate idea of "aggregation" site.. get the info you need, in a better way.
-			  * Smart search and results
-			  * Topographical structure of all information (eg: related to bitcoin)
-		 * Scrape and index all opensource code available.
-			  * Put them in CodeDepot to bootstrap the system.. CodeChain
-		 * Maybe only start with one component... WorkSource.
-
-	* decide on and elaborate the roadmap of executing the proposal.. whats first, second, etc and
-	  how it will be implemented.
-
-
-	* How many instructions does llvm ir have? thats how many atomic nodes there are.
-	  everything else is done via component connection graph (network).
-	* freelancers also get "charged" for transferring money through paypal/bank.
-		 * doule hit on income (exchange, payment processor)
-		 * Are they? ..check this out.
-	* I need to integrate natural language translations into websites, etc.
-	* FOSS governance is a model
-		 * see whitepaper
-	* .".The dev is the rights holder" ..is she? would it be the community? ANSWER THIS !!!
-	* Create medium where I can communicate activities and progress, etc.
-	* Referral incentives (marketing)
-	* Corportate sponsors to fund devs and other ecosystem components ????
-	* Clarify that llvm IR is the most ideal location to implement.
-	* Distributed computing and Zennet
-	* Per cycle micropayment viability
-	* Demonstrate how CodeChain works
-		 * Devs just add a few components to what is there.
-	* Payment/Incentives model for work (code,etc)
-	* Diagrams for paper
-	* WorkSource expansion to general work sourcing site
-	* End-user data is cross-application:
-		 * The user has access to all of their data at their fingertips through a smart interface
-		 * End-user data is global to all apps
-		 * This breaks down application data silos for end-users.
-	* Koinify has a good criteria list for dApps that should be used in the paper
-		 * https://koinify.com/blog/things-we-look-for-in-a-dapp-project/
-	* Tokens purpose and application
-		 * see koinify blog post
-		 * fuel for processor nodes
-		 * incentivization:
-			  * programmers
-			  * writers and videographers
-			  * etc.. fill this in!
-	* Network effect and incentivization do go together, don't they!
-		 * Important to empasize network affect!
-			  * Itemize all the methods I will employ
-	* Possible expansion could include IAAS in the future
-	* CodeChain model eliminates the need for language "bindings" of an app/library/platform
-	* CRM maybe
-		 * eg: SugarCRM, OpenERP
-	* Utilize existing blockchain platforms in the beginning?
-	* Reputation system
-	* Emphasize transparency
-
-..
-	Notes
-	=====
-	* Public Ledger Platforms definition: Are networks that enable th transfer of digital assets from
-	  sender to receiver
-	* Governance models:
-		 * Bitcoinc
-			  * loose gov model
-			  * core dev group
-			  * foundation, provides financial support for core dev work.
-			  * volunteers contribute src code too.c
-			  * anyone could modify sw code.
-			  * changes to src code occur:
-					* noncontroversial: is adopted immediately
-					* controversial:    broad community consensus.
-		 * Ripple
-			  * developed by a for-profit co.
-			  * private investment.
-			  * open-source sw.
-			  * volunteers
-			  * "stock grants" on the containers (ripples).
-					* to motivate members of the community and compensate the company.
-			  * gov model similar to google's over android.
-			  * question viable (laborer) network effect.. criticized by the bitcoin community
-		 * Arguments against open source business models and DPLs:
-			  * DPL whitepaper
-	* Ecosystem
-		 * Two kinds of firms are likely to develop:
-			  * Provide financial services to consumers and other business based on the
-				 public ledger platform. (aka: financial services market)
-			  * operate the platform itself by providing processing and other services.
-				 (processing market)
-					* If predictable prices for labor (processing) then a prominent incentive
-					  for large firms to become established
-
-		  * Incentive to manipulate container prices are incentivized during the growth
-			 period.
-
-	* Containers can cary software code and would facilitate rules-based transactions.
-	* Estimates of efficiency of dpl platforms are affected by operation of:
-		 * Incentives
-		 * Governance
-		 * Cost of regulations
-		 * Security
-	* Innovation is accelerated by pushing it out to the edge into the hands of DPL platform
-	  distributed network entrepreneurs/developers.
-	* DPL for software-enabled contracts.
-	* General programming on the blockchain (ethereum)
-	* DPL platforms are complex organizations
-	* CodeChain
-		 * Automatic parallization models
-		 * OpenMP
-		 * OpenCL
-		 * Cuda
-		 * Linux Kernel
-	* LTBcoin and Tokenly
-		 * Is a community platform with cryptocurrency baked in.
-		 * Is open source and reproducable.
-		 * Proof of...
-			  * Participation
-			  * Value
-			  * Quality
-			  * Development
-		 * Why its valuable
-			  * Rewards people who help grow the ecosystem
-			  * To sell sponsorship space to highest bidder via auction events
-					* Winner receives "SPONSER" token to redeem the specific type of access
-					* Also see "Sponsor Standards" guideline
-			  * Users
-					* Paid for consuming content
-						 * read articles
-						 * listen to podcasts
-						 * interacting with the community
-						 * tipping posts
-						 * commenting on articles
-						 * forum discussion
-			  * Creators
-					* Podcasts
-					* Articles
-					* Paid upon initial publication as well as month later after consumption
-					  report in comparison to other work published that week.
-					* Start your own sub-network and share rewards with partners.
-		 * Starting slow with ambitious network effect plans
-		 * Pre-allocated 10% of the total 510 Mil tokens for reward distribution.
-			  * 40% content creators
-			  * 18% forum participants
-			  * 12% key thinkers
-			  * 15% partner funds
-			  * 10% year one platform dev
-			  * 05% pool for c-suite positions.
-		 * 5 year schedule for token creation.
-			  * 51,000,000 at launch
-			  * 459,000,000 weekly distributions
-			  * Total 510,000,000
-		 * Deflation schedule
-			  * year 1: 1%
-			  * year 2: 2%
-			  * year 3: 3%
-			  * year 4: 4%
-			  * year 5: 5%
-		 * Issuance and distribution authority
-			  * Issuer: Andres Antonopoulos
-			  * Distribution: Adam
-			  * Initially manual by asset issuer
-			  * to be automated
-			  * will use http://Vennd.io
-					* Enable arbitrarily complex things
-					* Distribution layer separate from tx processing layer
-			  * Bootstrapping distribution requires emperical metrics and determinants   !!!!!!
-			  * New issuances occur each week.
-		 * "Token Society"
-			  * Private communities, accessed controlled by "Access Token".
-			  * Token controlled, private forums
-			  * One time fee ($50,000 LTB) for access token
-			  * "Token Controlled Access Platform" technology
-		 * Auctions
-			  * http://auction.letstalkbitcoin.com
-		 * Distribution considerations
-			  * BTC had a chicken and egg problem
-					* Needed the coin to be widely distributed for a the coin to be decentralized
-					* Didn't want to give it away.
-					* Mining rewards was the solution
-						 * This targeted technically savvy early adopters
-						 * Did not just "hand out" "new money"
-			  * LTB
-					* No mining
-					* Distributed to content creators, community and platform
-					* 10% of all coins distributed on first day
-						 * 40% to Content creators over past year.
-						 * 30% initial audience
-							  * 60% community members
-							  * 40% active leaders in community
-						 * 15% Reserved for partner funds for future negotiations
-						 * 10% Current and future platform development.
-						 * 5% Funds initial vesting pool of CEO,CVO,CTO,CFO level positions.
-					* Ongoing distribution
-						 * 65% content creators
-						 * 25% audience
-						 * 10% platform dev and maintenance
-					* Dist is deflationary
-						 * 55% distributed over first year
-		 * Content Delivery Network
-			  * Proof of Publishing (POP) is the codification of published contnent.
-			  *
-
-
-
-
 
 Overview
 ========
@@ -251,9 +19,9 @@ Overview
 	 amazing efficiency would not be possible without the ability to stand on the shoulders
 	 of giants.. the open source software community! ~Peter Alexander, ProDataLab
 
-The artist Bob Dylan, once wrote a song titled "Everything is Broken". We take that notion and consider
-it quite apropos for the conventions in today's software usage, sales, production and
-execution. A participant can find inefficiencies and un-warranted complexities practically
+The artist Bob Dylan, once titled a song "Everything is Broken". We take that notion
+and consider it in reference to the conventions in today's software usage, sales, production
+and execution. A participant can find inefficiencies and un-warranted complexities practically
 everywhere in today's environment. We ask the reader to take a moment and
 think of their own experiences with software. Have you ever found yourself frustrated?
 Have you ever considered some aspect overly complicated, un-intuitive or in-flexible and
@@ -369,11 +137,9 @@ essentially a token that will be used to monetize all the goods and services wit
 cryptocurrency will be at the center of a well considered autonomous economic model of incentives and
 disincentives formulated by the community.
 
+As with other aspects of this proposal, an emphasis for community thought leaders to be engaged in the
+formulation of these models is sought after and strongly encouraged.
 
-
-As with other aspects of this proposal, an emphasis
-for thought leaders to be engaged in these models is vehemently sought after and strongly encouraged.
-Please join the CodeDepot community!
 
 
 Currency Model
@@ -468,6 +234,7 @@ questions:
   6) What if a software producer's time-to-market was reduced by a hundredfold?
   7) What if a software's execuation was most reliable and the most possibly secure from intrusion?
   8) What if a software user's privacy was held in the highest regard.
+
 
 CodeChain, it will be shown, is a system that could and will provide these desirable properties, as well
 as others.
@@ -587,8 +354,8 @@ translation stages prior to execution.
 Another most exciting and promising consideration, is to apply the notion of CBP to include that of speciality hardware
 processors like that of GPGPUs [#]_. GPGPUs provide a processing model of thousands
 concurrently executing threads. Utilizing these high-scale concurrent processors, one can imagine the
-promise of the original FBP concept of inter-communicating processes/threads without the extreme burdens
-imposed when merely targeting that of a CPU architecture.
+promise of the original FBP concept of inter-communicating processes/threads and lazy linkage,
+without the burdens of scalability that are imposed when merely targeting that of a CPU architecture.
 
 
 Everything is a Component
