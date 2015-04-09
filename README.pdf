@@ -19,10 +19,10 @@ endobj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 63 0 R /XYZ 62.69291 117.6772 0 ] /Rect [ 527.0227 637.4272 532.5827 649.4272 ] /Subtype /Link /Type /Annot >>
 endobj
 7 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 62.69291 351.0236 0 ] /Rect [ 62.69291 619.4272 121.0229 631.4272 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 62.69291 327.0236 0 ] /Rect [ 62.69291 619.4272 121.0229 631.4272 ] /Subtype /Link /Type /Annot >>
 endobj
 8 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 62.69291 351.0236 0 ] /Rect [ 527.0227 619.4272 532.5827 631.4272 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 62.69291 327.0236 0 ] /Rect [ 527.0227 619.4272 532.5827 631.4272 ] /Subtype /Link /Type /Annot >>
 endobj
 9 0 obj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 72 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 62.69291 601.4272 193.8029 613.4272 ] /Subtype /Link /Type /Annot >>
@@ -435,7 +435,7 @@ endobj
 << /Outlines 140 0 R /PageLabels 181 0 R /PageMode /UseNone /Pages 170 0 R /Type /Catalog >>
 endobj
 139 0 obj
-<< /Author () /CreationDate (D:20150409065710+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20150409072953+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Proposal for a Modern Software Ecosystem) >>
 endobj
 140 0 obj
@@ -445,7 +445,7 @@ endobj
 << /Dest [ 63 0 R /XYZ 62.69291 117.6772 0 ] /Next 142 0 R /Parent 140 0 R /Title (Overview) >>
 endobj
 142 0 obj
-<< /Dest [ 64 0 R /XYZ 62.69291 351.0236 0 ] /Next 143 0 R /Parent 140 0 R /Prev 141 0 R /Title (Introduction) >>
+<< /Dest [ 64 0 R /XYZ 62.69291 327.0236 0 ] /Next 143 0 R /Parent 140 0 R /Prev 141 0 R /Title (Introduction) >>
 endobj
 143 0 obj
 << /Count 2 /Dest [ 72 0 R /XYZ 62.69291 765.0236 0 ] /First 144 0 R /Last 145 0 R /Next 146 0 R /Parent 140 0 R 
@@ -989,7 +989,7 @@ Q
 endstream
 endobj
 172 0 obj
-<< /Length 6003 >>
+<< /Length 6203 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1025,41 +1025,41 @@ BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .177988 Tw (An end-user of software might hav
 Q
 Q
 q
-1 0 0 1 62.69291 483.0236 cm
+1 0 0 1 62.69291 471.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .459984 Tw (Other aspects of concern and inefficiency can be seen in the marketplace itself. Golieth sized companies) Tj T* 0 Tw 1.539979 Tw (hold monopolistic power over software marketplace silos. These concentrated marketplaces take large) Tj T* 0 Tw 1.351412 Tw (percentage commissions from a lowly software producer's product sales. They dictate rules that are at) Tj T* 0 Tw (times overly stringent or simply used to control the domination they hold in the market.) Tj T* ET
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .292485 Tw (Other aspects of concern and inefficiency can be seen in the marketplace itself. In some markets, Golieth) Tj T* 0 Tw 4.861976 Tw (sized companies hold monopolistic power over software marketplace silos. These concentrated) Tj T* 0 Tw 1.20748 Tw (marketplaces take large percentage commissions from a lowly software producer's product sales. They) Tj T* 0 Tw 1.155542 Tw (dictate rules that are at times overly stringent or simply used to control the domination they hold in the) Tj T* 0 Tw (market.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 441.0236 cm
+1 0 0 1 62.69291 417.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.042126 Tw (The readers of this paper are asked to consider very thoughtfully what they themselves, specifically,) Tj T* 0 Tw .346488 Tw (would have improved, because it is that specific item or list of items that will be fixed by what is proposed) Tj T* 0 Tw (in this paper and its addendums.) Tj T* ET
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .03436 Tw (This project's goal is to collaboratively make the experience of creating and using software as efficient and) Tj T* 0 Tw 2.063735 Tw (as intuitive as possible. The readers of this paper are asked to consider very thoughtfully what they) Tj T* 0 Tw .735868 Tw (themselves, specifically, would have improved, because it is that specific item or list of items that will be) Tj T* 0 Tw (fixed by what is proposed in this paper and its addendums.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 363.0236 cm
+1 0 0 1 62.69291 339.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .042619 Tw (This paper is currently in its first draft and is itself an open source project for inspired persons to contribute) Tj T* 0 Tw 1.206488 Tw (their ideas to. Eventually it will reach a 1.0 status at which point it will have the appearance more of a) Tj T* 0 Tw .722209 Tw (specification than of merely a white paper. At this point I encourage you to envision the possibilities of a) Tj T* 0 Tw .143828 Tw (collaborative effort to change the current paradigm surrounding the production, consumption and usage of) Tj T* 0 Tw 1.719318 Tw (software. You are encouraged to join this effort to modernize the entire software ecosystem via open) Tj T* 0 Tw (source software and its principles. Please become a contributing member of the CodeDepot Community.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 330.0236 cm
+1 0 0 1 62.69291 306.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Introduction) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 240.0236 cm
+1 0 0 1 62.69291 216.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL 2.073516 Tw (Software is ubiquitous in our lives whether we are users or producers. Yet, even a less than astute) Tj T* 0 Tw 3.414104 Tw (observer can see that the entire ecosystem is ripe for innovation. In this paper we will begin a) Tj T* 0 Tw .645318 Tw (conversation of the direction of the needed improvements and we ask the community to participate. This) Tj T* 0 Tw 1.298735 Tw (community that is mentioned, are the people that engage with software whether it be in its production,) Tj T* 0 Tw 1.445697 Tw (sales, tutelage or usage.. whether they are casual or power users. Having discussion and contribution) Tj T* 0 Tw .603516 Tw (globally and easily, will ensure that the best solutions of problems we all identify, will be addressed most) Tj T* 0 Tw (thoroughly and efficiently.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 186.0236 cm
+1 0 0 1 62.69291 162.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .941984 Tw (Below are six foundational pillars of a proposed software ecosystem that may forever change the entire) Tj T* 0 Tw .676235 Tw (paradigm of our engagement with software. What is presented at this time are merely proposals that will) Tj T* 0 Tw 2.412485 Tw (be refined by any willing individual participant and all the participants in whole. The paper also will) Tj T* 0 Tw (introduce other worthy aspects and notations pertinent to the execution of this proposal.) Tj T* ET
@@ -3937,30 +3937,30 @@ xref
 0000030214 00000 n
 0000030345 00000 n
 0000038493 00000 n
-0000044554 00000 n
-0000051578 00000 n
-0000058315 00000 n
-0000066199 00000 n
-0000072314 00000 n
-0000082459 00000 n
-0000089759 00000 n
-0000097865 00000 n
-0000103587 00000 n
-0000103727 00000 n
-0000103765 00000 n
-0000103803 00000 n
-0000103841 00000 n
-0000103879 00000 n
-0000103917 00000 n
-0000103955 00000 n
-0000103993 00000 n
-0000104031 00000 n
-0000104069 00000 n
+0000044754 00000 n
+0000051778 00000 n
+0000058515 00000 n
+0000066399 00000 n
+0000072514 00000 n
+0000082659 00000 n
+0000089959 00000 n
+0000098065 00000 n
+0000103787 00000 n
+0000103927 00000 n
+0000103965 00000 n
+0000104003 00000 n
+0000104041 00000 n
+0000104079 00000 n
+0000104117 00000 n
+0000104155 00000 n
+0000104193 00000 n
+0000104231 00000 n
+0000104269 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\307=\2017\310\336Oc\001X\004\000\222x6h) (\307=\2017\310\336Oc\001X\004\000\222x6h)]
+ [(\373\334_\205\216%'\340\345_\021toH<\340) (\373\334_\205\216%'\340\345_\021toH<\340)]
  /Info 139 0 R /Root 138 0 R /Size 192 >>
 startxref
-104108
+104308
 %%EOF

@@ -36,15 +36,17 @@ Software engineers may have thought of many areas of foolishness that surround t
 profession. The lists of areas ripe for innovation surrounding the software ecosystem
 are quite abundant.
 
-Other aspects of concern and inefficiency can be seen in the marketplace itself. Golieth
-sized companies hold monopolistic power over software marketplace silos. These concentrated
-marketplaces take large percentage
-commissions from a lowly software producer's product sales. They dictate rules that are
-at times overly stringent or simply used to control the domination they hold in the market.
+Other aspects of concern and inefficiency can be seen in the marketplace itself. In some
+markets, Golieth sized companies hold monopolistic power over software marketplace silos.
+These concentrated marketplaces take large percentage commissions from a lowly software
+producer's product sales. They dictate rules that are at times overly stringent or simply
+used to control the domination they hold in the market.
 
-The readers of this paper are asked to consider very thoughtfully what they themselves,
-specifically, would have improved, because it is that specific item or list of items that
-will be fixed by what is proposed in this paper and its addendums.
+This project's goal is to collaboratively make the experience of creating and using software
+as efficient and as intuitive as possible. The readers of this paper are asked to consider
+very thoughtfully what they themselves, specifically, would have improved, because it is
+that specific item or list of items that will be fixed by what is proposed in this paper
+and its addendums.
 
 This paper is currently in its first draft and is itself an open source project for inspired
 persons to contribute their ideas to. Eventually it will reach a 1.0 status at which point it
