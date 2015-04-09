@@ -2,7 +2,7 @@
 Proposal for a Modern Software Ecosystem
 ========================================
 
-*Please note that this whitepaper is very much incomplete and is being detailed/refined.*
+*Working Draft - Not final*
 
 -----------------------------------------
 
@@ -28,7 +28,7 @@ Proposal for a Modern Software Ecosystem
 			  * Open source community is already a very large community.
 	* The thin client model provides expediencies when developing for various hardware
 	  and system platforms.
-	* I need to develop the business model for software producers and consumers.
+	* Develop the business model for software producers and consumers.
 		 * conventional market ???
 	* Minimum Viable Product
 		 * decide and elaborate a minimum viable product model would be to just build the concept
@@ -43,20 +43,10 @@ Proposal for a Modern Software Ecosystem
 		 * Scrape and index all opensource code available.
 			  * Put them in CodeDepot to bootstrap the system.. CodeChain
 		 * Maybe only start with one component... WorkSource.
+
 	* decide on and elaborate the roadmap of executing the proposal.. whats first, second, etc and
 	  how it will be implemented.
-	* Send the whitepaper to
-		 * "Lucius" on zapchain.
-		 * John Barlow
-		 * Pieter Hintgens
-		 * J. Paul Morrison
-		 * Vitalik Buterin
-		 * Econtalk guy
-		 * llvm guy?
-		 * Airbitz founder "William"
-		 * Eric S. Raymond
-		 * Steve Wozniack ??
-		 * Leaders in the various OSS sub-communities
+
 
 	* How many instructions does llvm ir have? thats how many atomic nodes there are.
 	  everything else is done via component connection graph (network).
@@ -94,7 +84,14 @@ Proposal for a Modern Software Ecosystem
 	* Network effect and incentivization do go together, don't they!
 		 * Important to empasize network affect!
 			  * Itemize all the methods I will employ
-	* Study Vitalik's and Daniel's blogs / papers
+	* Possible expansion could include IAAS in the future
+	* CodeChain model eliminates the need for language "bindings" of an app/library/platform
+	* CRM maybe
+		 * eg: SugarCRM, OpenERP
+	* Utilize existing blockchain platforms in the beginning?
+	* Reputation system
+	* Emphasize transparency
+
 ..
 	Notes
 	=====
@@ -144,6 +141,103 @@ Proposal for a Modern Software Ecosystem
 	* DPL for software-enabled contracts.
 	* General programming on the blockchain (ethereum)
 	* DPL platforms are complex organizations
+	* CodeChain
+		 * Automatic parallization models
+		 * OpenMP
+		 * OpenCL
+		 * Cuda
+		 * Linux Kernel
+	* LTBcoin and Tokenly
+		 * Is a community platform with cryptocurrency baked in.
+		 * Is open source and reproducable.
+		 * Proof of...
+			  * Participation
+			  * Value
+			  * Quality
+			  * Development
+		 * Why its valuable
+			  * Rewards people who help grow the ecosystem
+			  * To sell sponsorship space to highest bidder via auction events
+					* Winner receives "SPONSER" token to redeem the specific type of access
+					* Also see "Sponsor Standards" guideline
+			  * Users
+					* Paid for consuming content
+						 * read articles
+						 * listen to podcasts
+						 * interacting with the community
+						 * tipping posts
+						 * commenting on articles
+						 * forum discussion
+			  * Creators
+					* Podcasts
+					* Articles
+					* Paid upon initial publication as well as month later after consumption
+					  report in comparison to other work published that week.
+					* Start your own sub-network and share rewards with partners.
+		 * Starting slow with ambitious network effect plans
+		 * Pre-allocated 10% of the total 510 Mil tokens for reward distribution.
+			  * 40% content creators
+			  * 18% forum participants
+			  * 12% key thinkers
+			  * 15% partner funds
+			  * 10% year one platform dev
+			  * 05% pool for c-suite positions.
+		 * 5 year schedule for token creation.
+			  * 51,000,000 at launch
+			  * 459,000,000 weekly distributions
+			  * Total 510,000,000
+		 * Deflation schedule
+			  * year 1: 1%
+			  * year 2: 2%
+			  * year 3: 3%
+			  * year 4: 4%
+			  * year 5: 5%
+		 * Issuance and distribution authority
+			  * Issuer: Andres Antonopoulos
+			  * Distribution: Adam
+			  * Initially manual by asset issuer
+			  * to be automated
+			  * will use http://Vennd.io
+					* Enable arbitrarily complex things
+					* Distribution layer separate from tx processing layer
+			  * Bootstrapping distribution requires emperical metrics and determinants   !!!!!!
+			  * New issuances occur each week.
+		 * "Token Society"
+			  * Private communities, accessed controlled by "Access Token".
+			  * Token controlled, private forums
+			  * One time fee ($50,000 LTB) for access token
+			  * "Token Controlled Access Platform" technology
+		 * Auctions
+			  * http://auction.letstalkbitcoin.com
+		 * Distribution considerations
+			  * BTC had a chicken and egg problem
+					* Needed the coin to be widely distributed for a the coin to be decentralized
+					* Didn't want to give it away.
+					* Mining rewards was the solution
+						 * This targeted technically savvy early adopters
+						 * Did not just "hand out" "new money"
+			  * LTB
+					* No mining
+					* Distributed to content creators, community and platform
+					* 10% of all coins distributed on first day
+						 * 40% to Content creators over past year.
+						 * 30% initial audience
+							  * 60% community members
+							  * 40% active leaders in community
+						 * 15% Reserved for partner funds for future negotiations
+						 * 10% Current and future platform development.
+						 * 5% Funds initial vesting pool of CEO,CVO,CTO,CFO level positions.
+					* Ongoing distribution
+						 * 65% content creators
+						 * 25% audience
+						 * 10% platform dev and maintenance
+					* Dist is deflationary
+						 * 55% distributed over first year
+		 * Content Delivery Network
+			  * Proof of Publishing (POP) is the codification of published contnent.
+			  *
+
+
 
 
 
@@ -157,7 +251,7 @@ Overview
 	 amazing efficiency would not be possible without the ability to stand on the shoulders
 	 of giants.. the open source software community! ~Peter Alexander, ProDataLab
 
-Bob Dylan once wrote a song titled "Everything is Broken". We take that notion and consider
+The artist Bob Dylan, once wrote a song titled "Everything is Broken". We take that notion and consider
 it quite apropos for the conventions in today's software usage, sales, production and
 execution. A participant can find inefficiencies and un-warranted complexities practically
 everywhere in today's environment. We ask the reader to take a moment and
@@ -382,11 +476,11 @@ as others.
 Overview
 `````````
 
-CodeChain is a decentralized system [#]_ which at its core reflects
+CodeChain is a decentralized processing system [#]_ which at its core reflects
 the philosphy of component based software engineering (CBSE) [#]_. It is entirely inspired by
 J.Paul Morrison's [#]_ Flow-Based Programming (FBP) [#]_. The concepts of FBP are
 improved with secure decentralized computing, communication and database models from
-various sources including BitCoin [#]_, BitTorrent [#]_. CBSE exhibits the very desirable property
+various sources including BitCoin [#]_, BitTorrent [#]_ and BOINC [#]_. CBSE exhibits the very desirable property
 of loose coupling [#]_. FBP, a particular form of dataflow programming [#]_ extends loose
 coupling to define bounded buffers, information packets with defined lifetimes, named ports,
 and most importantly a separate (lazy) definition of communication connections [#]_.
@@ -477,8 +571,8 @@ emphasis on components over that of data flow as it is for FBP.
 
 The concepts fundamental to FBP (autonomous black-box components loosely coupled via lazy linkage)
 can be easily
-considered at the various phases of the compilation stack prior to execution. Essentially what this means,
-is that we can remove the constraints, from that of each component, needing to be its own execution process
+considered at the various phases of the compilation stack prior to execution. Essentially what this means
+is that we can remove the constraints from that of each component, needing to be its own execution process
 or thread, yet
 still be most loosely coupled. We can redefine networked inter-process components to that of a
 virtual model, that can then be implemented, by encompassing one or all of the compilation's
@@ -691,6 +785,9 @@ Other aspects will include:
 
 .. [#] BitTorrent
        http://en.wikipedia.org/wiki/BitTorrent
+
+.. [#] BOINC
+		 https://boinc.berkeley.edu/
 
 .. [#] Loose Coupling
        http://en.wikipedia.org/wiki/Loose_coupling
