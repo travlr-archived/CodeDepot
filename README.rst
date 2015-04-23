@@ -284,7 +284,7 @@ Limitations of FBP
 
 At a superficial level, FBP is an ideal programming paradigm that offers quite a few
 benefits over conventional paradigms. At scale though, there is a limiting condition of
-context switching, especially so on conventional general purpose CPUs [#]_. For an FBP paradigm at scale,
+context switching [#]_, especially so on conventional general purpose CPUs [#]_. For an FBP paradigm at scale,
 a point will be reached where the
 number of
 context switches on a single machine, multi-core CPU, overwhelms the system and causes notable latency.
@@ -514,23 +514,17 @@ Agile Development Manifesto
 .. [#] Bitcoin, The Beginning of Open-source Goverence
 		 http://falkvinge.net/2014/11/10/bitcoin-the-beginning-of-open-source-governance/
 
-.. [#] Loomio
-		 http://loomio.org
-
-.. [#] DemocracyOS
-		 http://democracyos.org
-
 .. [#] Cryptocurrency
 		 http://en.wikipedia.org/wiki/Cryptocurrency
-
-.. [#] Decentralized Computing
-       http://en.wikipedia.org/wiki/Decentralized_computing
-       
+		 
 .. [#] The Problem with Programming Languages
        https://www.google.com/search?as_q=problem+program+language&as_epq=&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&tbs=&as_filetype=&as_rights=&gws_rd=ssl
        
 .. [#] The Problem with Programming
        http://www.technologyreview.com/news/406923/the-problem-with-programming/
+
+.. [#] Decentralized Computing
+       http://en.wikipedia.orgš/wiki/Decentralized_computing
 
 .. [#] Component-Based Software Engineering
        http://en.wikipedia.org/wiki/Component-based_software_engineering
@@ -564,14 +558,13 @@ Agile Development Manifesto
 
 .. [#] Context Switch
        http://en.wikipedia.org/wiki/Context_switch
+       
+.. [#] General Purpose CPU
+       http://en.wikipedia.org/wiki/Central_processing_unit
 
 .. [#] How Long Does It Take To Make Context
        http://blog.tsunanet.net/2010/11/how-long-does-it-take-to-make-context.html
 
 .. [#] General-purpose computing on graphics processing units
        http://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units
-
-.. [#] LLVM compilation toolkit
-		 http://llvm.org
-
 
