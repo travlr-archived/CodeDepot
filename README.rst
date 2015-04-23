@@ -106,7 +106,7 @@ the problems of any centralized governing system that naturally creates hierarch
 
     Bitcoin's decentralized system opens a door to a new paradigm where people can choose to abide by a protocol of consensus which is a different from the logic of domination and control of a centralized paradigm. Technology can't solve everything. Technology is just a tool. It always needs to be accounted for by democratic consensus of people. Technology should never be used to replace human interaction and connection.. it should be used only to enhance it. [#]_
 
-
+In short, a co-op is defined as "a jointly owned enterprise engaging in the production or distribution of goods or the supplying of services, operated by its members for their mutual benefit"[#]_.  And.. in this case we include consumers into our definition as well.
 
 
 CodeCoin, The currency of the ecosystem
@@ -514,6 +514,9 @@ Agile Development Manifesto
 .. [#] Bitcoin, The Beginning of Open-source Goverence
 		 http://falkvinge.net/2014/11/10/bitcoin-the-beginning-of-open-source-governance/
 
+.. [#] Cooperative
+       http://en.wikipedia.org/wiki/Cooperative
+		 
 .. [#] Cryptocurrency
 		 http://en.wikipedia.org/wiki/Cryptocurrency
 		 
