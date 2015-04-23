@@ -459,14 +459,6 @@ together with ideas generated and implemented by the community, will make the pl
 most desirable and efficient to participate in.
 
 
-Rapid Application Development
-`````````````````````````````
-
-
-Agile Development Manifesto
-```````````````````````````
-
-
 
 CodeSweet
 =========
@@ -496,6 +488,15 @@ Other aspects will include:
 * Cutting edge compilation and translation chains
 * "Code once for everywhere" user interface compiler
 
+
+Rapid Application Development
+`````````````````````````````
+    Todo
+    
+
+Agile Development Manifesto
+```````````````````````````
+    Todo
 
 ---------------------------------
 
