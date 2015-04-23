@@ -1,6 +1,6 @@
-========================================
-Proposal for a Modern Software Ecosystem
-========================================
+=====================================================
+CodeDepot: A Proposal for a Modern Software Ecosystem
+=====================================================
 
 *Working Draft - Not final*
 
@@ -37,7 +37,7 @@ profession. The lists of areas ripe for innovation surrounding the software ecos
 are quite abundant.
 
 Other aspects of concern and inefficiency can be seen in the marketplace itself. In some
-markets, Golieth sized companies hold monopolistic power over software marketplace silos.
+markets, Goliath sized companies hold monopolistic power over software marketplace silos.
 These concentrated marketplaces take large percentage commissions from a lowly software
 producer's product sales. They dictate rules that are at times overly stringent or simply
 used to control the domination they hold in the market.
@@ -49,12 +49,12 @@ that specific item or list of items that will be fixed by what is proposed in th
 and its addendums.
 
 This paper is currently in its first draft and is itself an open source project for inspired
-persons to contribute their ideas to. Eventually it will reach a 1.0 status at which point it
+persons to contribute their ideas to. Eventually it will reach a 1.0 status; at which point it
 will have the appearance more of a specification than of merely a white paper. At this point
 I encourage you to envision the possibilities of a collaborative effort to change the current
 paradigm surrounding the production, consumption and usage of software. You are encouraged to
 join this effort to modernize the entire software ecosystem via open source software and its
-principles. Please become a contributing member of the CodeDepot Community.
+principles. Become a contributing member of the CodeDepot Community.
 
 ..
 	note:: Say: Bring _your_ innovations and implement them.
@@ -75,12 +75,12 @@ problems we all identify, will be addressed most thoroughly and efficiently.
 Below are six foundational pillars of a proposed software ecosystem
 that may forever change the entire paradigm of our engagement with software. What is presented
 at this time are merely proposals that will be refined by any
-willing individual participant and all the participants in whole. The paper also will
-introduce other worthy aspects and notations pertinent to the execution of this proposal.
+willing individual participant and all the participants in whole. The paper and its 
+addendums will also introduce other worthy aspects and notations pertinent to the execution of this proposal.
 
 
-The CodeDepot Foundation
-========================
+The CodeDepot Cooperative
+==========================
 
 Together, an engaged society will undoubtedly find the best solutions to issues that face them. Over
 the past 40 years, the open source community has shown that open participation most often
@@ -88,15 +88,15 @@ provides better results than that of a closed system. We present here a decentra
 where every member of the community has the opportunity provide direction through proposals,
 discussion and ultimately to that of solutions. We suggest that Decentralized Autonomous
 Organizations [#]_,
-a new concept now available through cutting edge technology, will provide many benifits over
+a new concept now available through cutting edge technology, will provide many benefits over
 conventional and centralized organizational structures where they are applicable.
 
 Overview
 `````````
 
-The CodeDepot Foundation is the working name of a proposed open governance model for the
+The CodeDepot Cooperative is the working name of a proposed open governance model for the
 CodeDepot ecosystem; where directives and decisions are decentralized and democratized
-amongst the entire community [#]_. This notion of decentralized governance is aimed at stemming
+amongst the entire community [#]_. This notion of decentralized governance and transparency is aimed at stemming
 the problems of any centralized governing system that naturally creates hierarchical levels of control.
 
     Bitcoin's underlying technology of the blockchain [#]_, brings a radical departure from the governance model of the old world. It follows trends of decentralization that have emerged through the internet in recent years including Bittorrent, Free Software and Open Source Movements
@@ -107,12 +107,6 @@ the problems of any centralized governing system that naturally creates hierarch
     Bitcoin's decentralized system opens a door to a new paradigm where people can choose to abide by a protocol of consensus which is a different from the logic of domination and control of a centralized paradigm. Technology can't solve everything. Technology is just a tool. It always needs to be accounted for by democratic consensus of people. Technology should never be used to replace human interaction and connection.. it should be used only to enhance it. [#]_
 
 
-Distributed, Group Governance Platform
-``````````````````````````````````````
-	Todo
-
-* Loomio ? [#]_
-* DemocracyOS ? [#]_
 
 
 CodeCoin, The currency of the ecosystem
@@ -131,9 +125,9 @@ as a community of software engagers can benefit from this remarkability.
 Overview
 ````````
 
-CodeCoin is the proposed crytpocurrency [#]_ that will be used in this software ecosystem. It is
+CodeCoin is the proposed programmable money, or cryptocurrency [#]_, that will be used in this software ecosystem. It is
 essentially a token that will be used to monetize all the goods and services within the ecosystem. This
-cryptocurrency will be at the center of a well considered autonomous economic model of incentives and
+cryptocurrency will be at the center of a well considered autonomous economics model of incentives and
 disincentives formulated by the community.
 
 As with other aspects of this proposal, an emphasis for community thought leaders to be engaged in the
@@ -141,27 +135,13 @@ formulation of these models is sought after and strongly encouraged.
 
 
 
-Currency Model
-``````````````
-
-Incentives Model
-````````````````
-
-Micropayment Utilization
-`````````````````````````
-
-..
-	Note: What crypto companies are offer interest bearing accounts in the future?.. partner
-	with them.
-
-
 
 CodeDepot, The decentralized software marketplace and code repository
 ======================================================================
 
 The core component of the ecosystem is a marketplace where users and producers engage.
-This is composed of two parts where developers will deposit code into the system
-and users will have an interface to utilize it. Other participants will include documention
+This is composed of two parts where developers will have an interface to deposit software code into the system
+and users will have an interface to utilize it. Other participants will include documentation
 contributers, article writers, bloggers, audio and video producers. Actually, anything surrounding
 software and related technology.
 
@@ -170,47 +150,34 @@ are snippets of code called components in this paper's nomenclature. They will u
 CodeDepot as a repository and market interface for their components of code and
 other contributions.
 
-Users will have many advantages  over conventional software produced today including but not limited to:
+Users will have many advantages over conventional software produced today including but not limited to:
 
- * Flexibility
- * Scalability
- * Security
- * Ease of use
- * Accessibility
- * Privacy
- * Complete control and ownership of their data.
+* Flexibility
+* Scalability
+* Security
+* Ease of use
+* Accessibility
+* Privacy
+* Complete control and ownership of their personal data.
 
 Mechanisms will be built-in that provide the end-user and easy ability to:
 
- * Give seemless, instantaneous feedback.
- * Directly request alterations or needed features.
- * Intuitive, complete documentation and autonomous tutelage.
- * Hire affordable freelancers directly from their user interface.
-	  * For asistance or instruction.
-	  * For software developers to provide any possibly needed customization.
-
-..
-	 * Possibly even choose "payment methods"
-		  * Advertising
-          * Onetime fee for apps
-          * Per execution cycle (micropayments)
-		  * Contractual, eg. monthly/yearly
-		  * Synergies via CodeDepot's economic partners
-		  * Selling value of their usage characteristics
-				* e.g., Facebook model where the user is the product
+* Give seamless, instantaneous feedback.
+* Directly request alterations or needed features.
+* Intuit the product through complete documentation and autonomous tutelage.
+* Hire affordable freelancers directly from their user interface.
+    * For assistance or instruction.
+    * For software developers to provide any possibly needed customization.
+* Possibly choose "payment methods"
+    * Advertising
+    * Onetime fee for apps
+    * Per execution cycle (micropayments)
+    * Contractual, eg. monthly/yearly
+    * Synergies via CodeDepot's economic partners
+    * Selling value of their usage characteristics
+        * e.g., Facebook business model, where the user is the product
 
 
-Overview
-````````
-
-Developer Interface
-```````````````````
-
-End-user Interface
-``````````````````
-
-Market Considerations, Economics
-````````````````````````````````
 
 
 .. _CodeChain: https://github.com/ProDataLab/CodeDepot#codechain-the-decentralized-processing-engine
@@ -218,21 +185,22 @@ Market Considerations, Economics
 CodeChain, The decentralized processing engine
 ==============================================
 
-The problems with the conventional programming paradigm are numerous. In fact, at the time
-of the initial draft of this paper, querying Google's search engine for "The problems with
-programming languages" produced nearly 72 million results. It seems fruitless
+The problems with conventional programming paradigms are numerous. In fact, at the time
+of the initial draft of this paper, querying Google's search engine for "problem AND programming AND language" 
+produced 50.8 million results [#]_. With many articles titled similar to
+"The Problem with Programming" [#]_, It seems fruitless
 to itemize these problems as a comparison to what is proposed here, let alone the problems of
 the entire software centric paradigm. Instead, as an introduction, we ask the following
 questions:
 
-  1) What if snippets of software were in essence Lego like reusable components that just snapped together into a desired structure?
-  2) What if once a component or a structure of components was created, it would never have to be created again by anyone? Yes, ever again as in the literal sense of forever.
-  3) What if once a component was created it would be shared by every piece of running software in the world that required it?
-  4) What if an executing software system, even a mission critical system, could be altered or replaced without even a nanosecond of downtime.
-  5) What if it did not matter which programming language was used to create an individual component and that any component could seemlessly communicate with others?
-  6) What if a software producer's time-to-market was reduced by a hundredfold?
-  7) What if a software's execuation was most reliable and the most possibly secure from intrusion?
-  8) What if a software user's privacy was held in the highest regard.
+1) What if snippets of software were in essence Lego like reusable components that just snapped together, even autonomously into a desired structure?
+2) What if once a component or a structure of components was created, it would never have to be created again by anyone? Yes, ever again as in the literal sense of forever.
+3) What if once a component was created it would be shared by every piece of running software in the world that required it?
+4) What if an executing software system, even a mission critical system, could be altered or replaced without even a nanosecond of downtime.
+5) What if it did not matter which programming language was used to create an individual component and that any component could seamlessly communicate with others?
+6) What if a software producer's time-to-market was reduced by a hundredfold?
+7) What if a software's execution was most reliable and the most possibly secure from intrusion?
+8) What if a software user's privacy was held in the highest regard.
 
 
 CodeChain, it will be shown, is a system that could and will provide these desirable properties, as well
@@ -243,13 +211,15 @@ Overview
 `````````
 
 CodeChain is a decentralized processing system [#]_ which at its core reflects
-the philosphy of component based software engineering (CBSE) [#]_. It is entirely inspired by
+the philosophy of component based software engineering (CBSE) [#]_. It is entirely inspired by
 J.Paul Morrison's [#]_ Flow-Based Programming (FBP) [#]_. The concepts of FBP are
 improved with secure decentralized computing, communication and database models from
 various sources including BitCoin [#]_, BitTorrent [#]_ and BOINC [#]_. CBSE exhibits the very desirable property
 of loose coupling [#]_. FBP, a particular form of dataflow programming [#]_ extends loose
 coupling to define bounded buffers, information packets with defined lifetimes, named ports,
 and most importantly a separate (lazy) definition of communication connections [#]_.
+
+* FBP is essentially a 3 dimensional hierarchical graph.
 
 
 
@@ -317,11 +287,11 @@ benefits over conventional paradigms. At scale though, there is a limiting condi
 context switching, especially so on conventional general purpose CPUs [#]_. For an FBP paradigm at scale,
 a point will be reached where the
 number of
-context switches on a single machine CPU, overwhelms the system and causes notable latency.
+context switches on a single machine, multi-core CPU, overwhelms the system and causes notable latency.
 On average, context switching costs approximately 30 microseconds of
 overhead per occurrence. One benchmark of the theoretical limitations of context switching has an upper
 bound of 18.75% of CPU cycles wasted due to context switching. Generally, optimal CPU
-use, is to have the same number of worker threads as there are hardware threads when a process is CPU bound,
+use is to have the same number of worker threads as there are hardware threads when a process is CPU bound,
 whereas I/O bound permit more [#]_.
 These considerations puts the FBP paradigm at very much a disadvantaged ideal of maximal
 efficiency.
@@ -334,6 +304,10 @@ In order to overcome the conditional limitations of context switching per proces
 strictly FBP paradigm, we provide here an area of consideration to help maximize the efficacy of the CodeChain
 system. The term Component-based Programming (CBP) is coined here for the purpose of a enlisting a stronger
 emphasis on components over that of data flow as it is for FBP.
+
+
+Utilizing Software Translation
+``````````````````````````````
 
 The concepts fundamental to FBP (autonomous blackbox components loosely coupled via lazy linkage)
 can be easily
@@ -350,16 +324,35 @@ translation stages prior to execution.
 4. Machine code and its linkage
 5. Just-In-Time compilation or interpreter engine
 
-Another most exciting and promising consideration, is to apply the notion of CBP to include that of speciality hardware
+
+General Purpose Graphical Processing Units (GPGPU)
+```````````````````````````````````````````````````
+
+Another most exciting and promising consideration, is to apply the notion of CBP to include that of specialty hardware
 processors like that of GPGPUs [#]_. GPGPUs provide a processing model of thousands
 concurrently executing threads. Utilizing these high-scale concurrent processors, one can imagine the
 promise of the original FBP concept of inter-communicating processes/threads and lazy linkage,
 without the burdens of scalability that are imposed when merely targeting that of a CPU architecture.
 
+* Task-based and Data-based parallelism (MIMD)
+* Scheduling and Communication need to be implemented
+* Task Parallel
+    * Irregular workloads with dependencies
+* Both CUDA and OpenCL have open source LLVM backends
+* Whippletree for task-parallel model
+    * "Dynamic Irregular Workloads
+* Although designed for SIMD, MIMD is feasible.
+    * A GPU Task-parallel model with Dependency Resolution
+        * http://www.idav.ucdavis.edu/func/return_pdf?pub_id=1091
+    * Whippletree
+        * http://data.icg.tugraz.at/~dieter/publications/Schmalstieg_286.pdf
+        * https://github.com/apc-llc/whippletree
+
+
 
 Everything is a Component
 `````````````````````````
-	 Todo
+    Todo
 
 * Components are snippets of code
 * Components can be atomic or composites, made up of other components.
@@ -368,18 +361,16 @@ Everything is a Component
 * High scale concurrency.
 * Processing efficiency
 * Once a component is created:
-     * It can be reused and repurposed to anywhere it is possibly needed.
-	 * It will never need to be created ever again.. as in the literal sense of forever.
-	 * It can be virtually shared by every piece of running software, in the world,
-		that depends on it.
+    * It can be reused and repurposed to anywhere it is possibly needed.
+    * It will never need to be created ever again.. as in the literal sense of forever.
+    * It can be virtually shared by every piece of running software, in the world,
+      that depends on it.
 * Can be comprised of code from any programming language**.
 * All apps and "libraries" are comprised of networks of components.
 * The networked components model, lends itself overwhelmingly to visual programming interfaces (VPI).
-	 * We propose vast "smart" improvements over conventional visual programming environments.
-* In the future, developers will have ready-made "base" component networks, in that they only need
-  to minimally append and/or tweak what has been done before them.
-
-	 * Extremely smart and efficient component "search" mechanisms.
+    * We propose vast "smart" improvements over conventional visual programming environments.
+* In the future, developers will have ready-made "base" component networks, in that they only need to minimally append and/or tweak what has been done before them.
+    * Extremely smart and efficient component "search" mechanisms.
 
 
 
@@ -425,7 +416,7 @@ WorkSource
 	 * Angie's List
 	 * Amazon Home Services
 
-WorkSource is a proposal for a open governence, decentralized, peer to peer marketplace for end-users
+WorkSource is a proposal for a open governance, decentralized, peer to peer marketplace for end-users
 to hire freelancers.
 It will employ modern cutting edge technology for monetization, accounting, reputation,
 contractual obligation and
@@ -443,9 +434,6 @@ services. Often the employer will find these services confusing, frustrating and
 
 Freelancers will often find that scanning and applying for jobs, is simply too time consuming.
 
-
-..
-	develop the idea of a market chain (all) and its sidechains (e.g: codedepot).
 
 
 Overview
@@ -471,13 +459,13 @@ together with ideas generated and implemented by the community, will make the pl
 most desirable and efficient to participate in.
 
 
+Rapid Application Development
+`````````````````````````````
 
 
-..
-	Introduction
-	`````````````
-    WorkSource will be a superset community of sectoral communities for instance that of
-    the software sector, namely CodeDepot [#]_.
+Agile Development Manifesto
+```````````````````````````
+
 
 
 CodeSweet
@@ -536,6 +524,12 @@ Other aspects will include:
 
 .. [#] Decentralized Computing
        http://en.wikipedia.org/wiki/Decentralized_computing
+       
+.. [#] The Problem with Programming Languages
+       https://www.google.com/search?as_q=problem+program+language&as_epq=&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&tbs=&as_filetype=&as_rights=&gws_rd=ssl
+       
+.. [#] The Problem with Programming
+       http://www.technologyreview.com/news/406923/the-problem-with-programming/
 
 .. [#] Component-Based Software Engineering
        http://en.wikipedia.org/wiki/Component-based_software_engineering
