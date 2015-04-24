@@ -79,8 +79,8 @@ willing individual participant and all the participants in whole. The paper and 
 addendums will also introduce other worthy aspects and notations pertinent to the execution of this proposal.
 
 
-The CodeDepot Cooperative
-==========================
+The CodeDepot Collaborative
+===========================
 
 Together, an engaged society will undoubtedly find the best solutions to issues that face them. Over
 the past 40 years, the open source community has shown that open participation most often
@@ -94,7 +94,7 @@ conventional and centralized organizational structures where they are applicable
 Overview
 `````````
 
-The CodeDepot Cooperative is the working name of a proposed open governance model for the
+The CodeDepot Collaborative is the working name of a proposed open governance model for the
 CodeDepot ecosystem; where directives and decisions are decentralized and democratized
 amongst the entire community [#]_. This notion of decentralized governance and transparency is aimed at stemming
 the problems of any centralized governing system that naturally creates hierarchical levels of control.
@@ -106,7 +106,7 @@ the problems of any centralized governing system that naturally creates hierarch
 
     Bitcoin's decentralized system opens a door to a new paradigm where people can choose to abide by a protocol of consensus which is a different from the logic of domination and control of a centralized paradigm. Technology can't solve everything. Technology is just a tool. It always needs to be accounted for by democratic consensus of people. Technology should never be used to replace human interaction and connection.. it should be used only to enhance it. [#]_
 
-In short, a co-op is defined as "a jointly owned enterprise engaging in the production or distribution of goods or the supplying of services, operated by its members for their mutual benefit"[#]_.  And.. in this case we include consumers into our definition as well.
+In short, a collaborative is similar to a cooperative which is a legal entity defined as "a jointly owned enterprise engaging in the production or distribution of goods or the supplying of services, operated by its members for their mutual benefit"[#]_.  And.. in this case we include consumers into our definition as well.
 
 
 CodeCoin, The currency of the ecosystem

@@ -25,7 +25,7 @@ endobj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 56 0 R /XYZ 62.69291 375.0236 0 ] /Rect [ 527.0227 595.4272 532.5827 607.4272 ] /Subtype /Link /Type /Annot >>
 endobj
 9 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 63 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 62.69291 577.4272 197.1529 589.4272 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 63 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 62.69291 577.4272 202.7129 589.4272 ] /Subtype /Link /Type /Annot >>
 endobj
 10 0 obj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 63 0 R /XYZ 62.69291 765.0236 0 ] /Rect [ 527.0227 577.4272 532.5827 589.4272 ] /Subtype /Link /Type /Annot >>
@@ -187,7 +187,7 @@ endobj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 137 0 R /XYZ 68.69291 690.6772 0 ] /Rect [ 403.4329 426.7736 407.8809 438.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 61 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 137 0 R /XYZ 68.69291 666.6772 0 ] /Rect [ 443.8054 396.7736 448.2534 408.7736 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 137 0 R /XYZ 68.69291 666.6772 0 ] /Rect [ 210.1829 384.7736 214.6309 396.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 62 0 obj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 137 0 R /XYZ 68.69291 654.6772 0 ] /Rect [ 373.2419 213.7736 377.6899 225.7736 ] /Subtype /Link /Type /Annot >>
@@ -309,7 +309,7 @@ endobj
 << /A << /S /URI /Type /Action /URI (http://falkvinge.net/2014/11/10/bitcoin-the-beginning-of-open-source-governance/) >> /Border [ 0 0 0 ] /Rect [ 153.7323 665.4272 512.2523 677.4272 ] /Subtype /Link /Type /Annot >>
 endobj
 99 0 obj
-<< /Border [ 0 0 0 ] /Contents () /Dest [ 63 0 R /XYZ 435.2929 410.0236 0 ] /Rect [ 68.69291 653.4272 74.25291 665.4272 ] /Subtype /Link /Type /Annot >>
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 63 0 R /XYZ 210.1829 398.0236 0 ] /Rect [ 68.69291 653.4272 74.25291 665.4272 ] /Subtype /Link /Type /Annot >>
 endobj
 100 0 obj
 << /A << /S /URI /Type /Action /URI (http://en.wikipedia.org/wiki/Cooperative) >> /Border [ 0 0 0 ] /Rect [ 210.4223 653.4272 383.8223 665.4272 ] /Subtype /Link /Type /Annot >>
@@ -434,7 +434,7 @@ endobj
 << /Outlines 140 0 R /PageLabels 177 0 R /PageMode /UseNone /Pages 166 0 R /Type /Catalog >>
 endobj
 139 0 obj
-<< /Author () /CreationDate (D:20150423123138+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20150424075647+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (CodeDepot: A Proposal for a Modern Software Ecosystem) >>
 endobj
 140 0 obj
@@ -448,7 +448,7 @@ endobj
 endobj
 143 0 obj
 << /Count 1 /Dest [ 63 0 R /XYZ 62.69291 765.0236 0 ] /First 144 0 R /Last 144 0 R /Next 145 0 R /Parent 140 0 R 
-  /Prev 142 0 R /Title (The CodeDepot Cooperative) >>
+  /Prev 142 0 R /Title (The CodeDepot Collaborative) >>
 endobj
 144 0 obj
 << /Dest [ 63 0 R /XYZ 62.69291 642.0236 0 ] /Parent 143 0 R /Title (Overview) >>
@@ -524,7 +524,7 @@ endobj
 << /Count 10 /Kids [ 55 0 R 56 0 R 63 0 R 67 0 R 79 0 R 83 0 R 88 0 R 89 0 R 90 0 R 137 0 R ] /Type /Pages >>
 endobj
 167 0 obj
-<< /Length 7829 >>
+<< /Length 7831 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -585,7 +585,7 @@ Q
 q
 1 0 0 1 0 399 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (The CodeDepot Cooperative) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (The CodeDepot Collaborative) Tj T* ET
 Q
 Q
 q
@@ -1015,13 +1015,13 @@ Q
 endstream
 endobj
 169 0 obj
-<< /Length 6165 >>
+<< /Length 6226 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 744.0236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (The CodeDepot Cooperative) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (The CodeDepot Collaborative) Tj T* ET
 Q
 Q
 q
@@ -1039,7 +1039,7 @@ Q
 q
 1 0 0 1 62.69291 570.0236 cm
 q
-BT 1 0 0 1 0 38 Tm 3.270697 Tw 12 TL /F1 10 Tf 0 0 0 rg (The CodeDepot Cooperative is the working name of a proposed open governance model for the) Tj T* 0 Tw .679069 Tw (CodeDepot ecosystem; where directives and decisions are decentralized and democratized amongst the) Tj T* 0 Tw .692269 Tw (entire community ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (2) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. This notion of decentralized governance and transparency is aimed at stemming the) Tj T* 0 Tw (problems of any centralized governing system that naturally creates hierarchical levels of control.) Tj T* ET
+BT 1 0 0 1 0 38 Tm 2.953555 Tw 12 TL /F1 10 Tf 0 0 0 rg (The CodeDepot Collaborative is the working name of a proposed open governance model for the) Tj T* 0 Tw .679069 Tw (CodeDepot ecosystem; where directives and decisions are decentralized and democratized amongst the) Tj T* 0 Tw .692269 Tw (entire community ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (2) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. This notion of decentralized governance and transparency is aimed at stemming the) Tj T* 0 Tw (problems of any centralized governing system that naturally creates hierarchical levels of control.) Tj T* ET
 Q
 Q
 q
@@ -1071,7 +1071,7 @@ Q
 q
 1 0 0 1 62.69291 384.0236 cm
 q
-BT 1 0 0 1 0 26 Tm 1.438221 Tw 12 TL /F1 10 Tf 0 0 0 rg (In short, a co-op is defined as "a jointly owned enterprise engaging in the production or distribution of) Tj T* 0 Tw .65481 Tw (goods or the supplying of services, operated by its members for their mutual benefit") Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (5) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. And.. in this case) Tj T* 0 Tw (we include consumers into our definition as well.) Tj T* ET
+BT 1 0 0 1 0 26 Tm 1.792765 Tw 12 TL /F1 10 Tf 0 0 0 rg (In short, a collaborative is similar to a cooperative which is a legal entity defined as "a jointly owned) Tj T* 0 Tw .36061 Tw (enterprise engaging in the production or distribution of goods or the supplying of services, operated by its) Tj T* 0 Tw (members for their mutual benefit") Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (5) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. And.. in this case we include consumers into our definition as well.) Tj T* ET
 Q
 Q
 q
@@ -4439,55 +4439,55 @@ xref
 0000026393 00000 n
 0000026509 00000 n
 0000026643 00000 n
-0000026832 00000 n
-0000026934 00000 n
-0000027137 00000 n
-0000027239 00000 n
-0000027430 00000 n
-0000027641 00000 n
-0000027757 00000 n
-0000027913 00000 n
-0000028053 00000 n
-0000028202 00000 n
-0000028354 00000 n
-0000028528 00000 n
-0000028675 00000 n
-0000028818 00000 n
-0000028955 00000 n
-0000029093 00000 n
-0000029239 00000 n
-0000029362 00000 n
-0000029536 00000 n
-0000029638 00000 n
-0000029797 00000 n
-0000029934 00000 n
-0000030069 00000 n
-0000030199 00000 n
-0000038086 00000 n
-0000043892 00000 n
-0000050115 00000 n
-0000060510 00000 n
-0000069543 00000 n
-0000076934 00000 n
-0000088771 00000 n
-0000096763 00000 n
-0000103620 00000 n
-0000112449 00000 n
-0000112589 00000 n
-0000112627 00000 n
-0000112665 00000 n
-0000112703 00000 n
-0000112741 00000 n
-0000112779 00000 n
-0000112817 00000 n
-0000112855 00000 n
-0000112893 00000 n
-0000112931 00000 n
+0000026834 00000 n
+0000026936 00000 n
+0000027139 00000 n
+0000027241 00000 n
+0000027432 00000 n
+0000027643 00000 n
+0000027759 00000 n
+0000027915 00000 n
+0000028055 00000 n
+0000028204 00000 n
+0000028356 00000 n
+0000028530 00000 n
+0000028677 00000 n
+0000028820 00000 n
+0000028957 00000 n
+0000029095 00000 n
+0000029241 00000 n
+0000029364 00000 n
+0000029538 00000 n
+0000029640 00000 n
+0000029799 00000 n
+0000029936 00000 n
+0000030071 00000 n
+0000030201 00000 n
+0000038090 00000 n
+0000043896 00000 n
+0000050180 00000 n
+0000060575 00000 n
+0000069608 00000 n
+0000076999 00000 n
+0000088836 00000 n
+0000096828 00000 n
+0000103685 00000 n
+0000112514 00000 n
+0000112654 00000 n
+0000112692 00000 n
+0000112730 00000 n
+0000112768 00000 n
+0000112806 00000 n
+0000112844 00000 n
+0000112882 00000 n
+0000112920 00000 n
+0000112958 00000 n
+0000112996 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(p\256\021\356/\035\004\300x\3632\334~a\)\203) (p\256\021\356/\035\004\300x\3632\334~a\)\203)]
+ [(Ho\363\223T}\177t\015=\003\200N7K\363) (Ho\363\223T}\177t\015=\003\200N7K\363)]
  /Info 139 0 R /Root 138 0 R /Size 188 >>
 startxref
-112970
+113035
 %%EOF
