@@ -8,7 +8,7 @@ Complexity is easy; it's simplicity that's incredibly hard.
 ---
 title:  'Proposal For a Modern Software Ecosystem'
 author: Peter Alexander, ProDataLab
-date: March 13, 2017
+date: August 28, 2017
 tags: [CodeDepot, CodeChain, WorkSource, CodeSweet, CodeCoin, software, programming, open source, flow-based programming, component-based programmming, bitcoin, blockchain]
 csl: chicago-fullnote-bibliography.csl
 bibliography: biblio.bib
