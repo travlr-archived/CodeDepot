@@ -333,6 +333,7 @@ Todo
 User interfaces (UIs) are the means by which a user interacts with a computer system. In essence a UI is a portal into the business logic that a software system enables. These portals are also termed the front-end to the business logic's back-end.. a way for a user or software agent to create, read, update or delete data elements. It can be argued that most UIs fall short in their requirements to provide this functionality in a flexible, intuitive and consistent manner. 
 
 We often see that UIs often fail with one or some of the following considerations:
+
 * Too feature-full.. overburdened by complexity
 * Context sensitivity woefully lacking in context centricity
 * Simply unintuitive
