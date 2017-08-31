@@ -297,6 +297,8 @@ most desirable and efficient to participate in.
 
 ## CodeSweet
 
+> TODO: Extend this vision with detail !!
+
 A programmers toolbox is most often burdensome and time consuming to be productive with. It could be
 argued that every tool in use by engineers is in some way problematic or simply incomplete. If every
 aspect of every tool and its interface were a component, then the programmer could fashion their tool
@@ -307,7 +309,6 @@ they like it!
 CodeSweet will be a component based toolkit where engineers have the ability to add features that they
 deem worthy.. leaving any others behind. Features like automation, intuitive instruction, reimagined
 user interfaces, and ease-of-use will be of strong focus.
-
 
 
 <!--
@@ -401,7 +402,55 @@ DONT FORGET.. INTERFACES SO EASY TO USE A FOUR YEAR OLD CAN RULE THE WORLD
     * Evangelism / Marketing
     * Documentation)
     * Holding tokens (in the "savings account")
+* Notes:
+    * The token is deflationary
+        * According to a formula (what is that formula?)
+        * It reflects on market valuation
+        * Each period (monthly?) the increase in valuation
+        
+* DASH
+    * Master nodes put up a 1000 DASH bond
+    * Provide services; recieve a dividend
+    * MasterNode paid via pool 
+        * 45% of total block reward
+    * Cost of running a node has hard and soft limit
+        * Hard
+            * 5.3 mil DASH in circulation --> (<= 5,300 nodes)
+        * Soft
+            * price to be node
+            * limited liquidity on exchanges (permits transactions?)
+                * not held as an investment (less liquidity)
+    * Formula:
+        * Reward pool is a fixed percentage
+        * Number of nodes flucuates
+        * Rewards vary via total node count
 
+~~~~
+    PaymentsPerDay := (n/t)*r*b*a 
+    ROI := ((n/t)*r*b*a*365) / 1000
+    
+    Where:
+        n is num of nodes an operator controls
+        t is the total num of nodes
+        r is current block reward (currently 5 DASH)
+        b is blocks in an avg day
+        a is the average node payment (45% of avg block amount)
+~~~~
+
+    * Masternodes perform "oracle" duties
+        * Random selection of MN to perform trusted service
+        * Bond and reputation at stake 
+
+## Metrics Used to Gauge Incentive Pool
+
+> Create a dash board to display this all
+
+* Change in token value
+    * determined by a free market
+* Change in Number of submissions to CodeDepot
+* Change in number of transactions per day
+* Change in number of daily visitors to portal
+* Change in number of end users 
 
 ## Component Based Programming (remove FBP)
 
@@ -426,12 +475,14 @@ DONT FORGET.. INTERFACES SO EASY TO USE A FOUR YEAR OLD CAN RULE THE WORLD
 ### Documentation and Instruction
 
 ### Computation and Storage
-
+    
 ### Marketing
 
 ### User Feedback
 
 ### Governance
+
+#### Proposal Mechanism
 
 ### Reputation / Profile
 * Initialized by all sources around the web
