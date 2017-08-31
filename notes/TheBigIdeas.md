@@ -10,3 +10,6 @@
 6. To provide a market place that is solely peer-to-peer and void of third party middle men
 7. Reduce the time and aggrevation required to produce software by orders of magnitude
 8. To apotheosize and reward the open source software community
+9. To pay for any and all value added to the ecosystem
+    * no matter how small the contribution, i.e. per word micro-payments
+    * paid continuously (forever?) for each and every usage of the contribution
