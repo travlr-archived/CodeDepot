@@ -85,6 +85,7 @@ Peiter Hintgens, Social Architectue - Living Systems
 
 In his book "The Wisdom of Crowds", James Surowiecki wrote, "under the right circumstances, groups are remarkably intelligent, and are often smarter than the smartest people in them." He noted that a collective intelligence usually produces better outcomes than a small group of experts, even if members of the crowd do not know all the facts or if they individually choose to act irrationally. To put it another way, a group of random people will on average be smarter than a few experts. It's a counterintuitive thesis that mocks centuries of received wisdom. So together, an engaged society will undoubtedly find the best solutions to the issues that face them. Over the past forty years the open source software community has shown that open participation provides better solutions to that of a closed system. The longevity of decentralized living systems, which self organize and are able to adapt rapidly, are much greater than that of planned centralized systems. 
 
+
 The CodeDepot Collaborative is the working name of proposed open goverance model for the CodeDepot ecosystem; where directives and decisions are decentralized and democratized amongst the entire community. This notion of decentralized goverenance and transparency is aimed at stemming the problems of any centralized governing system that inherently creates hierarchical levels of domination and control.
 
 The collaborative will utilize an infrastructure which allows for most easy access and communication. Any barriers that may cause friction of any sort in the goverance process will be sought after and removed collectively. Members that are needed in positions of trust will only earn those positions meritocratically and only through community approval. Every member shall have a voice and opportunity for rapid advancement.
@@ -92,6 +93,8 @@ The collaborative will utilize an infrastructure which allows for most easy acce
 Bitcoin's underlying technology of the blockchain, enables a radical departure from the governance model of the old world. It follows trends of decentralization that have emerged through the internet in recent years including Bittorrent, the open source movements and collaborative production platforms like Linux and Wikipedia. The essence of this game changing invention is distributed trust (no need for third party reconciliation). Blockchain solves the scaling issue of trust. With its decentralized security, we can now create a more open and inclusive society at a global scale.
 
 Bitcoin's decentralized system opens a door to a new paradigm where people can choose to abide by a protocol of consensus which is a different from the logic of domination and control of a centralized paradigm. Decentralized Autonomous Organizations, or DAOs, a new concept now available through this cutting edge technology, will provide many benefits to open and decentralized organizational structures where they are applicable. But, technology can't solve everything. Technology is just a tool. It always needs to be accounted for by democratic consensus of people. Technology should never be used to replace human interaction and connection.. it should be used only to enhance it.
+
+
 
 In short, a collaborative is similar to a cooperative which is a legal entity defined as "a jointly owned enterprise engaging in the production or distribution of goods or the supplying of services, operated by its members for their mutual benefit". And.. in this case, we include consumers into our definition of a collaborative as well. It is a very interesting question, but quite plausible at this time, whether the concept of a DAO is able to supplant any possible need for the collaborative to be a registered legal entity.
 
@@ -348,6 +351,11 @@ User Interfaces, just as software services, should be component orientated. This
 Other considerations could include builtin feedback or direct access to professional instruction and software customization. Imagine having your own accredited. fairly priced professional just a click away.
 
 <!--
+DONT FORGET.. INTERFACES SO EASY TO USE A FOUR YEAR OLD CAN RULE THE WORLD
+* Collaborative effort to identify complexity and provide solutions to make the UI as simple and best it can be!
+-->
+
+<!--
 ### Intuition focussed design
 ### Builtin, Easy access documentation and instruction
 ### Context Menus
@@ -355,19 +363,63 @@ Other considerations could include builtin feedback or direct access to professi
 -->
 
 
+## Quips
+
+* Complexity is easy, its simplicity that is incredibly hard
+* On first thought, here is how we will address platform attribute XXX
+* On second thought, first thought is completely wrong and the community will collaboratively decide the best solution for attribute XXX
 
 
 ## Automation
+* Anything that can be automated (templetized) will be automated
+* Strong incentivizations to automate and leave the need for manual tasks to humans only when it is necessary.
 
 
 
-## Social Architecture
+## Roadmap
 
+* The problem that it's very easy to promise stuff, and rather harder to make it as planned
+    * Also, priorities can shift dramatically over time.
+    * Writing down a list of things to do turns contribution into a chore rather than an opportunity.
+* There is no roadmap per se.. only itemized "issues" and there implemented solutions
+    * Release rapidly and often.
+    * Its better to ask for forgiveness than permission (unless security orientated)
+* Roadmaps are problematic
+    * A few experts decide the course of action
+    * Deadlines are problematic
+* NoRoadmap
+    * Course is set organically by the community
+    * Iterative development that releases early and often
+    
+> Recent history, much better documented and less easy to manipulate, shows this well. The Internet is surely one of the most innovative and fast-moving areas of technology, and one of the best documented. It has no inventor. Instead, it has a massive economy of people who have carefully and progressively solved a long series of immediate problems, documented their answers, and made those available to all. The innovative nature of the Internet comes not from a small, select band of Einsteins. It comes from RFCs anyone can use and improve, made by hundreds and thousands of smart, but not uniquely smart, individuals. It comes from open source software anyone can use and improve. It comes from sharing, scale of community, and the continuous accretion of good solutions and disposal of bad ones.
 
 
 ## Economic and Incentive Models
 
+* You don't need to be a software engineer to earn rewards 
+    * User feedback
+    * Evangelism / Marketing
+    * Documentation)
+    * Holding tokens (in the "savings account")
+
+
+## Component Based Programming (remove FBP)
+
+## Component Based Communities (remove CodeDepot Collaborative)
+* On second thought.. don't remove CDC.. but subsection with CBC
+* See Pieter Hintgens "Living Systems" in the "Social Architecture Book"
+
+
+## Community
+
+* Its more about a community than it is about software
+* See Pieter Hintgens "Social Architecture"
+
+### Living System
+
+
 ### Inflation, Deflation and Distribution
+* Everyone that has a token has a common interest in seeing utilitarian value added and platform adoption
 
 ### Software
 
@@ -381,21 +433,73 @@ Other considerations could include builtin feedback or direct access to professi
 
 ### Governance
 
+### Reputation / Profile
+* Initialized by all sources around the web
+    * Stackoverflow
+    * Open source projects
+    * GitHub
+    * Publications
+    * Companies worked for
+
 
 ## Minimum Viable Product
 
-
-
-## Priorities (Roadmap)
+## Designing for Innovation
+* Design is about removing friction in the use of a product
+* See Pieter Hintgens "Social Architecture"
 
 
 ## Infrastructure
+
+### Communication Tools
+* Hacker News
+    * Link to blog post or article that facilitates positive commentary
+* Stack Overflow
+    * Questions answered by domain experts
+* Problems and Solutions Terminal (PAST)
+    * Github Issues Model
+    * See ZeroMQ model (C4?)
+* Slack
+* Blog platform and aggregator
+
+### CodeSweet
+* GitBook
+    * Team based documentation platform
 
 ### Containerization and its Orchestration
 * Give a description of what it is and how it is platform agnostic
 * Used for blockchain nodes
 * Composed of microservices
+* User tools
+ 
+    * Individual work spaces {code: github, jupyterlab; writing: wikipedia sandbox, tumblr}
+    * Common work spaces {stackoverflow, slack}
+    * Great search and reference indexes
+    
+    
+## Website
+* SEO builtin to all 
 
+
+## Open Source Software
+* Millions of lines of existing code
+* Standing on the Shoulders of Giants
+    * Giants are paid too
+* Everything is a component
+    * This can't be emphasized enough
+    * Allows for easily integrated new features
+* Gather profiles from all sources on the internet
+    * This is a contributers initial KARMA
+
+## Software Licensing
+
+* Importance of GPL
+* MPLv2
+* All contributions are of this license and owned by the author only
+* CodeChain will enforce authorship in a "git" repository.
+
+## Version Control Systems and the Blockchain
+* AKA... CodeChain
 
 <!--
 Todo: network effect is important.. etc.
