@@ -42,7 +42,7 @@
      * certificatons and such, no longer require a third party of 
        trust
          * bye bye universities
-         * bye bye notories
+         * bye bye notaries
      * emphisze dissemination campaign
          * OPEN SOURCE SOFTWARE COMMUNITY
          * news organizations
@@ -58,6 +58,18 @@
         * me
         * funds
         * administration/governance
+    * emphasize usage of existing OSS code and docs
+        * everything is a component that can simply be "plugged 
+          in"
+        * even the blockchain !!!
+    * total member benefit requires all components be built 
+      directly into the platform
+    * mention that all existing OSS code can be "deposited" into 
+      CodeDepot's "repository"
+        * but, all OSS code will be broken down into components 
+          where no duplicates are integrated.
+            * a new kind of VCS public repository system !!!
+    * TRANSPARENCY !!!
 * centralization causes problems
     * economic
         * individuals data are the product and are not being 
@@ -75,12 +87,24 @@
     * creates a virtuous cycle of growth and oppurtunity for all
     * the value of the ecosystem is accrued to the contributers
     * honesty is rewarded; dishonesty is costly
+* study
+    * ethereum
+    * ipfs
+    * swarm
+    * whisper
+    * uport
+    * status
+    * wings.ai (dao platform)
 
+* whitepapers to read
+    * Boardroom Voting ~ Patrick McCorry
+        * [whitepaper](https://eprint.iacr.org/2017/110.pdf)
+    * Oracalize: a scalable architecture for on-demand untrusted delivery of entropy
+        * [website](www.oraclize.it)
+        * [whitepaper](http://www.oraclize.it/papers/random_datasource-rev1.pdf)
 
-
-
-
-
+* Study Zero-Knowledge Proofs better
+* Find and study ICO auctions (not set token price mechs)
 
 
 
