@@ -13,3 +13,4 @@
 9. To pay for any and all value added to the ecosystem
     * no matter how small the contribution, i.e. per word micro-payments
     * paid continuously (forever?) for each and every usage of the contribution
+10. Anything that can be meritoratically orientated.. will be meritoratically orientated
